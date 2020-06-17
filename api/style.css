@@ -59,10 +59,11 @@ html:root {
     top: -13px !important;
 }
 
+:root:root .v-toolbar__content,
 .main-restaurant-app-bar {
-    display: none;
+    padding: 0 !important;
+    height: auto !important;
 }
-
 :root .theme--light.v-application {
     background: none;
 }
@@ -72,6 +73,10 @@ html:root {
 }
 .v-toolbar__title {
     display: none;
+}
+.back-icon {
+    padding: 15px;
+    box-sizing: content-box;
 }
 .fill-height,
 .container-mobile,
