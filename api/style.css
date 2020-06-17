@@ -1,3 +1,8 @@
+:root {
+	--back: #f6f3ea;
+	--base: #fff;
+	--text: #004c6c;
+}
 .slide-x-reverse-transition-enter,
 .slide-x-reverse-transition-leave-to {
 	transform: scale(0.96) !important;
@@ -6,13 +11,15 @@
 :root:root * {
 	box-shadow: none !important;
 }
+
+.v-application .white,
 html:root {
-	background: #f6f3ea;
+	background: var(--back) !important;
 	text-rendering: auto;
 	-moz-osx-font-smoothing: auto;
 }
 :root:root:root * {
-	color: #004c6c;
+	color: var(--text);
 	font: 20px/1.4 Optima, Corbel, sans-serif !important;
 	letter-spacing: normal !important;
 }
@@ -46,7 +53,7 @@ nav + header {
 	position: sticky;
 	top: 0;
 	z-index: 1;
-	background: white;
+	background: var(--base);
 	border-bottom: solid 1px #f6f3ea;
 }
 :root .v-sheet .v-sheet .section-header {
@@ -55,7 +62,7 @@ nav + header {
 :root .v-sheet.pl-4 > .v-sheet,
 :root:root .v-expansion-panel {
 	margin-top: 20px !important;
-	background: white !important;
+	background: var(--base) !important;
 	box-shadow: 0 2px 19px rgba(119, 87, 0, 0.1) !important;
 }
 :root:root .v-expansion-panel::after {
@@ -65,7 +72,7 @@ nav + header {
 	background: none !important;
 }
 .page-filters-bar--item {
-	background: white;
+	background: var(--base);
 	border-radius: 2em;
 }
 .page-filters-bar--item .search-icon {
@@ -200,9 +207,9 @@ nav + header {
 .item-card-button > .row:last-child > .d-flex {
 	/* Dettagli*/
 	/*position: absolute;
-    width: auto;
-    top: 1.3em;
-    right: 0;*/
+	width: auto;
+	top: 1.3em;
+	right: 0;*/
 }
 .row:nth-child(2) .price {
 	position: absolute;
@@ -231,7 +238,7 @@ nav + header {
 }
 
 .flex.justify-start.align-start.flex-direction > .no-gutters {
-	background: white;
+	background: var(--base);
 }
 :root:root:root:root .no-gutters .title {
 	font-weight: bold !important;
@@ -268,21 +275,23 @@ nav + header {
 	background: none;
 }
 @media (prefers-color-scheme: dark) {
+	:root {
+		--back: #002b3e;
+		--base: #004c6c;
+		--text: #fff;
+	}
+	:root .v-sheet .v-sheet .section-header,
 	.v-expansion-panel-header {
 		border-bottom-color: #002b3e;
 	}
-	.v-application .white,
-	html:root {
-		background: #002b3e !important;
-	}
-	:root:root .v-expansion-panel,
-	.v-expansion-panel-header,
-	.page-filters-bar--item,
+	.v-application .grey.lighten-5,
+	.container-mobile .v-dialog--fullscreen .page-container,
+	.container-mobile .v-dialog__content .page-container,
 	.flex.justify-start.align-start.flex-direction > .no-gutters {
 		background: #004c6c !important;
 	}
-	:root:root:root * {
-		color: white;
+	.page-filters-checkboxes .filters-checkboxes-groups .filters-checkboxes-group ul li label {
+		background: white;
 	}
 
 	.v-icon,
