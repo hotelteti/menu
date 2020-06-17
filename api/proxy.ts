@@ -4,6 +4,7 @@ import {promises as fs} from 'fs'
 import { NowRequest, NowResponse } from '@now/node'
 
 const style = fs.readFile(path.join(__dirname, 'style.css'), 'utf-8');
+const script = fs.readFile(path.join(__dirname, 'script.js'), 'utf-8');
 export default async (request: NowRequest, response: NowResponse) => {
   if (request.url === '/') {
     response.writeHead(301, {
@@ -21,6 +22,7 @@ export default async (request: NowRequest, response: NowResponse) => {
   const html = (await sourceResponse.text())
   .replace(/https:\/\/dishcovery.menu/g, request.headers['x-forwarded-proto'] + '://' + request.headers.host)
   .replace('</body>', '<style>' + await style + '</style></body>')
+  .replace('</head>', '<script>' + await script + '</script></head>')
   .replace(/\.00",/g, ' ",')
   .replace(/\.(\d)0",/g, ',$1 ",')
 
