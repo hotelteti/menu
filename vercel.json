@@ -4,6 +4,10 @@
   },
   "routes": [
     {
+      "src": "/reset",
+      "dest": "/api/reset"
+    },
+    {
       "src": "(.*)",
       "dest": "/api/proxy"
     }
