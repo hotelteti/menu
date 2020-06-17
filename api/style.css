@@ -284,6 +284,7 @@ nav + header {
 	.v-expansion-panel-header {
 		border-bottom-color: #002b3e;
 	}
+	.page-filters-checkboxes,
 	.v-application .grey.lighten-5,
 	.container-mobile .v-dialog--fullscreen .page-container,
 	.container-mobile .v-dialog__content .page-container,
