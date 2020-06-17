@@ -1,4 +1,3 @@
-
 html:root {
     background: #f6f3ea;
     text-rendering: auto;
@@ -201,6 +200,9 @@ html:root {
 .flex.justify-start.align-start.flex-direction > .no-gutters {
     background: white;
 }
+:root:root:root:root .no-gutters .title {
+    font-weight: bold !important;
+}
 
 :root:root .tag-name {
     font-size: 0.7em !important;
@@ -228,4 +230,31 @@ html:root {
 }
 .bottom-review-box {
     display: none !important;
+}
+
+.theme--light.v-sheet {
+    background: none;
+}
+@media (prefers-color-scheme: dark) {
+    .v-expansion-panel-header {
+        border-bottom-color: #002b3e;
+    }
+    .v-application .white,
+    html:root {
+        background: #002b3e !important;
+    }
+    :root:root .v-expansion-panel,
+    .v-expansion-panel-header,
+    .page-filters-bar--item,
+    .flex.justify-start.align-start.flex-direction > .no-gutters {
+        background: #004c6c !important;
+    }
+    :root:root:root * {
+        color: white;
+    }
+
+    .v-icon,
+    .back-icon {
+        filter: invert(100%)
+    }
 }
