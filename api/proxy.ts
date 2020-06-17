@@ -20,7 +20,7 @@ export default async (request: NowRequest, response: NowResponse) => {
 
   const html = (await sourceResponse.text())
   .replace(/https:\/\/dishcovery.menu/g, 'https://' + request.headers.host)
-  .replace('</head>', '<style>' + await style + '</style></head>')
+  .replace('</body>', '<style>' + await style + '</style></body>')
   .replace(/\.00€/g, ' €')
   .replace(/(\.\d)0€/g, '$1 €')
 
