@@ -3,6 +3,9 @@
 	--base: #fff;
 	--text: #004c6c;
 }
+.splash-dishcovery-logo {
+	display: none;
+}
 .slide-x-reverse-transition-enter,
 .slide-x-reverse-transition-leave-to {
 	transform: scale(0.96) !important;
