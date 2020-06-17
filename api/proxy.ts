@@ -19,11 +19,12 @@ export default async (request: NowRequest, response: NowResponse) => {
   })
 
   const html = (await sourceResponse.text())
-  .replace(/https:\/\/dishcovery.menu/g, 'https://' + request.headers.host)
+  .replace(/https:\/\/dishcovery.menu/g, request.headers['x-forwarded-proto'] + '://' + request.headers.host)
   .replace('</body>', '<style>' + await style + '</style></body>')
   .replace(/\.00€/g, ' €')
   .replace(/(\.\d)0€/g, '$1 €')
 
+  response.setHeader('Content-Type', sourceResponse.headers.get('content-type'))
   response.setHeader('Cache-Control', 's-maxage=' + (30 * 24 * 3600) + ', public')
   response.end(html);
 }
