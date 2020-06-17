@@ -1,3 +1,11 @@
+.slide-x-reverse-transition-enter,
+.slide-x-reverse-transition-leave-to {
+    transform: scale(0.96) !important;
+}
+
+:root:root * {
+    box-shadow: none !important;
+}
 html:root {
     background: #f6f3ea;
     text-rendering: auto;
@@ -8,7 +16,10 @@ html:root {
     font: 20px/1.4 Optima, Corbel, sans-serif !important;
     letter-spacing: normal !important;
 }
-
+.container.fill-height {
+    align-items: flex-start;
+}
+:root:root .section-title,
 :root .v-expansion-panel-header .title {
     font-size: 30px !important;
 }
@@ -23,10 +34,14 @@ html:root {
         margin-left: -30px
     }
 }
+nav + header {
+    display: none !important;
+}
 .v-expansion-panel-content__wrap {
     padding-left: 0;
     padding-right: 0;
 }
+:root .v-sheet .v-sheet .section-header,
 .v-expansion-panel-header {
     position: sticky;
     top: 0;
@@ -34,9 +49,10 @@ html:root {
     background: white;
     border-bottom: solid 1px #f6f3ea;
 }
-:root:root * {
-    box-shadow: none !important;
+:root .v-sheet .v-sheet .section-header {
+    padding: 13px 16px !important;
 }
+:root .v-sheet.pl-4 > .v-sheet,
 :root:root .v-expansion-panel {
     margin-top: 20px !important;
     background: white !important;
@@ -55,15 +71,24 @@ html:root {
 .page-filters-bar--item .search-icon {
     margin-left: 0 !important;
 }
+.page-filters-checkboxes .filters-checkboxes-groups .filters-checkboxes-group ul li label,
+.page-filters-checkboxes .filters-checkboxes-groups .filters-checkboxes-group ul li .checkbox {
+    height: auto !important;
+}
+.page-filters-checkboxes .filters-checkboxes-groups .filters-checkboxes-group ul li label {
+    margin-top: -2px !important;
+}
 .v-text-field--outlined fieldset {
     top: -13px !important;
 }
-
-:root:root .v-toolbar__content,
-.main-restaurant-app-bar {
-    padding: 0 !important;
-    height: auto !important;
+.v-badge__badge {
+    display: none;
 }
+:root:root .search_results_typo .v-sheet {
+    margin-top: 20px;
+    padding-left: 20px !important;
+}
+
 :root .theme--light.v-application {
     background: none;
 }
@@ -74,11 +99,7 @@ html:root {
 .v-toolbar__title {
     display: none;
 }
-.back-icon {
-    padding: 15px;
-    box-sizing: content-box;
-}
-.fill-height,
+.fill-height:not(#filters-dialog),
 .container-mobile,
 .container-mobile .v-application,
 .container-mobile .page-content.v-content,
@@ -86,6 +107,13 @@ html:root {
     overflow: visible !important;
     height: auto !important;
     min-height: 100vh;
+}
+:root .filters-popup {
+    height: 100vh;
+}
+.container-mobile .page-content.v-content,
+.container-mobile .v-application {
+    height: 99%;
 }
 
 .container-mobile .page-content.v-content .v-application--wrap,
@@ -97,6 +125,7 @@ html:root {
     position: relative !important;
 }
 
+:root .search-content,
 :root .main-restaurant-content,
 #main-restaurant-content {
     padding-top: 20px !important;
@@ -142,9 +171,8 @@ html:root {
 }
 
 :root .item-card-button {
-    padding: 0 !important;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 0;
+    margin-right: 10px;
     margin-bottom: 40px !important;
 }
 .item-card-button > .row:first-child .pt-2 {
