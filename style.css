@@ -3,6 +3,13 @@
 	--base: #fff;
 	--text: #004c6c;
 }
+@media (prefers-color-scheme: dark) {
+	:root {
+		--back: #002b3e;
+		--base: #004c6c;
+		--text: #fff;
+	}
+}
 
 body {
 	margin: auto;
