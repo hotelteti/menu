@@ -1,5 +1,6 @@
 {
     "scripts": {
-        "update": "curl 'https://menuteti.it/api/v3/restaurants/a0329009700a7824d1be0d00d6f3e1c1/static?lang=it' > static.json"
+        "update": "curl 'https://menuteti.it/api/v3/restaurants/a0329009700a7824d1be0d00d6f3e1c1/static?lang=it' > static.json",
+        "start": "browser-sync start --server --files '*'"
     }
 }
