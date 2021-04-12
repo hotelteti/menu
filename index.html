@@ -1,0 +1,95 @@
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Menu Ristorante Teti</title>
+	<link rel="stylesheet" href="style.css">
+<script>
+		let html = ''
+		const w = x => html += x;
+		(async () => {
+			const response = await fetch('./static.json');
+			const json = await response.json();
+			for (const cat of json.menucategories) {
+				w('<details><summary><h1>' + cat.name + '</h1></summary><div class="details-content">');
+
+				for (const dish of cat.menuentries) {
+					w('<div class="dish">')
+					w('<div class="dish-info">')
+					w('<h2>' + dish.name + '</h2>');
+					if(dish.description) {
+						w('<p>' + dish.description + '</p>')
+					}
+					w('<p>')
+					for (const ingredient of dish.ingredients) {
+						w(ingredient.name.replace(/2/g, '\u00b2').replace(/1/g, '\u00b9') + ', ');
+					}
+					w('</p>')
+					w('<p>')
+					for (const tag of dish.tags) {
+						if (!/Specialità|Tradizionalità/.test(tag.name)) {
+							w(tag.name + ', ');
+						}
+					}
+					w('</p>')
+					if (dish.allergentags.length) {
+						w('<p>Allergeni: ')
+						for (const allergen of dish.allergentags) {
+							w(allergen.name + ', ');
+						}
+						w('</p>')
+					}
+					w('</div>')
+
+					if(dish.image) {
+						w(`<img src="${dish.image}">`)
+					}
+					w('<strong>'+ dish.price + dish.price_mode.replace('/hg', ' per 100g') +'</strong>')
+					w('</div>')
+
+				}
+				w('</div></details>')
+			}
+
+			for (const cat of json.menudrinkcategories) {
+				w('<details><summary><h1>' + cat.name + '</h1></summary><div class="details-content">');
+
+				for (const dish of json.menuentries) {
+					if (cat.id !== dish.category_id) {
+						continue;
+					}
+					w('<div class="dish">')
+					w('<div class="dish-info">')
+					w('<h2>' + dish.name + '</h2>');
+					if(dish.description) {
+						w('<p>' + dish.description + '</p>')
+					}
+					w('<p>')
+					for (const ingredient of dish.ingredients) {
+						w(ingredient.name.replace(/2/g, '\u00b2').replace(/1/g, '\u00b9') + ', ');
+					}
+					w('</p>')
+					w('<p>')
+					for (const tag of dish.tags) {
+						if (!/Specialità|Tradizionalità/.test(tag.name)) {
+							w(tag.name + ', ');
+						}
+					}
+					w('</p>')
+					w('</div>')
+
+					if(dish.image) {
+						w(`<img src="${dish.image}">`)
+					}
+					w('<strong>'+ dish.price + dish.price_mode.replace('/hg', ' per 100g') +'</strong>')
+					w('</div>')
+				}
+				w('</div></details>')
+			}
+			document.body.innerHTML += html.replace(/, </g, '<');
+		})()
+	</script>
+</head>
+<body>
+</body>
+</html>
