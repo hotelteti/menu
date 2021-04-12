@@ -23,14 +23,17 @@ nav {
 	justify-content: center;
 	align-items: center;
 }
+
 nav img {
 	height: 50px;
 	width: auto;
 }
+
 nav .nav {
 	display: flex;
 	margin-left: auto;
 }
+
 nav a {
 	text-decoration: none;
 	display: inline-block;
@@ -40,16 +43,18 @@ nav a {
 	border-radius: 5em;
 	border: solid 1px transparent
 }
+
 nav a[href="./"] {
 	border-top-right-radius: 0;
 	border-bottom-right-radius: 0;
 }
+
 nav a[href="./bevande.html"] {
 	border-top-left-radius: 0;
 	border-bottom-left-radius: 0;
 }
-.cibo nav a[href="./"],
-.bevande nav a[href="./bevande.html"] {
+
+.cibo nav a[href="./"], .bevande nav a[href="./bevande.html"] {
 	border-color: inherit
 }
 
@@ -68,6 +73,7 @@ h1 {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
+
 h1:before {
 	content: '';
 	display: block;
@@ -87,24 +93,31 @@ h1:before {
 details:nth-of-type(1) h1:before {
 	background-color: #0080a9;
 }
+
 details:nth-of-type(2) h1:before {
 	background-color: #0098b1;
 }
+
 details:nth-of-type(3) h1:before {
 	background-color: #00b0ba;
 }
+
 details:nth-of-type(4) h1:before {
 	background-color: #7cd6cb;
 }
+
 details:nth-of-type(5) h1:before {
 	background-color: #fdfcdb;
 }
+
 details:nth-of-type(6) h1:before {
 	background-color: #ffecc8;
 }
+
 details:nth-of-type(7) h1:before {
 	background-color: #ffd9b4;
 }
+
 details:nth-of-type(8) h1:before {
 	background-color: #f9a58c;
 }
@@ -112,52 +125,63 @@ details:nth-of-type(8) h1:before {
 .bevande details:nth-of-type(1) h1:before {
 	background-color: #fff8f7;
 }
+
 .bevande details:nth-of-type(2) h1:before {
 	background-color: #fef0ef;
 }
+
 .bevande details:nth-of-type(3) h1:before {
 	background-color: #fee1dd;
 }
+
 .bevande details:nth-of-type(4) h1:before {
 	background-color: #fdd1cd;
 }
+
 .bevande details:nth-of-type(5) h1:before {
 	background-color: #dc7472;
 }
+
 .bevande details:nth-of-type(6) h1:before {
 	background-color: #f6978b;
 }
+
 .bevande details:nth-of-type(7) h1:before {
 	background-color: #fcc4a9;
 }
+
 .bevande details:nth-of-type(8) h1:before {
 	background-color: #ffe3c9;
 }
+
 h2 {
 	font-style: 20px;
 	font-weight: normal;
 	margin-top: 0;
 	margin-bottom: 0;
 }
+
 details {
 	position: relative;
 	margin: 20px 0;
 	background: var(--base);
 	box-shadow: 0 2px 19px rgba(119, 87, 0, 0.1);
 }
+
 summary::-webkit-details-marker {
-  display:none;
+	display: none;
 }
+
 summary {
 	list-style-type: none;
 	cursor: pointer;
 	position: sticky;
 	top: 0;
 }
+
 summary:focus {
 	outline: none;
 }
-
 
 .details-content {
 	padding: 13px;
@@ -167,12 +191,15 @@ summary:focus {
 	display: flex;
 	margin-bottom: 40px !important;
 }
+
 .dish strong {
 	white-space: nowrap;
 }
+
 .dish-info {
 	flex-grow: 1;
 }
+
 .dish img {
 	width: 80px;
 	height: 80px;
@@ -181,6 +208,7 @@ summary:focus {
 	margin: 10px;
 	margin-right: 0;
 }
-.dish h2 + .ingredient {
+
+.dish h2+.ingredient {
 	margin-top: 0;
 }
