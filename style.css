@@ -219,3 +219,6 @@ summary:focus {
 .dish h2+.ingredient {
 	margin-top: 0;
 }
+footer {
+	font-size: 20px;
+}
