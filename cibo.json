@@ -1,0 +1,452 @@
+{
+	"Sezione": [
+		{
+			"Titolo": "I nostri antipasti",
+			"Piatto": [
+				{
+					"Nome": "Nuvola di Mare, veli di seppia¹ con maionese di sedano, tentacoli di polpo² grigliato e mousse di patate ai gamberetti",
+					"Allergeni": "Allergeni: Glutine, Crostacei, Uova e derivati, Sedano",
+					"Foto": "images/image_1591889253.jpeg",
+					"Prezzo": "15 €"
+				},
+				{
+					"Nome": "Capocollo di Martina Franca con burrata salentina, crumble di frise integrali condite con pomodoro, olio evo e basilico",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Foto": "images/image_1591889424.jpeg",
+					"Prezzo": "18 €"
+				},
+				{
+					"Nome": "Gamberi viola di Gallipoli custoditi in gelée al limone, con cubi di melone, adagiati su misticanza condita con citronette, crema di avocado e corallo vegetale",
+					"Allergeni": "Allergeni: Glutine, Crostacei",
+					"Foto": "images/image_1595536232.jpeg",
+					"Prezzo": "18 €"
+				},
+				{
+					"Nome": "Insalata di mare con gamberi¹, seppia², calamaro², polpo², julienne di verdure, ciuffo di cipolla Tropea in agrodolce con un graffio di maionese di sedano e rapa rossa",
+					"Allergeni": "Allergeni: Crostacei, Sedano",
+					"Prezzo": "14 €"
+				},
+				{
+					"Nome": "Fantasia vegetale con involtino di melanzane caciocavallo pinoli e pane aromatizzato, cipolla ubriaca al forno, caponata, tortino di patate e zucchine con crema di grana, rollè di peperoni",
+					"Tipo": "Vegetariano",
+					"Allergeni": "Allergeni: Glutine, Anidride solforosa o solfiti, Latte e derivati",
+					"Prezzo": "14 €"
+				},
+				{
+					"Nome": "Arcobaleno di rape rosse e carote con riso nero aromatico “Gioiello”, pecorino semi-stagionato, medaglione di verdure con mais croccante, crema di piselli¹ ed emulsione alla menta con olio evo e aceto di mele",
+					"Tipo": "Vegetariano",
+					"Allergeni": "Allergeni: Latte e derivati",
+					"Foto": "images/image_1595579089.jpeg",
+					"Prezzo": "14 €"
+				}
+			]
+		},
+		{
+			"Titolo": "Primi",
+			"Piatto": [
+				{
+					"Nome": "Tagliolini Teti con vongole e brunoise di zucchine con pioggia di menta fresca e scorza di limone",
+					"Allergeni": "Allergeni: Glutine, Molluschi",
+					"Foto": "images/image_1595580379.jpeg",
+					"Prezzo": "14 €"
+				},
+				{
+					"Nome": "Gigli Santamaria di semola integrale bio “Senatore Cappelli” con pomodoro, sfilacciata di carne bovina Italiana e mousse di pecorino stagionato in grotta",
+					"Tipo": "Bio",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "15 €"
+				},
+				{
+					"Nome": "Riso “Karbor” ai gamberi viola di Gallipoli scottati, con zafferano di Zollino, polvere di clorofilla di prezzemolo e scaglie di mandorle tostate",
+					"Allergeni": "Allergeni: Frutta a guscio",
+					"Foto": "images/image_1595582694.jpeg",
+					"Prezzo": "14 €"
+				},
+				{
+					"Nome": "Linguine ai frutti di mare con cozze, vongole, gamberetti¹, scampo¹ e pomodorini",
+					"Allergeni": "Allergeni: Crostacei, Molluschi",
+					"Prezzo": "14 €"
+				},
+				{
+					"Nome": "Orecchiette Gourmet con pomodorini e formaggio vaccino, crema di cime di rapa con burrata Salentina",
+					"Tipo": "Vegetariano",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "13 €"
+				},
+				{
+					"Nome": "Crema di Ceci Neri di Zollino con cipolle rosse di Tropea, puntarelle in agrodolce e crostino di pane",
+					"Tipo": "Vegetariano, Vegano",
+					"Allergeni": "Allergeni: Glutine",
+					"Foto": "images/image_1595582997.jpeg",
+					"Prezzo": "12 €"
+				},
+				{
+					"Nome": "Cicorie estive con purea di Fave, olio evo a crudo e crostini di pane",
+					"Tipo": "Vegetariano, Vegano",
+					"Allergeni": "Allergeni: Glutine",
+					"Prezzo": "11 €"
+				}
+			]
+		},
+		{
+			"Titolo": "Secondi",
+			"Piatto": [
+				{
+					"Nome": "Gamberoni Viola¹ di Gallipoli a scelta tra crudi, al sale o alla griglia",
+					"Tipo": "Bio, Gluten Free",
+					"Allergeni": "Allergeni: Crostacei",
+					"Prezzo": "9 € per 100g"
+				},
+				{
+					"Nome": "Polpo² alla Pignata con pomodorino ciliegino e crostini",
+					"Allergeni": "Allergeni: Glutine",
+					"Prezzo": "14 €"
+				},
+				{
+					"Nome": "Frittura mista di Pesce dello Ionio con totani, gamberetti e pesce azzurro",
+					"Prezzo": "14 €"
+				},
+				{
+					"Nome": "Pignata di Cozze alla Gallipolina con pomodorino, formaggio vaccino stagionato e pangrattato\n\t\t\t\t\t",
+					"Allergeni": "Allergeni: Glutine",
+					"Prezzo": "12 €"
+				},
+				{
+					"Nome": "Filetti di pesce del giorno dorato al forno, con pomodori secchi e pistacchio, scarabocchi di maionese di rucola, accompagnata da verdure allo zenzero",
+					"Allergeni": "Allergeni: Glutine, Arachidi, Frutta a guscio",
+					"Prezzo": "7 € per 100g"
+				},
+				{
+					"Nome": "Filetto di pesce del giorno in padella al timo con verdure allo zenzero su mousse di melanzane e vegetali croccanti",
+					"Allergeni": "Allergeni: Glutine, Pesce",
+					"Prezzo": "7 € per 100g"
+				},
+				{
+					"Nome": "Il pescato del giorno varia, di conseguenza la sua preparazione che può essere al sale, alla griglia, o al forno. Il prezzo si intende al lordo del peso",
+					"Prezzo": "6 € per 100g"
+				},
+				{
+					"Nome": "Tagliata di Manzo al Negroamaro",
+					"Allergeni": "Allergeni: Anidride solforosa o solfiti",
+					"Prezzo": "15 €"
+				},
+				{
+					"Nome": "Fettina di Manzo alla Griglia",
+					"Prezzo": "10 €"
+				},
+				{
+					"Nome": "Zuppa di Pesce della Chef (Solo su ordinazione)",
+					"Prezzo": "25 €"
+				},
+				{
+					"Nome": "Taieddhra (Solo su ordinazione)",
+					"Descrizione": "Riso, Cozze, patate. Minimo due porzioni",
+					"Prezzo": "€"
+				}
+			]
+		},
+		{
+			"Titolo": "Contorni",
+			"Piatto": [
+				{
+					"Nome": "Verdure Grigliate",
+					"Descrizione": "Zucchine, Melanzane, Peperoni",
+					"Tipo": "Vegetariano, Vegano",
+					"Prezzo": "6 €"
+				},
+				{
+					"Nome": "Cime di Rapa² Saltate",
+					"Tipo": "Vegetariano, Vegano",
+					"Prezzo": "6 €"
+				},
+				{
+					"Nome": "Cicorie all’Olio Extravergine d’Oliva",
+					"Tipo": "Vegetariano, Vegano",
+					"Prezzo": "6 €"
+				},
+				{
+					"Nome": "Insalata Verde",
+					"Tipo": "Vegetariano, Vegano",
+					"Prezzo": "3 €"
+				},
+				{
+					"Nome": "Insalata di Pomodori",
+					"Tipo": "Vegetariano, Vegano",
+					"Prezzo": "3 €"
+				},
+				{
+					"Nome": "Insalata Mista",
+					"Tipo": "Vegetariano, Vegano",
+					"Prezzo": "3,5 €"
+				},
+				{
+					"Nome": "Insalatona",
+					"Descrizione": "Insalata verde, radicchio, Emmental, mozzarella, tonno, olive",
+					"Tipo": "Vegetariano",
+					"Allergeni": "Allergeni: Latte e derivati",
+					"Prezzo": "8 €"
+				}
+			]
+		},
+		{
+			"Titolo": "Fritti",
+			"Piatto": [
+				{
+					"Nome": "Patatine² Fritte",
+					"Allergeni": "Allergeni: Arachidi",
+					"Prezzo": "3,5 €"
+				},
+				{
+					"Nome": "Panzerotti¹ di Patate e Menta",
+					"Tipo": "Vegetariano",
+					"Allergeni": "Allergeni: Glutine, Uova e derivati, Arachidi, Latte e derivati",
+					"Prezzo": "3,5 €"
+				},
+				{
+					"Nome": "Crocchette² di Patate",
+					"Tipo": "Vegetariano",
+					"Allergeni": "Allergeni: Glutine, Uova e derivati, Arachidi, Latte e derivati",
+					"Prezzo": "3,5 €"
+				}
+			]
+		},
+		{
+			"Titolo": "Le nostre pizze",
+			"Piatto": [
+				{
+					"Nome": "Pizza Pane",
+					"Descrizione": "Olio evo, rosmarino",
+					"Allergeni": "Allergeni: Glutine",
+					"Prezzo": "3 €"
+				},
+				{
+					"Nome": "Marinara",
+					"Descrizione": "Pomodoro, Aglio, origano",
+					"Allergeni": "Allergeni: Glutine",
+					"Prezzo": "3,5 €"
+				},
+				{
+					"Nome": "Margherita",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "4,5 €"
+				},
+				{
+					"Nome": "Quattro Formaggi",
+					"Descrizione": "Pomodoro, mozzarella, gorgonzola, scamorza affumicata, grana",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "6 €"
+				},
+				{
+					"Nome": "Tonno",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "5,5 €"
+				},
+				{
+					"Nome": "Würstel",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "5 €"
+				},
+				{
+					"Nome": "Napoli",
+					"Allergeni": "Allergeni: Glutine, Pesce, Latte e derivati",
+					"Prezzo": "5,5 €"
+				},
+				{
+					"Nome": "Milano",
+					"Descrizione": "Pomodoro, mozzarella, salame di milano e gorgonzola.",
+					"Prezzo": "6,5 €"
+				},
+				{
+					"Nome": "Prosciutto Cotto",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "5,5 €"
+				},
+				{
+					"Nome": "Prosciutto e Funghi",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "6 €"
+				},
+				{
+					"Nome": "Frutti di Mare",
+					"Descrizione": "Pomodoro, mozzarella, Cozze, polpo², seppia², calamaro²",
+					"Allergeni": "Allergeni: Glutine, Crostacei, Molluschi, Latte e derivati",
+					"Prezzo": "8 €"
+				},
+				{
+					"Nome": "Capricciosa",
+					"Descrizione": "Pomodoro, mozzarella, olive, Peperoni, prosciutto cotto, funghi, carciofi",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "7,5 €"
+				},
+				{
+					"Nome": "Teti",
+					"Descrizione": "Pomodoro, mozzarella di bufala DOP, capocollo di Martina Franca, crema di carciofi",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "10 €"
+				},
+				{
+					"Nome": "Dietetica",
+					"Descrizione": "Pomodoro, mozzarella, grana, prosciutto crudo di Parma, rucola",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "8 €"
+				},
+				{
+					"Nome": "Vegetariana",
+					"Descrizione": "Pomodoro, mozzarella, Peperoni, Melanzane, Zucchine",
+					"Tipo": "Vegano",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "7 €"
+				},
+				{
+					"Nome": "Americana",
+					"Descrizione": "Pomodoro, mozzarella, salsiccia, patatine² fritte, ketchup",
+					"Allergeni": "Allergeni: Glutine, Arachidi, Latte e derivati",
+					"Prezzo": "6,5 €"
+				},
+				{
+					"Nome": "Prosciutto Crudo",
+					"Descrizione": "Pomodoro, mozzarella, prosciutto crudo di Parma",
+					"Prezzo": "7 €"
+				},
+				{
+					"Nome": "Piemontese",
+					"Descrizione": "Pomodoro, mozzarella, scamorza affumicata, porcini²",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "7,5 €"
+				},
+				{
+					"Nome": "Prosciutto e Tonno",
+					"Allergeni": "Allergeni: Glutine, Pesce, Latte e derivati",
+					"Prezzo": "6,5 €"
+				},
+				{
+					"Nome": "Diavola",
+					"Descrizione": "Pomodoro, mozzarella, olive, ventricina (salame piccante)",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "6,5 €"
+				},
+				{
+					"Nome": "Quattro Stagioni",
+					"Descrizione": "Pomodoro, mozzarella, prosciutto cotto, funghi, carciofi, olive",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "7 €"
+				},
+				{
+					"Nome": "La Ficata (Se disponibile)",
+					"Descrizione": "Pomodoro, mozzarella, prosciutto crudo di Parma, fichi¹",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "8 €"
+				},
+				{
+					"Nome": "Boscaiola",
+					"Descrizione": "Pomodoro, mozzarella, salsiccia, porcini²",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "7,5 €"
+				},
+				{
+					"Nome": "Pugliese",
+					"Descrizione": "Pomodoro, mozzarella, olive nere, cipolla",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "5 €"
+				},
+				{
+					"Nome": "Crudaiola",
+					"Descrizione": "Pomodoro, mozzarella, grana, rucola, pomodorini",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "6,6 €"
+				},
+				{
+					"Nome": "Sorrentina",
+					"Descrizione": "Pomodoro, mozzarella di bufala DOP, basilico",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "7 €"
+				},
+				{
+					"Nome": "Ortomare",
+					"Descrizione": "Pomodoro, mozzarella, Zucchine, pomodorini, gamberetti¹",
+					"Prezzo": "7,5 €"
+				},
+				{
+					"Nome": "Sfiziosa",
+					"Descrizione": "Pomodoro, mozzarella, gamberetti¹, porcini², prezzemolo",
+					"Allergeni": "Allergeni: Glutine, Crostacei, Latte e derivati",
+					"Prezzo": "8 €"
+				},
+				{
+					"Nome": "Fumé",
+					"Descrizione": "Pomodoro, mozzarella, scamorza affumicata, speck",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "7 €"
+				},
+				{
+					"Nome": "Atlantica",
+					"Descrizione": "Pomodoro, mozzarella, pomodorini, tonno, salmone affumicato",
+					"Allergeni": "Allergeni: Glutine, Pesce, Latte e derivati",
+					"Prezzo": "8 €"
+				},
+				{
+					"Nome": "Estate",
+					"Descrizione": "Mozzarella, pomodorini, rucola, grana",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "6 €"
+				},
+				{
+					"Nome": "Fresca",
+					"Descrizione": "Mozzarella, gamberetti, salmone affumicato, olive nere, rucola",
+					"Allergeni": "Allergeni: Glutine, Crostacei, Pesce, Latte e derivati",
+					"Prezzo": "8 €"
+				},
+				{
+					"Nome": "La Burrosa",
+					"Descrizione": "Burrata, bresaola, Pomodoro, fior di latte, noci fuori forno",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "10 €"
+				}
+			]
+		},
+		{
+			"Titolo": "Pizze per bambini",
+			"Piatto": [
+				{
+					"Nome": "Margherita Piccola",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "3,5 €"
+				},
+				{
+					"Nome": "Prosciutto Piccola",
+					"Allergeni": "Allergeni: Glutine, Latte e derivati",
+					"Prezzo": "4,5 €"
+				}
+			]
+		},
+		{
+			"Titolo": "Dessert",
+			"Piatto": [
+				{
+					"Nome": "Dolce del Giorno fatto in casa",
+					"Prezzo": "5 €"
+				},
+				{
+					"Nome": "Sorbetto al Limone Analcolico",
+					"Prezzo": "3 €"
+				},
+				{
+					"Nome": "Tartufo Artigianale al cioccolato fondente",
+					"Prezzo": "5 €"
+				},
+				{
+					"Nome": "Tartufo Artigianale al pistacchio di Bronte",
+					"Prezzo": "5 €"
+				},
+				{
+					"Nome": "Spumone artigianale al mostacciolo Salentino",
+					"Prezzo": "5 €"
+				},
+				{
+					"Nome": "Spumone artigianale mandorle e fichi",
+					"Prezzo": "5 €"
+				}
+			]
+		}
+	]
+}

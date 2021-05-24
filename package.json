@@ -1,20 +1,6 @@
 {
-  "private": true,
-  "name": "dishcovery",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "backup": "curl 'https://menuteti.it/api/v3/restaurants/a0329009700a7824d1be0d00d6f3e1c1/static?lang=it' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0' -H 'Accept: application/json, text/plain, */*' -H 'Accept-Language: it' --compressed -H 'DNT: 1' -H 'Referer: https://menuteti.it/app/restaurants/a0329009700a7824d1be0d00d6f3e1c1' -H 'Connection: keep-alive' -H 'TE: Trailers' > backup/static.json; npx prettier --write --single-quote --use-tabs backup/static.json"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@now/node": "^1.6.1",
-    "@types/http-proxy": "^1.17.4",
-    "http-proxy": "^1.18.1",
-    "node-fetch": "^2.6.0"
-  }
+    "scripts": {
+        "update": "curl 'https://menuteti.it/api/v3/restaurants/a0329009700a7824d1be0d00d6f3e1c1/static?lang=it' > static.json",
+        "start": "browser-sync start --server --files '*'"
+    }
 }
