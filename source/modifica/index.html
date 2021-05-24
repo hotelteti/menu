@@ -5,33 +5,32 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Menu Ristorante Teti</title>
 	<script src="https://get.mavo.io/v0.2.3/mavo.min.js"></script>
+	<script src="mavo-locale-it.js"></script>
 	<link rel="stylesheet" href="https://get.mavo.io/v0.2.3/mavo.min.css">
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="../style.css">
 </head>
 
 <body class="cibo" mv-app="cibo" mv-storage="https://github.com/fregante/menuteti.it">
 	<nav>
-		<img src="logo.png" alt="Ristorante Teti" height="104" width="130">
+		<img src="../logo.png" alt="Ristorante Teti" height="104" width="130">
 		<div class="nav">
 			<a href="./">Cibo</a>
 			<a href="./bevande.html">Bevande</a>
 		</div>
 	</nav>
-	<details open property="Sezione" mv-multiple>
-		<summary>
-			<h1 property="Titolo"></h1>
-		</summary>
+	<div class="section" property="Sezione" mv-multiple>
+		<h1 property="Titolo"></h1>
 		<div class="details-content">
 			<div class="dish" property="Piatto" mv-multiple>
 				<div class="dish-info">
 					<h2 property="Nome"></h2>
-					<p class="ingredient" property="Ingredienti o descrizione"></p>
+					<p class="ingredient" property="Descrizione"></p>
 					<p class="allergeni" property="Allergeni"></p>
 					<p class="Tipo" property="Tipo"></p>
-				</div><img src="" property="Foto"><strong property="Prezzo"></strong>
+				</div><img property="Foto" mv-upload-path="source/images"><strong property="Prezzo"></strong>
 			</div>
 		</div>
-	</details>
+	</div>
 	<nav>
 		<div class="nav">
 			<a href="./">Cibo</a>
@@ -40,14 +39,12 @@
 	</nav>
 
 	<footer>
-		<p>Informazioni</p>
+		<p property="Informazioni">Informazioni
 
-		<p>
-			¹ Prodotto fresco Abbattuto secondo la legge vigente <br>
+			¹ Prodotto fresco Abbattuto secondo la legge vigente
 			² Prodotto surgelato all'origine
-		</p>
 
-		<p>Servizio 1,5 € a persona</p>
+			Servizio 1,5 € a persona</p>
 	</footer>
 </body>
 

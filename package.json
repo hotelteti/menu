@@ -1,6 +1,14 @@
 {
-    "scripts": {
-        "update": "curl 'https://menuteti.it/api/v3/restaurants/a0329009700a7824d1be0d00d6f3e1c1/static?lang=it' > static.json",
-        "start": "browser-sync start --server --files '*'"
-    }
+	"private": true,
+	"scripts": {
+		"build": "parcel build 'source/**/*.html' --no-cache",
+		"start": "parcel serve 'source/**/*.html' --no-cache",
+		"mavo": "browser-sync start --server --files '*'"
+	},
+	"devDependencies": {
+		"modern-normalize": "^1.1.0",
+		"parcel": "^2.0.0-beta.3.1",
+		"posthtml-expressions": "^1.7.1",
+		"posthtml-img-autosize": "^0.1.6"
+	}
 }
