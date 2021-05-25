@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"scripts": {
-		"build": "parcel build 'source/**/*.html' --no-cache",
+		"build": "parcel build 'source/**/*.html' --no-cache --no-optimize",
 		"start": "parcel serve 'source/**/*.html' --no-cache",
 		"mavo": "browser-sync start --server --files '*'"
 	},
