@@ -33,7 +33,7 @@
 							<if condition="piatto.Tipo">
 								<p class="Tipo">{{ piatto.Tipo }}</p>
 							</if>
-						</div><if condition="piatto.Foto"><img src="{{ piatto.Foto }}"></if><strong>{{ piatto.Prezzo }}</strong>
+						</div><if condition="piatto.Foto"><a href="{{ piatto.Foto }}"><img src="{{ piatto.Foto }}"></a></if><strong>{{ piatto.Prezzo }}</strong>
 					</div>
 				</each>
 			</div>
