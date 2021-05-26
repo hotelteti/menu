@@ -29,7 +29,8 @@
 				},
 				{
 					"Nome": "Lattine da 33 cl",
-					"Descrizione": "Coca Cola, Coca Zero, Fanta, Sprite, Lemon Soda, tè al limone, tè alla pesca"
+					"Descrizione": "Coca Cola, Coca Zero, Fanta, Sprite, Lemon Soda, tè al limone, tè alla pesca",
+					"Prezzo": "3 €"
 				},
 				{
 					"Nome": "Birra alla spina Krombacher (piccola, 2 dl)",

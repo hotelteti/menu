@@ -4,28 +4,40 @@ head
   meta(name='viewport' content='width=device-width, initial-scale=1.0')
   title Menu Ristorante Teti
   link(rel='stylesheet' href='style.css')
-each section in cibo.Sezione
-  .section
-    h1= section.Titolo
-    .details-content
-      each piatto in section.Piatto
-        .dish
-          .dish-info
-            h2= piatto.Nome
-            if piatto.Descrizione
-              p.descrizione= piatto.Descrizione
-            if piatto.Allergeni
-              p.allergeni= piatto.Allergeni
-            if piatto.Tipo
-              p.Tipo= piatto.Tipo
-          if piatto.Foto
-            a(href=relativizeCDNURL(piatto.Foto))
-              img(src=relativizeCDNURL(piatto.Foto))
-          strong= piatto.Prezzo
-nav
-  img(src='logo.png' alt='Ristorante Teti' height='104' width='130')
-  .nav
-    a(href='./') Cibo
-    a(href='./bevande.html') Bevande
-footer
-  p !{ lineBreakToBr(cibo.Informazioni) }
+  script(src='main.js' defer)
+.nav
+  nav
+    .container
+      img(src='logo.png' alt='Ristorante Teti' height='104' width='130')
+  .menu.container
+    each section in lista.Sezione
+      a.ball(href='#' + slugify(section.Titolo))
+        .pill-text= section.Titolo
+main(hidden)
+  nav
+    .container
+      img(src='logo.png' alt='Ristorante Teti' height='104' width='130')
+      a.nav(href="#menu") Menu
+  .content.container
+    each section in lista.Sezione
+      .section.ball-container(id=slugify(section.Titolo))
+        h1.ball
+          .pill-text= section.Titolo
+        .details-content
+          each piatto in section.Piatto || section.Bevanda
+            .dish
+              h2= piatto.Nome
+              p
+                strong= '€ ' + piatto.Prezzo.replace('€', '')
+                if piatto.Descrizione
+                  span.descrizione= ' • ' + piatto.Descrizione
+              if piatto.Allergeni
+                p.allergeni= piatto.Allergeni
+              if piatto.Tipo
+                p.Tipo= piatto.Tipo
+            if piatto.Foto
+              button.dish-image(type="button")
+                img(loading='lazy' src=relativizeCDNURL(piatto.Foto))
+
+    footer
+      p !{ lineBreakToBr(lista.Informazioni) }
