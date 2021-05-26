@@ -17,7 +17,7 @@ main(hidden)
   nav
     .container
       img(src='logo.png' alt='Ristorante Teti' height='104' width='130')
-      a.nav(href="#menu") Menu
+      a.nav(href='#menu') Menu
   .content.container
     each section in lista.Sezione
       .section.ball-container(id=slugify(section.Titolo))
@@ -26,7 +26,7 @@ main(hidden)
         .details-content
           each piatto in section.Piatto || section.Bevanda
             if piatto.Foto
-              button.dish-image(type="button")
+              button.dish-image(type='button')
                 img(loading='lazy' src=relativizeCDNURL(piatto.Foto))
             .dish
               h2= piatto.Nome

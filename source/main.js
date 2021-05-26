@@ -6,13 +6,13 @@ window.addEventListener('popstate', event => {
 	$('main').hidden = showMenu;
 
 	if (showMenu) {
-		window.scrollTo(0,0)
+		window.scrollTo(0, 0);
 	} else {
 		$(location.hash).scrollIntoView();
 	}
-})
+});
 
-function zoomOnClick (event) {
+function zoomOnClick(event) {
 	event.currentTarget.disabled = true;
 	event.currentTarget.firstChild.style.height = 'auto';
 }
