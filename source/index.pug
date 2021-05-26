@@ -25,6 +25,9 @@ main(hidden)
           .pill-text= section.Titolo
         .details-content
           each piatto in section.Piatto || section.Bevanda
+            if piatto.Foto
+              button.dish-image(type="button")
+                img(loading='lazy' src=relativizeCDNURL(piatto.Foto))
             .dish
               h2= piatto.Nome
               p
@@ -35,9 +38,6 @@ main(hidden)
                 p.allergeni= piatto.Allergeni
               if piatto.Tipo
                 p.Tipo= piatto.Tipo
-            if piatto.Foto
-              button.dish-image(type="button")
-                img(loading='lazy' src=relativizeCDNURL(piatto.Foto))
 
     footer
       p !{ lineBreakToBr(lista.Informazioni) }
