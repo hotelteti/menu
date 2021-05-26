@@ -1,0 +1,11 @@
+textarea::-webkit-input-placeholder {
+	color: inherit;
+}
+
+h1 {
+	position: static;
+}
+
+.mv-upload-popup .mv-tip {
+	display: none;
+}

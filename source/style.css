@@ -1,3 +1,5 @@
+@import 'modern-normalize';
+
 :root {
 	--back: #f6f3ea;
 	--base: #fff;
@@ -5,7 +7,7 @@
 	--large-text: 28px;
 }
 @media (prefers-color-scheme: dark) {
-	:root {
+	:root:not([data-theme="white"]) {
 		--back: #004c6c;
 		--base: #002b3e;
 		--text: #fff;
@@ -14,10 +16,6 @@
 		filter: contrast(1000) invert();
 	}
 }
-*, *::before, *::after {
-	box-sizing: border-box;
-}
-
 
 button {
 	margin: 0;
@@ -32,14 +30,10 @@ button {
 	max-width: 768px;
 }
 
-html {
-	padding: 0;
+body {
+	background: var(--back) !important;
 	color: var(--text);
 	font: 16px/1.8em Optima, Corbel, sans-serif;
-	background: var(--back) !important;
-}
-body {
-	margin: 0;
 }
 nav {
 	margin: 20px auto;
@@ -137,6 +131,7 @@ h1 {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	position: sticky;
+	z-index: 50;
 	top: 59px;
 
 	text-align: center;

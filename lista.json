@@ -7,37 +7,37 @@
 					"Nome": "Nuvola di Mare, veli di seppia¹ con maionese di sedano, tentacoli di polpo² grigliato e mousse di patate ai gamberetti",
 					"Allergeni": "Allergeni: Glutine, Crostacei, Uova e derivati, Sedano",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1591889253.jpeg",
-					"Prezzo": "15 €"
+					"Prezzo": "15"
 				},
 				{
 					"Nome": "Capocollo di Martina Franca con burrata salentina, crumble di frise integrali condite con pomodoro, olio evo e basilico",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1591889424.jpeg",
-					"Prezzo": "18 €"
+					"Prezzo": "18"
 				},
 				{
 					"Nome": "Gamberi viola di Gallipoli custoditi in gelée al limone, con cubi di melone, adagiati su misticanza condita con citronette, crema di avocado e corallo vegetale",
 					"Allergeni": "Allergeni: Glutine, Crostacei",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1595536232.jpeg",
-					"Prezzo": "18 €"
+					"Prezzo": "18"
 				},
 				{
 					"Nome": "Insalata di mare con gamberi¹, seppia², calamaro², polpo², julienne di verdure, ciuffo di cipolla Tropea in agrodolce con un graffio di maionese di sedano e rapa rossa",
 					"Allergeni": "Allergeni: Crostacei, Sedano",
-					"Prezzo": "14 €"
+					"Prezzo": "14"
 				},
 				{
 					"Nome": "Fantasia vegetale con involtino di melanzane caciocavallo pinoli e pane aromatizzato, cipolla ubriaca al forno, caponata, tortino di patate e zucchine con crema di grana, rollè di peperoni",
 					"Tipo": "Vegetariano",
 					"Allergeni": "Allergeni: Glutine, Anidride solforosa o solfiti, Latte e derivati",
-					"Prezzo": "14 €"
+					"Prezzo": "14"
 				},
 				{
 					"Nome": "Arcobaleno di rape rosse e carote con riso nero aromatico “Gioiello”, pecorino semi-stagionato, medaglione di verdure con mais croccante, crema di piselli¹ ed emulsione alla menta con olio evo e aceto di mele",
 					"Tipo": "Vegetariano",
 					"Allergeni": "Allergeni: Latte e derivati",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1595579089.jpeg",
-					"Prezzo": "14 €"
+					"Prezzo": "14"
 				}
 			]
 		},
@@ -48,43 +48,43 @@
 					"Nome": "Tagliolini Teti con vongole e brunoise di zucchine con pioggia di menta fresca e scorza di limone",
 					"Allergeni": "Allergeni: Glutine, Molluschi",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1595580379.jpeg",
-					"Prezzo": "14 €"
+					"Prezzo": "14"
 				},
 				{
 					"Nome": "Gigli Santamaria di semola integrale bio “Senatore Cappelli” con pomodoro, sfilacciata di carne bovina Italiana e mousse di pecorino stagionato in grotta",
 					"Tipo": "Bio",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "15 €"
+					"Prezzo": "15"
 				},
 				{
 					"Nome": "Riso “Karbor” ai gamberi viola di Gallipoli scottati, con zafferano di Zollino, polvere di clorofilla di prezzemolo e scaglie di mandorle tostate",
 					"Allergeni": "Allergeni: Frutta a guscio",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1595582694.jpeg",
-					"Prezzo": "14 €"
+					"Prezzo": "14"
 				},
 				{
 					"Nome": "Linguine ai frutti di mare con cozze, vongole, gamberetti¹, scampo¹ e pomodorini",
 					"Allergeni": "Allergeni: Crostacei, Molluschi",
-					"Prezzo": "14 €"
+					"Prezzo": "14"
 				},
 				{
 					"Nome": "Orecchiette Gourmet con pomodorini e formaggio vaccino, crema di cime di rapa con burrata Salentina",
 					"Tipo": "Vegetariano",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "13 €"
+					"Prezzo": "13"
 				},
 				{
 					"Nome": "Crema di Ceci Neri di Zollino con cipolle rosse di Tropea, puntarelle in agrodolce e crostino di pane",
 					"Tipo": "Vegetariano, Vegano",
 					"Allergeni": "Allergeni: Glutine",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1595582997.jpeg",
-					"Prezzo": "12 €"
+					"Prezzo": "12"
 				},
 				{
 					"Nome": "Cicorie estive con purea di Fave, olio evo a crudo e crostini di pane",
 					"Tipo": "Vegetariano, Vegano",
 					"Allergeni": "Allergeni: Glutine",
-					"Prezzo": "11 €"
+					"Prezzo": "11"
 				}
 			]
 		},
@@ -95,53 +95,53 @@
 					"Nome": "Gamberoni Viola¹ di Gallipoli a scelta tra crudi, al sale o alla griglia",
 					"Tipo": "Bio, Gluten Free",
 					"Allergeni": "Allergeni: Crostacei",
-					"Prezzo": "9 € per 100g"
+					"Prezzo": "9 € per 10"
 				},
 				{
 					"Nome": "Polpo² alla Pignata con pomodorino ciliegino e crostini",
 					"Allergeni": "Allergeni: Glutine",
-					"Prezzo": "14 €"
+					"Prezzo": "14"
 				},
 				{
 					"Nome": "Frittura mista di Pesce dello Ionio con totani, gamberetti e pesce azzurro",
-					"Prezzo": "14 €"
+					"Prezzo": "14"
 				},
 				{
 					"Nome": "Pignata di Cozze alla Gallipolina con pomodorino, formaggio vaccino stagionato e pangrattato\n\t\t\t\t\t",
 					"Allergeni": "Allergeni: Glutine",
-					"Prezzo": "12 €"
+					"Prezzo": "12"
 				},
 				{
 					"Nome": "Filetti di pesce del giorno dorato al forno, con pomodori secchi e pistacchio, scarabocchi di maionese di rucola, accompagnata da verdure allo zenzero",
 					"Allergeni": "Allergeni: Glutine, Arachidi, Frutta a guscio",
-					"Prezzo": "7 € per 100g"
+					"Prezzo": "7 € per 10"
 				},
 				{
 					"Nome": "Filetto di pesce del giorno in padella al timo con verdure allo zenzero su mousse di melanzane e vegetali croccanti",
 					"Allergeni": "Allergeni: Glutine, Pesce",
-					"Prezzo": "7 € per 100g"
+					"Prezzo": "7 € per 10"
 				},
 				{
 					"Nome": "Il pescato del giorno varia, di conseguenza la sua preparazione che può essere al sale, alla griglia, o al forno. Il prezzo si intende al lordo del peso",
-					"Prezzo": "6 € per 100g"
+					"Prezzo": "6 € per 10"
 				},
 				{
 					"Nome": "Tagliata di Manzo al Negroamaro",
 					"Allergeni": "Allergeni: Anidride solforosa o solfiti",
-					"Prezzo": "15 €"
+					"Prezzo": "15"
 				},
 				{
 					"Nome": "Fettina di Manzo alla Griglia",
-					"Prezzo": "10 €"
+					"Prezzo": "10"
 				},
 				{
 					"Nome": "Zuppa di Pesce della Chef (Solo su ordinazione)",
-					"Prezzo": "25 €"
+					"Prezzo": "25"
 				},
 				{
 					"Nome": "Taieddhra (Solo su ordinazione)",
 					"Descrizione": "Riso, Cozze, patate. Minimo due porzioni",
-					"Prezzo": "€"
+					"Prezzo": ""
 				}
 			]
 		},
@@ -152,39 +152,39 @@
 					"Nome": "Verdure Grigliate",
 					"Descrizione": "Zucchine, Melanzane, Peperoni",
 					"Tipo": "Vegetariano, Vegano",
-					"Prezzo": "6 €"
+					"Prezzo": "6"
 				},
 				{
 					"Nome": "Cime di Rapa² Saltate",
 					"Tipo": "Vegetariano, Vegano",
-					"Prezzo": "6 €"
+					"Prezzo": "6"
 				},
 				{
 					"Nome": "Cicorie all’Olio Extravergine d’Oliva",
 					"Tipo": "Vegetariano, Vegano",
-					"Prezzo": "6 €"
+					"Prezzo": "6"
 				},
 				{
 					"Nome": "Insalata Verde",
 					"Tipo": "Vegetariano, Vegano",
-					"Prezzo": "3 €"
+					"Prezzo": "3"
 				},
 				{
 					"Nome": "Insalata di Pomodori",
 					"Tipo": "Vegetariano, Vegano",
-					"Prezzo": "3 €"
+					"Prezzo": "3"
 				},
 				{
 					"Nome": "Insalata Mista",
 					"Tipo": "Vegetariano, Vegano",
-					"Prezzo": "3,5 €"
+					"Prezzo": "3,5"
 				},
 				{
 					"Nome": "Insalatona",
 					"Descrizione": "Insalata verde, radicchio, Emmental, mozzarella, tonno, olive",
 					"Tipo": "Vegetariano",
 					"Allergeni": "Allergeni: Latte e derivati",
-					"Prezzo": "8 €"
+					"Prezzo": "8"
 				}
 			]
 		},
@@ -194,19 +194,19 @@
 				{
 					"Nome": "Patatine² Fritte",
 					"Allergeni": "Allergeni: Arachidi",
-					"Prezzo": "3,5 €"
+					"Prezzo": "3,5"
 				},
 				{
 					"Nome": "Panzerotti¹ di Patate e Menta",
 					"Tipo": "Vegetariano",
 					"Allergeni": "Allergeni: Glutine, Uova e derivati, Arachidi, Latte e derivati",
-					"Prezzo": "3,5 €"
+					"Prezzo": "3,5"
 				},
 				{
 					"Nome": "Crocchette² di Patate",
 					"Tipo": "Vegetariano",
 					"Allergeni": "Allergeni: Glutine, Uova e derivati, Arachidi, Latte e derivati",
-					"Prezzo": "3,5 €"
+					"Prezzo": "3,5"
 				}
 			]
 		},
@@ -217,190 +217,190 @@
 					"Nome": "Pizza Pane",
 					"Descrizione": "Olio evo, rosmarino",
 					"Allergeni": "Allergeni: Glutine",
-					"Prezzo": "3 €"
+					"Prezzo": "3"
 				},
 				{
 					"Nome": "Marinara",
 					"Descrizione": "Pomodoro, Aglio, origano",
 					"Allergeni": "Allergeni: Glutine",
-					"Prezzo": "3,5 €"
+					"Prezzo": "3,5"
 				},
 				{
 					"Nome": "Margherita",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "4,5 €"
+					"Prezzo": "4,5"
 				},
 				{
 					"Nome": "Quattro Formaggi",
 					"Descrizione": "Pomodoro, mozzarella, gorgonzola, scamorza affumicata, grana",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "6 €"
+					"Prezzo": "6"
 				},
 				{
 					"Nome": "Tonno",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "5,5 €"
+					"Prezzo": "5,5"
 				},
 				{
 					"Nome": "Würstel",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "5 €"
+					"Prezzo": "5"
 				},
 				{
 					"Nome": "Napoli",
 					"Allergeni": "Allergeni: Glutine, Pesce, Latte e derivati",
-					"Prezzo": "5,5 €"
+					"Prezzo": "5,5"
 				},
 				{
 					"Nome": "Milano",
 					"Descrizione": "Pomodoro, mozzarella, salame di milano e gorgonzola.",
-					"Prezzo": "6,5 €"
+					"Prezzo": "6,5"
 				},
 				{
 					"Nome": "Prosciutto Cotto",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "5,5 €"
+					"Prezzo": "5,5"
 				},
 				{
 					"Nome": "Prosciutto e Funghi",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "6 €"
+					"Prezzo": "6"
 				},
 				{
 					"Nome": "Frutti di Mare",
 					"Descrizione": "Pomodoro, mozzarella, Cozze, polpo², seppia², calamaro²",
 					"Allergeni": "Allergeni: Glutine, Crostacei, Molluschi, Latte e derivati",
-					"Prezzo": "8 €"
+					"Prezzo": "8"
 				},
 				{
 					"Nome": "Capricciosa",
 					"Descrizione": "Pomodoro, mozzarella, olive, Peperoni, prosciutto cotto, funghi, carciofi",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "7,5 €"
+					"Prezzo": "7,5"
 				},
 				{
 					"Nome": "Teti",
 					"Descrizione": "Pomodoro, mozzarella di bufala DOP, capocollo di Martina Franca, crema di carciofi",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "10 €"
+					"Prezzo": "10"
 				},
 				{
 					"Nome": "Dietetica",
 					"Descrizione": "Pomodoro, mozzarella, grana, prosciutto crudo di Parma, rucola",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "8 €"
+					"Prezzo": "8"
 				},
 				{
 					"Nome": "Vegetariana",
 					"Descrizione": "Pomodoro, mozzarella, Peperoni, Melanzane, Zucchine",
 					"Tipo": "Vegano",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "7 €"
+					"Prezzo": "7"
 				},
 				{
 					"Nome": "Americana",
 					"Descrizione": "Pomodoro, mozzarella, salsiccia, patatine² fritte, ketchup",
 					"Allergeni": "Allergeni: Glutine, Arachidi, Latte e derivati",
-					"Prezzo": "6,5 €"
+					"Prezzo": "6,5"
 				},
 				{
 					"Nome": "Prosciutto Crudo",
 					"Descrizione": "Pomodoro, mozzarella, prosciutto crudo di Parma",
-					"Prezzo": "7 €"
+					"Prezzo": "7"
 				},
 				{
 					"Nome": "Piemontese",
 					"Descrizione": "Pomodoro, mozzarella, scamorza affumicata, porcini²",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "7,5 €"
+					"Prezzo": "7,5"
 				},
 				{
 					"Nome": "Prosciutto e Tonno",
 					"Allergeni": "Allergeni: Glutine, Pesce, Latte e derivati",
-					"Prezzo": "6,5 €"
+					"Prezzo": "6,5"
 				},
 				{
 					"Nome": "Diavola",
 					"Descrizione": "Pomodoro, mozzarella, olive, ventricina (salame piccante)",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "6,5 €"
+					"Prezzo": "6,5"
 				},
 				{
 					"Nome": "Quattro Stagioni",
 					"Descrizione": "Pomodoro, mozzarella, prosciutto cotto, funghi, carciofi, olive",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "7 €"
+					"Prezzo": "7"
 				},
 				{
 					"Nome": "La Ficata (Se disponibile)",
 					"Descrizione": "Pomodoro, mozzarella, prosciutto crudo di Parma, fichi¹",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "8 €"
+					"Prezzo": "8"
 				},
 				{
 					"Nome": "Boscaiola",
 					"Descrizione": "Pomodoro, mozzarella, salsiccia, porcini²",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "7,5 €"
+					"Prezzo": "7,5"
 				},
 				{
 					"Nome": "Pugliese",
 					"Descrizione": "Pomodoro, mozzarella, olive nere, cipolla",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "5 €"
+					"Prezzo": "5"
 				},
 				{
 					"Nome": "Crudaiola",
 					"Descrizione": "Pomodoro, mozzarella, grana, rucola, pomodorini",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "6,6 €"
+					"Prezzo": "6,6"
 				},
 				{
 					"Nome": "Sorrentina",
 					"Descrizione": "Pomodoro, mozzarella di bufala DOP, basilico",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "7 €"
+					"Prezzo": "7"
 				},
 				{
 					"Nome": "Ortomare",
 					"Descrizione": "Pomodoro, mozzarella, Zucchine, pomodorini, gamberetti¹",
-					"Prezzo": "7,5 €"
+					"Prezzo": "7,5"
 				},
 				{
 					"Nome": "Sfiziosa",
 					"Descrizione": "Pomodoro, mozzarella, gamberetti¹, porcini², prezzemolo",
 					"Allergeni": "Allergeni: Glutine, Crostacei, Latte e derivati",
-					"Prezzo": "8 €"
+					"Prezzo": "8"
 				},
 				{
 					"Nome": "Fumé",
 					"Descrizione": "Pomodoro, mozzarella, scamorza affumicata, speck",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "7 €"
+					"Prezzo": "7"
 				},
 				{
 					"Nome": "Atlantica",
 					"Descrizione": "Pomodoro, mozzarella, pomodorini, tonno, salmone affumicato",
 					"Allergeni": "Allergeni: Glutine, Pesce, Latte e derivati",
-					"Prezzo": "8 €"
+					"Prezzo": "8"
 				},
 				{
 					"Nome": "Estate",
 					"Descrizione": "Mozzarella, pomodorini, rucola, grana",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "6 €"
+					"Prezzo": "6"
 				},
 				{
 					"Nome": "Fresca",
 					"Descrizione": "Mozzarella, gamberetti, salmone affumicato, olive nere, rucola",
 					"Allergeni": "Allergeni: Glutine, Crostacei, Pesce, Latte e derivati",
-					"Prezzo": "8 €"
+					"Prezzo": "8"
 				},
 				{
 					"Nome": "La Burrosa",
 					"Descrizione": "Burrata, bresaola, Pomodoro, fior di latte, noci fuori forno",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "10 €"
+					"Prezzo": "10"
 				}
 			]
 		},
@@ -410,12 +410,12 @@
 				{
 					"Nome": "Margherita Piccola",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "3,5 €"
+					"Prezzo": "3,5"
 				},
 				{
 					"Nome": "Prosciutto Piccola",
 					"Allergeni": "Allergeni: Glutine, Latte e derivati",
-					"Prezzo": "4,5 €"
+					"Prezzo": "4,5"
 				}
 			]
 		},
@@ -424,27 +424,319 @@
 			"Piatto": [
 				{
 					"Nome": "Dolce del Giorno fatto in casa",
-					"Prezzo": "5 €"
+					"Prezzo": "5"
 				},
 				{
 					"Nome": "Sorbetto al Limone Analcolico",
-					"Prezzo": "3 €"
+					"Prezzo": "3"
 				},
 				{
 					"Nome": "Tartufo Artigianale al cioccolato fondente",
-					"Prezzo": "5 €"
+					"Prezzo": "5"
 				},
 				{
 					"Nome": "Tartufo Artigianale al pistacchio di Bronte",
-					"Prezzo": "5 €"
+					"Prezzo": "5"
 				},
 				{
 					"Nome": "Spumone artigianale al mostacciolo Salentino",
-					"Prezzo": "5 €"
+					"Prezzo": "5"
 				},
 				{
 					"Nome": "Spumone artigianale mandorle e fichi",
-					"Prezzo": "5 €"
+					"Prezzo": "5"
+				}
+			]
+		},
+		{
+			"Titolo": "Bevande",
+			"Piatto": [
+				{
+					"Nome": "Acqua naturale/frizzante (litro)",
+					"Prezzo": "2"
+				},
+				{
+					"Nome": "Acqua naturale/frizzante (mezzo litro)",
+					"Prezzo": "1,2"
+				},
+				{
+					"Nome": "Coca Cola alla spina (piccola)",
+					"Prezzo": "2"
+				},
+				{
+					"Nome": "Coca Cola alla spina (media)",
+					"Prezzo": "2,5"
+				},
+				{
+					"Nome": "Coca Cola alla spina (grande)",
+					"Prezzo": "3"
+				},
+				{
+					"Nome": "Coca Cola alla spina (litro)",
+					"Prezzo": "6"
+				},
+				{
+					"Nome": "Lattine da 33 cl",
+					"Descrizione": "Coca Cola, Coca Zero, Fanta, Sprite, Lemon Soda, tè al limone, tè alla pesca",
+					"Prezzo": "3"
+				},
+				{
+					"Nome": "Birra alla spina Krombacher (piccola, 2 dl)",
+					"Prezzo": "3"
+				},
+				{
+					"Nome": "Birra alla spina Krombacher (media, 4 dl)",
+					"Prezzo": "5"
+				},
+				{
+					"Nome": "Heineken (33 cl)",
+					"Prezzo": "2,5"
+				},
+				{
+					"Nome": "Heineken (66 dl)",
+					"Prezzo": "4"
+				},
+				{
+					"Nome": "Tennent’s (33 cl)",
+					"Prezzo": "3,5"
+				},
+				{
+					"Nome": "Beck’s (33 cl)",
+					"Prezzo": "2,5"
+				},
+				{
+					"Nome": "Nastro Azzurro (33 cl)",
+					"Prezzo": "2,5"
+				},
+				{
+					"Nome": "Pinot Chardonnay alla spina (mezzo litro)",
+					"Prezzo": "4,5"
+				},
+				{
+					"Nome": "Pinot Chardonnay alla spina (calice)",
+					"Prezzo": "2,5"
+				},
+				{
+					"Nome": "Prosecco Valdobbiadene DOC (flûte)",
+					"Prezzo": "3"
+				},
+				{
+					"Nome": "Vino della casa bianco o rosso (mezzo litro)",
+					"Prezzo": "3,5"
+				}
+			]
+		},
+		{
+			"Titolo": "Birre artigianali italiane",
+			"Piatto": [
+				{
+					"Nome": "Pizzica",
+					"Descrizione": "CL. 75",
+					"Prezzo": "12"
+				},
+				{
+					"Nome": "Taranta",
+					"Descrizione": "CL. 75",
+					"Prezzo": "12"
+				},
+				{
+					"Nome": "Beggia",
+					"Descrizione": "CL. 75",
+					"Prezzo": "12"
+				},
+				{
+					"Nome": "Beggia 33 cl",
+					"Descrizione": "cl 33",
+					"Prezzo": "6"
+				}
+			]
+		},
+		{
+			"Titolo": "I vini rossi",
+			"Piatto": [
+				{
+					"Nome": "Baia di Uluzzo Primitivo - Bonsegna",
+					"Descrizione": "Salento IGP - 100% Primitivo - 13% vol.",
+					"Prezzo": "15"
+				},
+				{
+					"Nome": "Baia di Uluzzo Negroamaro - Bonsegna",
+					"Descrizione": "Salento IGP - 100% Negroamaro - 13% vol.",
+					"Prezzo": "15"
+				},
+				{
+					"Nome": "Tenuta Paraida Rosso - Marulli",
+					"Descrizione": "Copertino DOC - 80% Negroamaro - Malvasia nera di Lecce - Montepulciano - (da vigneti di oltre 40 anni) - 13,5 % vol.",
+					"Prezzo": "17"
+				},
+				{
+					"Nome": "Negroamaro - Caiaffa - BIO",
+					"Descrizione": "Puglia IGT - 100% Negroamaro - 13 % vol.",
+					"Prezzo": "21"
+				},
+				{
+					"Nome": "Niuru Maru - L’Archetipo - BIO da agricoltura sinergica",
+					"Descrizione": "Salento IGT - 100% Negroamaro - 13 % vol. - TRIPLE \"A\"\n\t\t\t\t\t",
+					"Prezzo": "27"
+				},
+				{
+					"Nome": "Mistico - L’Archetipo - BIO da agricoltura sinergica",
+					"Descrizione": "Salento IGT - 100% Primitivo - 16,5 % vol. - TRIPLE \"A\"",
+					"Prezzo": ""
+				},
+				{
+					"Nome": "Onice - Villa Amoris",
+					"Descrizione": "Puglia IGT - 100% Malvasia - 14 % vol.",
+					"Prezzo": "24"
+				}
+			]
+		},
+		{
+			"Titolo": "I vini rosati",
+			"Piatto": [
+				{
+					"Nome": "Tenuta Paraida Rosato - Marulli",
+					"Descrizione": "Copertino DOC - 100% Negroamaro - 13 % vol.",
+					"Prezzo": "18"
+				},
+				{
+					"Nome": "Anima Rosa - Vigne Monache",
+					"Descrizione": "Tarantino IGT - 100% Primitivo - 13 % vol.",
+					"Prezzo": "22"
+				},
+				{
+					"Nome": "Acheta - Caiaffa - BIO",
+					"Descrizione": "Puglia IGT - 100% Negroamaro - 13 % vol.",
+					"Prezzo": "25"
+				},
+				{
+					"Nome": "Troia Rosato - Caiaffa BIO",
+					"Descrizione": "Puglia IGT - 100% Nero di Troia - 13 % vol.",
+					"Prezzo": "20"
+				},
+				{
+					"Nome": "Pungirosa - Rivera",
+					"Descrizione": "Castel del Monte DOCG - 100% Bombino nero - 12 % vol.",
+					"Prezzo": "19"
+				},
+				{
+					"Nome": "Susumà – Le Vigne di Sammarco",
+					"Descrizione": "Salento IGT - 100% Susumaniello - 14,5 % vol.",
+					"Prezzo": "22"
+				}
+			]
+		},
+		{
+			"Titolo": "I vini bianchi",
+			"Piatto": [
+				{
+					"Nome": "Krita - L’Astore Masseria - BIO",
+					"Descrizione": "Salento IGP - 100% Malvasia Bianca - 12,5 % vol.",
+					"Prezzo": "18"
+				},
+				{
+					"Nome": "L’Astore - L’Astore Masseria BIO",
+					"Descrizione": "Salento IGP - 100% Malvasia Bianca affinato per 8 mesi in botti grandi - 12,5 % vol.",
+					"Prezzo": "27"
+				},
+				{
+					"Nome": "Danze della Contessa - Bonsegna",
+					"Descrizione": "Nardò Bianco DOC - 100% Chardonnay - 13%vol.",
+					"Prezzo": "13"
+				},
+				{
+					"Nome": "Greco - L’Archetipo - BIO da agricoltura sinergica",
+					"Descrizione": "Salento IGT - 100% Greco - 12,5 % vol. - TRIPLE \"A\"",
+					"Prezzo": "21"
+				},
+				{
+					"Nome": "Verdeca Sette Lune - L’Archetipo - BIO da agricoltura sinergica",
+					"Descrizione": "Salento IGT - 100% Verdeca - 11,5 % vol. - TRIPLE \"A\"",
+					"Prezzo": "34"
+				},
+				{
+					"Nome": "Carabus - Caiaffa",
+					"Descrizione": "Puglia IGT - 50% Fiano, 50% Chardonnay - 12,5 % vol.",
+					"Prezzo": "26"
+				},
+				{
+					"Nome": "Fiano - Caiaffa BIO",
+					"Descrizione": "Puglia IGT - 100% Fiano - 12 % vol.",
+					"Prezzo": "22"
+				},
+				{
+					"Nome": "Anima Bianca - Vigne Monache",
+					"Descrizione": "Salento IGT - 100% Verdeca - 12 % vol.",
+					"Prezzo": "22"
+				},
+				{
+					"Nome": "Taersia - Duca Carlo Guarini BIO",
+					"Descrizione": "Puglia IGT - 100% Negroamaro - 12 % vol.",
+					"Prezzo": "17"
+				}
+			]
+		},
+		{
+			"Titolo": "Le bollicine",
+			"Piatto": [
+				{
+					"Nome": "Furfante Bianco - Rivera - Vino Frizzante",
+					"Descrizione": "Puglia IGT - 12 % vol.",
+					"Prezzo": "15"
+				},
+				{
+					"Nome": "Myria - Caiaffa - Spumante Brut BIO",
+					"Descrizione": "Puglia IGT - VSQ - 50% Fiano, 50% Chardonnay - 11,5 % vol.",
+					"Prezzo": "21"
+				},
+				{
+					"Nome": "Rosè - Caiaffa - Spumante Brut BIO",
+					"Descrizione": "Puglia IGT - VSQ - 100% Nero di Troia - 11,5 % vol.",
+					"Prezzo": "21"
+				},
+				{
+					"Nome": "Marasco - L’Archetipo - Brut Nature - BIO da agric. sinergica",
+					"Descrizione": "Salento IGT - 100% Maresco - 12 % vol. - TRIPLE \"A\"",
+					"Prezzo": "24"
+				},
+				{
+					"Nome": "Susumante - L’Archetipo - Rosè Brut BIO da agricoltura sinergica",
+					"Descrizione": "Salento IGT - 100% Susumaniello - 12 % vol. - TRIPLE \"A\"",
+					"Prezzo": "24"
+				}
+			]
+		},
+		{
+			"Titolo": "Amari",
+			"Piatto": [
+				{
+					"Nome": "Amari",
+					"Descrizione": "Jägermeister, Averna, Fernet-Branca, Montenegro, Unicum, Ramazzotti, Radis...",
+					"Prezzo": "3,5"
+				},
+				{
+					"Nome": "Amari Artigianali Locali",
+					"Descrizione": "Mandorla amara oppure Carrube",
+					"Prezzo": "3,5"
+				},
+				{
+					"Nome": "Liquori",
+					"Descrizione": "Sambuca, Limoncello, Baileys, Disaronno...",
+					"Prezzo": "3,5"
+				},
+				{
+					"Nome": "Cuor di Moscato",
+					"Descrizione": "Grappa ottenuta da vinaccia dolce di Moscato, Caratteristica principale, Morbida con profumo di salvia sclarea",
+					"Prezzo": "3,5"
+				},
+				{
+					"Nome": "Cuor di Barrique",
+					"Prezzo": "4"
+				},
+				{
+					"Nome": "Cuor di Chardonnay",
+					"Descrizione": "Finissima grappa ottenuta da vinaccia di uve Chardonnay",
+					"Prezzo": "3,5"
 				}
 			]
 		}
