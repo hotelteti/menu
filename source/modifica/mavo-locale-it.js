@@ -42,7 +42,7 @@ Mavo.Locale.register("it", {
 	"item-deleted": "{name} cancellato",
 	"n-items": "{n} {name} elementi",
 	"undo": "Annulla",
-	"gh-updated-file": "Aggiornato {name}",
+	"gh-updated-file": "Aggiorna {name}",
 	"gh-login-fork-options": "C'è un conflitto con i dati memorizzati. Vuoi sovrascriverli?",
 	"gh-use-my-fork": "Sì, usa i miei dati"
 });
