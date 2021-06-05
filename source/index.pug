@@ -31,7 +31,7 @@ main(hidden)
             .dish
               h2= piatto.Nome
               p
-                strong= '€ ' + piatto.Prezzo.replace('€', '')
+                strong= '€ ' + (piatto.Prezzo || '').replace('€', '')
                 if piatto.Descrizione
                   span.descrizione= ' • ' + piatto.Descrizione
               if piatto.Allergeni
