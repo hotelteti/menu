@@ -9,3 +9,33 @@ h1 {
 .mv-upload-popup .mv-tip {
 	display: none;
 }
+
+.tags {
+	min-height: 28px;
+}
+.tags:not(:focus-within)::before {
+	content: '(' attr(aria-label) ') ';
+	opacity: 0.6;
+}
+.tags:not(:focus-within) input:not(:checked) + label {
+	display: none;
+}
+.tags:not(:focus-within)  label::after {
+	content: ', '
+}
+
+.tags:focus-within label {
+	display: inline-block;
+	line-height: 1.2;
+	margin-right: 0.3em;
+	border: solid 2px;
+	border-radius: 1em;
+	padding: 0 0.5em;
+	margin-bottom: 0.3em;
+}
+
+.tags:focus-within input:checked + label {
+	background-color: var(--text);
+	border-color: var(--text);
+	color: var(--back);
+}

@@ -23,11 +23,12 @@ html(data-theme='white' lang='it')
               strong(property='Prezzo')
               p.descrizione(property='Descrizione' aria-label="Descrizione o lista ingredienti")
               p.allergeni(property='Allergeni')
-              p.allergeni(property='AllergeniList' mv-edit="#cool" mv-default="a")
+              each list, tag in tags
+                .tags(tabindex=0 aria-label=tag)
+                  each opzione in list
+                    input(type="checkbox" property=opzione id=opzione hidden)
+                    label(for=opzione)
+                      = opzione
       footer
         p(property='Informazioni')
-      <div hidden>
-          <div id="cool">
-                  input(type="checkbox" property='output')
-      </div>
 
