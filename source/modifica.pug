@@ -4,9 +4,9 @@ html(data-theme='white' lang='it')
     meta(charset='UTF-8')
     meta(name='viewport' content='width=device-width, initial-scale=1.0')
     title Modifica menu
-    script(src='https://get.mavo.io/v0.2.3/mavo.min.js')
+    script(src='https://get.mavo.io/v0.2.3/mavo.js')
     script(src='mavo-locale-it.js')
-    link(rel='stylesheet' href='https://get.mavo.io/v0.2.3/mavo.min.css')
+    link(rel='stylesheet' href='https://get.mavo.io/v0.2.3/mavo.css')
     link(rel='stylesheet' href='style.css')
     link(rel='stylesheet' href='modifica.css')
   main(mv-app='lista' mv-storage='https://github.com/hotelteti/menu/blob/modifiche/lista.json' mv-mode='edit')
@@ -21,9 +21,13 @@ html(data-theme='white' lang='it')
             h2(property='Nome')
             p
               strong(property='Prezzo')
-              p.descrizione(property='Descrizione')
-              p.allergeni(property='Allergeni')
-              p.Tipo(property='Tipo')
-
+              p.descrizione(property='Descrizione' aria-label="Descrizione o lista ingredienti")
+              each list, tag in tags
+                .tags(tabindex=0 aria-label=tag)
+                  each opzione in list
+                    input(type="checkbox" property=opzione id=opzione + '-[$index][idify(Nome)]' hidden)
+                    label(for=opzione+ '-[$index][idify(Nome)]')
+                      = opzione
       footer
         p(property='Informazioni')
+
