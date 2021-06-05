@@ -75,14 +75,14 @@
 				},
 				{
 					"Nome": "Crema di Ceci Neri di Zollino con cipolle rosse di Tropea, puntarelle in agrodolce e crostino di pane",
-					"Tipo": "Vegetariano, Vegano",
+					"Tipo": "Vegano",
 					"Allergeni": "Allergeni: Glutine",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1595582997.jpeg",
 					"Prezzo": "12"
 				},
 				{
 					"Nome": "Cicorie estive con purea di Fave, olio evo a crudo e crostini di pane",
-					"Tipo": "Vegetariano, Vegano",
+					"Tipo": "Vegano",
 					"Allergeni": "Allergeni: Glutine",
 					"Prezzo": "11"
 				}
@@ -93,9 +93,9 @@
 			"Piatto": [
 				{
 					"Nome": "Gamberoni Viola¹ di Gallipoli a scelta tra crudi, al sale o alla griglia",
-					"Tipo": "Bio, Gluten Free",
+					"Tipo": "Bio",
 					"Allergeni": "Allergeni: Crostacei",
-					"Prezzo": "9 € per 10"
+					"Prezzo": "9 € per 100g"
 				},
 				{
 					"Nome": "Polpo² alla Pignata con pomodorino ciliegino e crostini",
@@ -107,23 +107,23 @@
 					"Prezzo": "14"
 				},
 				{
-					"Nome": "Pignata di Cozze alla Gallipolina con pomodorino, formaggio vaccino stagionato e pangrattato\n\t\t\t\t\t",
+					"Nome": "Pignata di Cozze alla Gallipolina con pomodorino, formaggio vaccino stagionato e pangrattato",
 					"Allergeni": "Allergeni: Glutine",
 					"Prezzo": "12"
 				},
 				{
 					"Nome": "Filetti di pesce del giorno dorato al forno, con pomodori secchi e pistacchio, scarabocchi di maionese di rucola, accompagnata da verdure allo zenzero",
 					"Allergeni": "Allergeni: Glutine, Arachidi, Frutta a guscio",
-					"Prezzo": "7 € per 10"
+					"Prezzo": "7 € per 100g"
 				},
 				{
 					"Nome": "Filetto di pesce del giorno in padella al timo con verdure allo zenzero su mousse di melanzane e vegetali croccanti",
 					"Allergeni": "Allergeni: Glutine, Pesce",
-					"Prezzo": "7 € per 10"
+					"Prezzo": "7 € per 100g"
 				},
 				{
 					"Nome": "Il pescato del giorno varia, di conseguenza la sua preparazione che può essere al sale, alla griglia, o al forno. Il prezzo si intende al lordo del peso",
-					"Prezzo": "6 € per 10"
+					"Prezzo": "6 € per 100g"
 				},
 				{
 					"Nome": "Tagliata di Manzo al Negroamaro",
@@ -140,8 +140,7 @@
 				},
 				{
 					"Nome": "Taieddhra (Solo su ordinazione)",
-					"Descrizione": "Riso, Cozze, patate. Minimo due porzioni",
-					"Prezzo": ""
+					"Descrizione": "Riso, Cozze, patate. Minimo due porzioni"
 				}
 			]
 		},
@@ -151,32 +150,32 @@
 				{
 					"Nome": "Verdure Grigliate",
 					"Descrizione": "Zucchine, Melanzane, Peperoni",
-					"Tipo": "Vegetariano, Vegano",
+					"Tipo": "Vegano",
 					"Prezzo": "6"
 				},
 				{
 					"Nome": "Cime di Rapa² Saltate",
-					"Tipo": "Vegetariano, Vegano",
+					"Tipo": "Vegano",
 					"Prezzo": "6"
 				},
 				{
 					"Nome": "Cicorie all’Olio Extravergine d’Oliva",
-					"Tipo": "Vegetariano, Vegano",
+					"Tipo": "Vegano",
 					"Prezzo": "6"
 				},
 				{
 					"Nome": "Insalata Verde",
-					"Tipo": "Vegetariano, Vegano",
+					"Tipo": "Vegano",
 					"Prezzo": "3"
 				},
 				{
 					"Nome": "Insalata di Pomodori",
-					"Tipo": "Vegetariano, Vegano",
+					"Tipo": "Vegano",
 					"Prezzo": "3"
 				},
 				{
 					"Nome": "Insalata Mista",
-					"Tipo": "Vegetariano, Vegano",
+					"Tipo": "Vegano",
 					"Prezzo": "3,5"
 				},
 				{
@@ -576,13 +575,12 @@
 				},
 				{
 					"Nome": "Niuru Maru - L’Archetipo - BIO da agricoltura sinergica",
-					"Descrizione": "Salento IGT - 100% Negroamaro - 13 % vol. - TRIPLE \"A\"\n\t\t\t\t\t",
+					"Descrizione": "Salento IGT - 100% Negroamaro - 13 % vol. - TRIPLE \"A\"",
 					"Prezzo": "27"
 				},
 				{
 					"Nome": "Mistico - L’Archetipo - BIO da agricoltura sinergica",
-					"Descrizione": "Salento IGT - 100% Primitivo - 16,5 % vol. - TRIPLE \"A\"",
-					"Prezzo": ""
+					"Descrizione": "Salento IGT - 100% Primitivo - 16,5 % vol. - TRIPLE \"A\""
 				},
 				{
 					"Nome": "Onice - Villa Amoris",
