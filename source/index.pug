@@ -13,6 +13,7 @@ head
     each section in lista.Sezione
       a.ball(href='#' + slugify(section.Titolo))
         .pill-text= section.Titolo
+    button.toggle-allergens Mostra allergeni:
 main(hidden)
   nav
     .container

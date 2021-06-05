@@ -20,3 +20,15 @@ function zoomOnClick(event) {
 $$('.dish-image').forEach(button => {
 	button.addEventListener('click', zoomOnClick);
 });
+
+const allergenToggle = $('.toggle-allergens');
+allergenToggle.addEventListener('click', () => {
+	localStorage.showAllergens = Number(
+		document.body.classList.toggle('show-allergens')
+	);
+});
+
+document.body.classList.toggle(
+	'show-allergens',
+	Number(localStorage.showAllergens)
+);
