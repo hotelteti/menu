@@ -24,12 +24,13 @@ h1 {
 .tags:not(:focus-within) input:not(:checked) + label {
 	display: none;
 }
-.tags:not(:focus-within)  label::after {
-	content: ', '
+.tags:not(:focus-within) label::after {
+	content: ', ';
 }
 
-.tags:focus-within  {
-	box-shadow: 0 0 0 1px rgb(133 160 173 / 50%), 1px 1px 0.5em 1px rgb(0 0 0 / 30%) !important;
+.tags:focus-within {
+	box-shadow: 0 0 0 1px rgb(133 160 173 / 50%),
+		1px 1px 0.5em 1px rgb(0 0 0 / 30%) !important;
 }
 .tags:focus-within label {
 	display: inline-block;
