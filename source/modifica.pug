@@ -22,12 +22,11 @@ html(data-theme='white' lang='it')
             p
               strong(property='Prezzo')
               p.descrizione(property='Descrizione' aria-label="Descrizione o lista ingredienti")
-              p.allergeni(property='Allergeni')
               each list, tag in tags
                 .tags(tabindex=0 aria-label=tag)
                   each opzione in list
-                    input(type="checkbox" property=opzione id=opzione hidden)
-                    label(for=opzione)
+                    input(type="checkbox" property=opzione id=opzione + '-[$index][idify(Nome)]' hidden)
+                    label(for=opzione+ '-[$index][idify(Nome)]')
                       = opzione
       footer
         p(property='Informazioni')

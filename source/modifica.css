@@ -13,7 +13,11 @@ h1 {
 .tags {
 	min-height: 28px;
 }
-.tags:not(:focus-within)::before {
+.tags:hover,
+.tags:focus-within {
+	background: rgb(255 247 0 / 20%);
+}
+.tags::before {
 	content: '(' attr(aria-label) ') ';
 	opacity: 0.6;
 }
@@ -24,6 +28,9 @@ h1 {
 	content: ', '
 }
 
+.tags:focus-within  {
+	box-shadow: 0 0 0 1px rgb(133 160 173 / 50%), 1px 1px 0.5em 1px rgb(0 0 0 / 30%) !important;
+}
 .tags:focus-within label {
 	display: inline-block;
 	line-height: 1.2;
@@ -38,4 +45,8 @@ h1 {
 	background-color: var(--text);
 	border-color: var(--text);
 	color: var(--back);
+}
+
+.tags:focus-within::before {
+	display: block;
 }

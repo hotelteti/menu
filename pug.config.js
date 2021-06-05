@@ -2,16 +2,16 @@ module.exports = {
 	locals: {
 		tags: {
 			Allergeni: [
-				'Anidride solforosa o solfiti',
-				'Arachidi',
-				'Crostacei',
-				'Frutta a guscio',
 				'Glutine',
 				'Latte e derivati',
-				'Molluschi',
+				'Crostacei',
 				'Pesce',
+				'Molluschi',
+				'Arachidi',
+				'Frutta a guscio',
 				'Sedano',
 				'Uova e derivati',
+				'Anidride solforosa o solfiti',
 			],
 			Etichette: [
 				'Vegano',
