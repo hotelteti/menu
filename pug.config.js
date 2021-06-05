@@ -27,3 +27,10 @@ module.exports = {
 			text.replace(/\n\n/g, '</p><p>').replace(/\n/g, '<br>'),
 	},
 };
+
+for (const section of module.exports.locals.lista.Sezione) {
+	for (const piatto of section.Piatto) {
+		piatto.allergeni = module.exports.locals.tags.Allergeni.filter(allergene => piatto[allergene])
+		piatto.etichette = module.exports.locals.tags.Etichette.filter(etichetta => piatto[etichetta])
+	}
+}

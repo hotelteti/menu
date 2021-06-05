@@ -279,3 +279,7 @@ footer {
 [href='#bevande'] {
 	margin-top: 1em;
 }
+
+.Tipo {
+	font-style: italic;
+}

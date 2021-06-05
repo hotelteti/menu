@@ -34,10 +34,10 @@ main(hidden)
                 strong= '€ ' + (piatto.Prezzo || '').replace('€', '')
                 if piatto.Descrizione
                   span.descrizione= ' • ' + piatto.Descrizione
-              if piatto.Allergeni
-                p.allergeni= piatto.Allergeni
-              if piatto.Tipo
-                p.Tipo= piatto.Tipo
+              if piatto.allergeni.length > 0
+                p.allergeni= 'Allergeni: ' + piatto.allergeni.join(', ')
+              if piatto.etichette.length > 0
+                p.Tipo= piatto.etichette.join(', ')
 
     footer
       p !{ lineBreakToBr(lista.Informazioni) }
