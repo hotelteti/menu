@@ -4,9 +4,9 @@
 			"Titolo": "I nostri antipasti",
 			"Piatto": [
 				{
+					"Nome": "Tonno Rosso cotto a bassa temperatura, al profumo di arancio, con tentacoli di polpo grigliato, accompagnato da mousse di cicerchia Ugentina e salse di sedano, mango e lamponi"
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@6525b432710aba4044e817ef2b1e65cda919e4a1/images/EBD403C3-D845-476F-AD65-6CB6B576667A.jpeg",
-					"Prezzo": "16,00",
-					"Descrizione": "Tonno Rosso cotto a bassa temperatura, al profumo di arancio, con tentacoli di polpo grigliato, accompagnato da mousse di cicerchia Ugentina e salse di sedano, mango e lamponi",
+					"Prezzo": "16",
 					"Glutine": true,
 					"Latte e derivati": false,
 					"Crostacei": false,
@@ -40,7 +40,7 @@
 					"Bio": false
 				},
 				{
-					"Nome": "Gelè, \ngamberi viola di Gallipoli custoditi in gelée al limone, con cubi di melone, adagiati su misticanza condita con citronette, crema di avocado e corallo vegetale",
+					"Nome": "Gelè, gamberi viola di Gallipoli custoditi in gelée al limone, con cubi di melone, adagiati su misticanza condita con citronette, crema di avocado e corallo vegetale",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1595536232.jpeg",
 					"Prezzo": "18",
 					"Anidride solforosa o solfiti": false,
