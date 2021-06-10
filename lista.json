@@ -4,19 +4,19 @@
 			"Titolo": "I nostri antipasti",
 			"Piatto": [
 				{
-					"Nome": "Nuvola di Mare, veli di seppia¹ con maionese di sedano, tentacoli di polpo² grigliato e mousse di patate ai gamberetti",
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1591889253.jpeg",
-					"Prezzo": "15",
-					"Anidride solforosa o solfiti": false,
-					"Arachidi": false,
-					"Crostacei": true,
-					"Frutta a guscio": false,
+					"Nome": "Tonno Rosso cotto a bassa temperatura, al profumo di arancio, con tentacoli di polpo grigliato, accompagnato da mousse di cicerchia Ugentina e salse di sedano, mango e lamponi",
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@6525b432710aba4044e817ef2b1e65cda919e4a1/images/EBD403C3-D845-476F-AD65-6CB6B576667A.jpeg",
+					"Prezzo": "16",
 					"Glutine": true,
 					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": true,
 					"Molluschi": false,
-					"Pesce": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
 					"Sedano": true,
 					"Uova e derivati": true,
+					"Anidride solforosa o solfiti": false,
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false
@@ -24,7 +24,7 @@
 				{
 					"Nome": "Capocollo di Martina Franca con burrata salentina, crumble di frise integrali condite con pomodoro, olio evo e basilico",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1591889424.jpeg",
-					"Prezzo": "18",
+					"Prezzo": "15",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -40,7 +40,7 @@
 					"Bio": false
 				},
 				{
-					"Nome": "Gamberi viola di Gallipoli custoditi in gelée al limone, con cubi di melone, adagiati su misticanza condita con citronette, crema di avocado e corallo vegetale",
+					"Nome": "Gelè, gamberi viola di Gallipoli custoditi in gelée al limone, con cubi di melone, adagiati su misticanza condita con citronette, crema di avocado e corallo vegetale",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1595536232.jpeg",
 					"Prezzo": "18",
 					"Anidride solforosa o solfiti": false,
@@ -59,7 +59,7 @@
 				},
 				{
 					"Nome": "Insalata di mare con gamberi¹, seppia², calamaro², polpo², julienne di verdure, ciuffo di cipolla Tropea in agrodolce con un graffio di maionese di sedano e rapa rossa",
-					"Prezzo": "14",
+					"Prezzo": "15",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": true,
@@ -72,7 +72,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@37d8daa142980b8ea79ef485852fd3332f891146/images/C3B64765-9DE9-4CE1-B0C6-0E26524BCAA6.jpeg"
 				},
 				{
 					"Nome": "Fantasia vegetale con involtino di melanzane caciocavallo pinoli e pane aromatizzato, cipolla ubriaca al forno, caponata, tortino di patate e zucchine con crema di grana, rollè di peperoni",
@@ -117,7 +118,7 @@
 				{
 					"Nome": "Tagliolini Teti con vongole e brunoise di zucchine con pioggia di menta fresca e scorza di limone",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1595580379.jpeg",
-					"Prezzo": "14",
+					"Prezzo": "15",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -133,7 +134,7 @@
 					"Bio": false
 				},
 				{
-					"Nome": "Gigli Santamaria di semola integrale bio “Senatore Cappelli” con pomodoro, sfilacciata di carne bovina Italiana e mousse di pecorino stagionato in grotta",
+					"Nome": "Il Pacchero, con farina integrale BIO, Senatore Cappelli, salsa peperone rosso, pomodoro, su mouse di pecorino Pugliese, stagionato in grotta, pomodori confì e croccante di pancetta affumicata.",
 					"Prezzo": "15",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -150,19 +151,18 @@
 					"Bio": true
 				},
 				{
-					"Nome": "Riso “Karbor” ai gamberi viola di Gallipoli scottati, con zafferano di Zollino, polvere di clorofilla di prezzemolo e scaglie di mandorle tostate",
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1595582694.jpeg",
-					"Prezzo": "14",
-					"Anidride solforosa o solfiti": false,
-					"Arachidi": false,
-					"Crostacei": false,
-					"Frutta a guscio": true,
+					"Nome": "Riso “Karbor” mantecato con misto mare, crema di prezzemolo e gamberi viola di Gallipoli, scottati.",
+					"Prezzo": "15",
 					"Glutine": false,
 					"Latte e derivati": false,
-					"Molluschi": false,
-					"Pesce": false,
-					"Sedano": false,
+					"Crostacei": true,
+					"Pesce": true,
+					"Molluschi": true,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": true,
 					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": true,
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false
@@ -170,7 +170,7 @@
 				{
 					"Nome": "Linguine ai frutti di mare con cozze, vongole, gamberetti¹, scampo¹ e pomodorini",
 					"Prezzo": "14",
-					"Anidride solforosa o solfiti": false,
+					"Anidride solforosa o solfiti": true,
 					"Arachidi": false,
 					"Crostacei": true,
 					"Frutta a guscio": false,
@@ -256,11 +256,12 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": true
+					"Bio": true,
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@0ccba3e6d2f2f32bb70a7197b1ec81230880336f/images/2A5BDA84-2A2C-48CC-89AF-B82BB75463C4_1_201_a.jpeg"
 				},
 				{
 					"Nome": "Polpo² alla Pignata con pomodorino ciliegino e crostini",
-					"Prezzo": "14",
+					"Prezzo": "15",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -276,13 +277,13 @@
 					"Bio": false
 				},
 				{
-					"Nome": "Frittura mista di Pesce dello Ionio con totani, gamberetti e pesce azzurro",
-					"Prezzo": "14",
+					"Nome": "Frittura mista di Pesce con calamari, gamberetti e pesce azzurro",
+					"Prezzo": "15",
 					"Anidride solforosa o solfiti": false,
-					"Arachidi": false,
-					"Crostacei": false,
+					"Arachidi": true,
+					"Crostacei": true,
 					"Frutta a guscio": false,
-					"Glutine": false,
+					"Glutine": true,
 					"Latte e derivati": false,
 					"Molluschi": false,
 					"Pesce": false,
@@ -327,23 +328,6 @@
 					"Bio": false
 				},
 				{
-					"Nome": "Filetto di pesce del giorno in padella al timo con verdure allo zenzero su mousse di melanzane e vegetali croccanti",
-					"Prezzo": "7 € per 100g",
-					"Anidride solforosa o solfiti": false,
-					"Arachidi": false,
-					"Crostacei": false,
-					"Frutta a guscio": false,
-					"Glutine": true,
-					"Latte e derivati": false,
-					"Molluschi": false,
-					"Pesce": true,
-					"Sedano": false,
-					"Uova e derivati": false,
-					"Vegano": false,
-					"Vegetariano": false,
-					"Bio": false
-				},
-				{
 					"Nome": "Il pescato del giorno varia, di conseguenza la sua preparazione che può essere al sale, alla griglia, o al forno. Il prezzo si intende al lordo del peso",
 					"Prezzo": "6 € per 100g",
 					"Anidride solforosa o solfiti": false,
@@ -362,7 +346,7 @@
 				},
 				{
 					"Nome": "Tagliata di Manzo al Negroamaro",
-					"Prezzo": "15",
+					"Prezzo": "17",
 					"Anidride solforosa o solfiti": true,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1595,7 +1579,7 @@
 				{
 					"Nome": "Pinot Chardonnay alla spina (mezzo litro)",
 					"Prezzo": "4,5",
-					"Anidride solforosa o solfiti": false,
+					"Anidride solforosa o solfiti": true,
 					"Arachidi": false,
 					"Crostacei": false,
 					"Frutta a guscio": false,
@@ -1612,7 +1596,7 @@
 				{
 					"Nome": "Pinot Chardonnay alla spina (calice)",
 					"Prezzo": "2,5",
-					"Anidride solforosa o solfiti": false,
+					"Anidride solforosa o solfiti": true,
 					"Arachidi": false,
 					"Crostacei": false,
 					"Frutta a guscio": false,
@@ -1629,7 +1613,7 @@
 				{
 					"Nome": "Prosecco Valdobbiadene DOC (flûte)",
 					"Prezzo": "3",
-					"Anidride solforosa o solfiti": false,
+					"Anidride solforosa o solfiti": true,
 					"Arachidi": false,
 					"Crostacei": false,
 					"Frutta a guscio": false,
@@ -1646,7 +1630,7 @@
 				{
 					"Nome": "Vino della casa bianco o rosso (mezzo litro)",
 					"Prezzo": "3,5",
-					"Anidride solforosa o solfiti": false,
+					"Anidride solforosa o solfiti": true,
 					"Arachidi": false,
 					"Crostacei": false,
 					"Frutta a guscio": false,
@@ -1744,8 +1728,8 @@
 			"Piatto": [
 				{
 					"Nome": "Baia di Uluzzo Primitivo - Bonsegna",
-					"Descrizione": "Salento IGP - 100% Primitivo - 13% vol.",
-					"Prezzo": "15",
+					"Descrizione": "Salento IGP - 100% Primitivo - 13 % vol.",
+					"Prezzo": "16",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1762,8 +1746,8 @@
 				},
 				{
 					"Nome": "Baia di Uluzzo Negroamaro - Bonsegna",
-					"Descrizione": "Salento IGP - 100% Negroamaro - 13% vol.",
-					"Prezzo": "15",
+					"Descrizione": "Salento IGP - 100% Negroamaro - 13 % vol.",
+					"Prezzo": "16",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1781,7 +1765,7 @@
 				{
 					"Nome": "Tenuta Paraida Rosso - Marulli",
 					"Descrizione": "Copertino DOC - 80% Negroamaro - Malvasia nera di Lecce - Montepulciano - (da vigneti di oltre 40 anni) - 13,5 % vol.",
-					"Prezzo": "17",
+					"Prezzo": "18",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1799,7 +1783,7 @@
 				{
 					"Nome": "Negroamaro - Caiaffa - BIO",
 					"Descrizione": "Puglia IGT - 100% Negroamaro - 13 % vol.",
-					"Prezzo": "21",
+					"Prezzo": "22",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1847,12 +1831,13 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"Prezzo": "34"
 				},
 				{
 					"Nome": "Onice - Villa Amoris",
 					"Descrizione": "Puglia IGT - 100% Malvasia - 14 % vol.",
-					"Prezzo": "24",
+					"Prezzo": "25",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1875,7 +1860,7 @@
 				{
 					"Nome": "Tenuta Paraida Rosato - Marulli",
 					"Descrizione": "Copertino DOC - 100% Negroamaro - 13 % vol.",
-					"Prezzo": "18",
+					"Prezzo": "19",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1893,7 +1878,7 @@
 				{
 					"Nome": "Anima Rosa - Vigne Monache",
 					"Descrizione": "Tarantino IGT - 100% Primitivo - 13 % vol.",
-					"Prezzo": "22",
+					"Prezzo": "23",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1911,7 +1896,7 @@
 				{
 					"Nome": "Acheta - Caiaffa - BIO",
 					"Descrizione": "Puglia IGT - 100% Negroamaro - 13 % vol.",
-					"Prezzo": "25",
+					"Prezzo": "26",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1929,7 +1914,7 @@
 				{
 					"Nome": "Troia Rosato - Caiaffa BIO",
 					"Descrizione": "Puglia IGT - 100% Nero di Troia - 13 % vol.",
-					"Prezzo": "20",
+					"Prezzo": "21",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1947,7 +1932,7 @@
 				{
 					"Nome": "Pungirosa - Rivera",
 					"Descrizione": "Castel del Monte DOCG - 100% Bombino nero - 12 % vol.",
-					"Prezzo": "19",
+					"Prezzo": "20",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1963,9 +1948,27 @@
 					"Bio": false
 				},
 				{
+					"Nome": "Massaro Rosa - L'Astore Masseria Bio",
+					"Prezzo": "23",
+					"Descrizione": "Salento IGT - 100% Negroamaro - 12,5 % vol.",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
+				{
 					"Nome": "Susumà – Le Vigne di Sammarco",
 					"Descrizione": "Salento IGT - 100% Susumaniello - 14,5 % vol.",
-					"Prezzo": "22",
+					"Prezzo": "23",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1988,7 +1991,7 @@
 				{
 					"Nome": "Krita - L’Astore Masseria - BIO",
 					"Descrizione": "Salento IGP - 100% Malvasia Bianca - 12,5 % vol.",
-					"Prezzo": "18",
+					"Prezzo": "19",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -2023,7 +2026,7 @@
 				},
 				{
 					"Nome": "Danze della Contessa - Bonsegna",
-					"Descrizione": "Nardò Bianco DOC - 100% Chardonnay - 13%vol.",
+					"Descrizione": "Nardò Bianco DOC - 100% Chardonnay - 13 %vol.",
 					"Prezzo": "13",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -2041,8 +2044,8 @@
 				},
 				{
 					"Nome": "Greco - L’Archetipo - BIO da agricoltura sinergica",
-					"Descrizione": "Salento IGT - 100% Greco - 12,5 % vol. - TRIPLE \"A\"",
-					"Prezzo": "21",
+					"Descrizione": "Salento IGT - 100% Greco - 12,5  % vol. - TRIPLE \"A\"",
+					"Prezzo": "22",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -2059,7 +2062,7 @@
 				},
 				{
 					"Nome": "Verdeca Sette Lune - L’Archetipo - BIO da agricoltura sinergica",
-					"Descrizione": "Salento IGT - 100% Verdeca - 11,5 % vol. - TRIPLE \"A\"",
+					"Descrizione": "Salento IGT - 100% Verdeca - 11,5  % vol. - TRIPLE \"A\"",
 					"Prezzo": "34",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -2096,7 +2099,7 @@
 				{
 					"Nome": "Fiano - Caiaffa BIO",
 					"Descrizione": "Puglia IGT - 100% Fiano - 12 % vol.",
-					"Prezzo": "22",
+					"Prezzo": "23",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -2114,7 +2117,7 @@
 				{
 					"Nome": "Anima Bianca - Vigne Monache",
 					"Descrizione": "Salento IGT - 100% Verdeca - 12 % vol.",
-					"Prezzo": "22",
+					"Prezzo": "23",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -2130,9 +2133,9 @@
 					"Bio": false
 				},
 				{
-					"Nome": "Taersia - Duca Carlo Guarini BIO",
-					"Descrizione": "Puglia IGT - 100% Negroamaro - 12 % vol.",
-					"Prezzo": "17",
+					"Nome": "Tinente - Marulli",
+					"Descrizione": "Salento IGT - 100% Malvasia Bianca - 12 % vol.",
+					"Prezzo": "16",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -2153,9 +2156,9 @@
 			"Titolo": "Le bollicine",
 			"Piatto": [
 				{
-					"Nome": "Furfante Bianco - Rivera - Vino Frizzante",
-					"Descrizione": "Puglia IGT - 12 % vol.",
-					"Prezzo": "15",
+					"Nome": "EXprimo - Vigne Monache",
+					"Descrizione": "Vino spumante rosè Brut - 100% Primitivo - 12 % vol.",
+					"Prezzo": "21",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -2173,7 +2176,7 @@
 				{
 					"Nome": "Myria - Caiaffa - Spumante Brut BIO",
 					"Descrizione": "Puglia IGT - VSQ - 50% Fiano, 50% Chardonnay - 11,5 % vol.",
-					"Prezzo": "21",
+					"Prezzo": "22",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -2191,7 +2194,7 @@
 				{
 					"Nome": "Rosè - Caiaffa - Spumante Brut BIO",
 					"Descrizione": "Puglia IGT - VSQ - 100% Nero di Troia - 11,5 % vol.",
-					"Prezzo": "21",
+					"Prezzo": "22",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -2238,6 +2241,60 @@
 					"Pesce": false,
 					"Sedano": false,
 					"Uova e derivati": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
+				{
+					"Nome": "Sior Carlo - V8+ - Brut Millesimato",
+					"Prezzo": "20",
+					"Descrizione": "Prosecco DOC - 100% Glera - 11,5 % vol.",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
+				{
+					"Nome": "Santus Brut ",
+					"Prezzo": "35",
+					"Descrizione": "Franciacorta DOCG - 80% Chardonnay, 20% Pinot Nero - 12,5 % vol.",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
+				{
+					"Nome": "Pierre Gobillard - Brut Autehenttique",
+					"Prezzo": "65",
+					"Descrizione": "Champagne - 30% pinot Nero, 30% Chardonnay, 40% Meunier - 12,5 % vol.",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false
