@@ -18,6 +18,10 @@ html(data-theme='white' lang='it')
           .dish-image(type='button')
             img(property='Foto')
           .dish
+
+            label
+              input(type="checkbox" property='attivo' id='attivo-[$index]' checked)
+              = ' Attivo'
             h2(property='Nome')
             div
               strong(property='Prezzo')

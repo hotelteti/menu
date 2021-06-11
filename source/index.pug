@@ -26,19 +26,20 @@ main(hidden)
           .pill-text= section.Titolo
         .details-content
           each piatto in section.Piatto || section.Bevanda
-            if piatto.Foto
-              button.dish-image(type='button')
-                img(loading='lazy' src=relativizeCDNURL(piatto.Foto))
-            .dish
-              h2= piatto.Nome
-              p
-                strong= '€ ' + (piatto.Prezzo || '').replace('€', '')
-                if piatto.Descrizione
-                  span.descrizione= ' • ' + piatto.Descrizione
-              if piatto.allergeni.length > 0
-                p.allergeni= 'Allergeni: ' + piatto.allergeni.join(', ')
-              if piatto.etichette.length > 0
-                p.Tipo= piatto.etichette.join(', ')
+            if piatto.attivo
+              if piatto.Foto
+                button.dish-image(type='button')
+                  img(loading='lazy' src=relativizeCDNURL(piatto.Foto))
+              .dish
+                h2= piatto.Nome
+                p
+                  strong= '€ ' + (piatto.Prezzo || '').replace('€', '')
+                  if piatto.Descrizione
+                    span.descrizione= ' • ' + piatto.Descrizione
+                if piatto.allergeni.length > 0
+                  p.allergeni= 'Allergeni: ' + piatto.allergeni.join(', ')
+                if piatto.etichette.length > 0
+                  p.Tipo= piatto.etichette.join(', ')
 
     footer
       p !{ lineBreakToBr(lista.Informazioni) }
