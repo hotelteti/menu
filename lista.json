@@ -1405,7 +1405,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Spumone artigianale al mostacciolo Salentino",
@@ -1423,7 +1423,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Spumone artigianale mandorle e fichi",
