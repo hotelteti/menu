@@ -4,8 +4,8 @@
 			"Titolo": "I nostri antipasti",
 			"Piatto": [
 				{
-					"Nome": "Tonno Rosso cotto a bassa temperatura, al profumo di arancio, con tentacoli di polpo grigliato, accompagnato da mousse di cicerchia Ugentina e salse di sedano, mango e lamponi",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@6525b432710aba4044e817ef2b1e65cda919e4a1/images/EBD403C3-D845-476F-AD65-6CB6B576667A.jpeg",
+					"Nome": "Tonno Rosso cotto a bassa temperatura al profumo di arancio, con tentacoli di polpo grigliato, accompagnato da mousse di cicerchia Ugentina e salse di sedano, mango e lamponi",
 					"Prezzo": "16",
 					"Glutine": true,
 					"Latte e derivati": false,
@@ -40,7 +40,7 @@
 					"Bio": false
 				},
 				{
-					"Nome": "Gelè, gamberi viola di Gallipoli custoditi in gelée al limone, con cubi di melone, adagiati su misticanza condita con citronette, crema di avocado e corallo vegetale",
+					"Nome": "Gelè, gamberi viola di Gallipoli custoditi in gelée al limone, con cubi di melone, adagiati su misticanza condita con vinaigrette, crema di avocado e corallo vegetale",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@5fe23b021bde4c04236bd5e73801435e32320eb5/source/images/image_1595536232.jpeg",
 					"Prezzo": "18",
 					"Anidride solforosa o solfiti": false,
@@ -151,7 +151,7 @@
 					"Bio": true
 				},
 				{
-					"Nome": "Riso “Karbor” mantecato con misto mare, crema di prezzemolo e gamberi viola di Gallipoli, scottati.",
+					"Nome": "Riso “Karbor” mantecato con misto mare, crema di prezzemolo e gamberi viola di Gallipoli scottati.",
 					"Prezzo": "15",
 					"Glutine": false,
 					"Latte e derivati": false,
@@ -241,6 +241,41 @@
 		{
 			"Titolo": "Secondi",
 			"Piatto": [
+				{
+					"Nome": "Tagliata di tonno rosso scottato, in crosta di semi di papavero e chia adagiata su letto di rucola e germogli di ravanello",
+					"Prezzo": "14",
+					"Descrizione": "Piatto del giorno",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
+				{
+					"Nome": "Baccalà in oliocottura con salsa di aglio nero di Vogera accompagnato da crema di zucchine, crema di carote al curry e polvere di finocchietto selvatico",
+					"Prezzo": "16",
+					"Glutine": true,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": true,
+					"Molluschi": true,
+					"Arachidi": false,
+					"Frutta a guscio": true,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
 				{
 					"Nome": "Gamberoni Viola¹ di Gallipoli a scelta tra crudi, al sale o alla griglia",
 					"Prezzo": "9 € per 100g",
@@ -1442,7 +1477,7 @@
 				{
 					"Nome": "Lattine da 33 cl",
 					"Descrizione": "Coca Cola, Coca Zero, Fanta, Sprite, Lemon Soda, tè al limone, tè alla pesca",
-					"Prezzo": "3",
+					"Prezzo": "2",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1459,7 +1494,7 @@
 				},
 				{
 					"Nome": "Birra alla spina Krombacher (piccola, 2 dl)",
-					"Prezzo": "3",
+					"Prezzo": "2,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1476,7 +1511,7 @@
 				},
 				{
 					"Nome": "Birra alla spina Krombacher (media, 4 dl)",
-					"Prezzo": "5",
+					"Prezzo": "4",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1717,6 +1752,23 @@
 					"Pesce": false,
 					"Sedano": false,
 					"Uova e derivati": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
+				{
+					"Nome": "Tipa Laguna Beach 33 cl",
+					"Prezzo": "6",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false
