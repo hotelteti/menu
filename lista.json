@@ -19,7 +19,8 @@
 					"Anidride solforosa o solfiti": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Capocollo di Martina Franca con burrata salentina, crumble di frise integrali condite con pomodoro, olio evo e basilico",
@@ -37,7 +38,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Gelè, gamberi viola di Gallipoli custoditi in gelée al limone, con cubi di melone, adagiati su misticanza condita con vinaigrette, crema di avocado e corallo vegetale",
@@ -55,7 +57,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Insalata di mare con gamberi¹, seppia², calamaro², polpo², julienne di verdure, ciuffo di cipolla Tropea in agrodolce con un graffio di maionese di sedano e rapa rossa",
@@ -73,7 +76,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@fbe2cacce0ba7d50edfce2d8f9003a776b1b57c5/images/C3B64765-9DE9-4CE1-B0C6-0E26524BCAA6.jpeg"
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@fbe2cacce0ba7d50edfce2d8f9003a776b1b57c5/images/C3B64765-9DE9-4CE1-B0C6-0E26524BCAA6.jpeg",
+					"attivo": true
 				},
 				{
 					"Nome": "Fantasia vegetale con involtino di melanzane caciocavallo pinoli e pane aromatizzato, cipolla ubriaca al forno, caponata, tortino di patate e zucchine con crema di grana, rollè di peperoni",
@@ -90,7 +94,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Arcobaleno di rape rosse e carote con riso nero aromatico “Gioiello”, pecorino semi-stagionato, medaglione di verdure con mais croccante, crema di piselli¹ ed emulsione alla menta con olio evo e aceto di mele",
@@ -108,7 +113,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -131,7 +137,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Il Pacchero, con farina integrale BIO, Senatore Cappelli, salsa peperone rosso, pomodoro, su mouse di pecorino Pugliese, stagionato in grotta, pomodori confì e croccante di pancetta affumicata.",
@@ -148,7 +155,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": true
+					"Bio": true,
+					"attivo": true
 				},
 				{
 					"Nome": "Riso “Karbor” mantecato con misto mare, crema di prezzemolo e gamberi viola di Gallipoli scottati.",
@@ -165,7 +173,8 @@
 					"Anidride solforosa o solfiti": true,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Linguine ai frutti di mare con cozze, vongole, gamberetti¹, scampo¹ e pomodorini",
@@ -182,7 +191,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Orecchiette Gourmet con pomodorini e formaggio vaccino, crema di cime di rapa con burrata Salentina",
@@ -199,7 +209,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Crema di Ceci Neri di Zollino con cipolle rosse di Tropea, puntarelle in agrodolce e crostino di pane",
@@ -217,7 +228,8 @@
 					"Uova e derivati": false,
 					"Vegano": true,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Cicorie estive con purea di Fave, olio evo a crudo e crostini di pane",
@@ -234,7 +246,8 @@
 					"Uova e derivati": false,
 					"Vegano": true,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -257,7 +270,8 @@
 					"Anidride solforosa o solfiti": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Baccalà in oliocottura con salsa di aglio nero di Vogera accompagnato da crema di zucchine, crema di carote al curry e polvere di finocchietto selvatico",
@@ -274,7 +288,8 @@
 					"Anidride solforosa o solfiti": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Gamberoni Viola¹ di Gallipoli a scelta tra crudi, al sale o alla griglia",
@@ -292,7 +307,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": true,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@fbe2cacce0ba7d50edfce2d8f9003a776b1b57c5/images/2A5BDA84-2A2C-48CC-89AF-B82BB75463C4_1_201_a.jpeg"
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@fbe2cacce0ba7d50edfce2d8f9003a776b1b57c5/images/2A5BDA84-2A2C-48CC-89AF-B82BB75463C4_1_201_a.jpeg",
+					"attivo": true
 				},
 				{
 					"Nome": "Polpo² alla Pignata con pomodorino ciliegino e crostini",
@@ -309,7 +325,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Frittura mista di Pesce con calamari, gamberetti e pesce azzurro",
@@ -326,7 +343,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Pignata di Cozze alla Gallipolina con pomodorino, formaggio vaccino stagionato e pangrattato",
@@ -343,7 +361,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Filetti di pesce del giorno dorato al forno, con pomodori secchi e pistacchio, scarabocchi di maionese di rucola, accompagnata da verdure allo zenzero",
@@ -360,7 +379,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Il pescato del giorno varia, di conseguenza la sua preparazione che può essere al sale, alla griglia, o al forno. Il prezzo si intende al lordo del peso",
@@ -377,7 +397,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Tagliata di Manzo al Negroamaro",
@@ -394,7 +415,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Fettina di Manzo alla Griglia",
@@ -411,7 +433,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Zuppa di Pesce della Chef (Solo su ordinazione)",
@@ -428,7 +451,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Taieddhra (Solo su ordinazione)",
@@ -445,7 +469,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -468,7 +493,8 @@
 					"Uova e derivati": false,
 					"Vegano": true,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Cime di Rapa² Saltate",
@@ -485,7 +511,8 @@
 					"Uova e derivati": false,
 					"Vegano": true,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Cicorie all’Olio Extravergine d’Oliva",
@@ -502,7 +529,8 @@
 					"Uova e derivati": false,
 					"Vegano": true,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Insalata Verde",
@@ -519,7 +547,8 @@
 					"Uova e derivati": false,
 					"Vegano": true,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Insalata di Pomodori",
@@ -536,7 +565,8 @@
 					"Uova e derivati": false,
 					"Vegano": true,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Insalata Mista",
@@ -553,7 +583,8 @@
 					"Uova e derivati": false,
 					"Vegano": true,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Insalatona",
@@ -571,7 +602,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -593,7 +625,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Panzerotti¹ di Patate e Menta",
@@ -610,7 +643,8 @@
 					"Uova e derivati": true,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Crocchette² di Patate",
@@ -627,7 +661,8 @@
 					"Uova e derivati": true,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -650,7 +685,8 @@
 					"Uova e derivati": false,
 					"Vegano": true,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Marinara",
@@ -668,7 +704,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Margherita",
@@ -685,7 +722,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Quattro Formaggi",
@@ -703,7 +741,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Tonno",
@@ -720,7 +759,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Würstel",
@@ -737,7 +777,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Napoli",
@@ -754,7 +795,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Milano",
@@ -772,7 +814,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Prosciutto Cotto",
@@ -789,7 +832,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Prosciutto e Funghi",
@@ -806,7 +850,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Frutti di Mare",
@@ -824,7 +869,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Capricciosa",
@@ -842,7 +888,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Teti",
@@ -860,7 +907,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Dietetica",
@@ -878,7 +926,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Vegetariana",
@@ -896,7 +945,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Americana",
@@ -914,7 +964,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Prosciutto Crudo",
@@ -932,7 +983,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Piemontese",
@@ -950,7 +1002,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Prosciutto e Tonno",
@@ -967,7 +1020,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Diavola",
@@ -985,7 +1039,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Quattro Stagioni",
@@ -1003,7 +1058,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "La Ficata (Se disponibile)",
@@ -1021,7 +1077,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Boscaiola",
@@ -1039,7 +1096,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Pugliese",
@@ -1057,7 +1115,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Crudaiola",
@@ -1075,7 +1134,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Sorrentina",
@@ -1093,7 +1153,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Ortomare",
@@ -1111,7 +1172,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Sfiziosa",
@@ -1129,7 +1191,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Fumé",
@@ -1147,7 +1210,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Atlantica",
@@ -1165,7 +1229,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Estate",
@@ -1183,7 +1248,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Fresca",
@@ -1201,7 +1267,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "La Burrosa",
@@ -1219,7 +1286,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -1241,7 +1309,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Prosciutto Piccola",
@@ -1258,7 +1327,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": true,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -1280,7 +1350,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Sorbetto al Limone Analcolico",
@@ -1297,7 +1368,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Tartufo Artigianale al cioccolato fondente",
@@ -1314,7 +1386,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Tartufo Artigianale al pistacchio di Bronte",
@@ -1331,7 +1404,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Spumone artigianale al mostacciolo Salentino",
@@ -1348,7 +1422,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Spumone artigianale mandorle e fichi",
@@ -1365,7 +1440,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -1387,7 +1463,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Acqua naturale/frizzante (mezzo litro)",
@@ -1404,7 +1481,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Coca Cola alla spina (piccola)",
@@ -1421,7 +1499,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Coca Cola alla spina (media)",
@@ -1438,7 +1517,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Coca Cola alla spina (grande)",
@@ -1455,7 +1535,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Coca Cola alla spina (litro)",
@@ -1472,7 +1553,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Lattine da 33 cl",
@@ -1490,7 +1572,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Birra alla spina Krombacher (piccola, 2 dl)",
@@ -1507,7 +1590,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Birra alla spina Krombacher (media, 4 dl)",
@@ -1524,7 +1608,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Heineken (33 cl)",
@@ -1541,7 +1626,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Heineken (66 dl)",
@@ -1558,7 +1644,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Tennent’s (33 cl)",
@@ -1575,7 +1662,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Beck’s (33 cl)",
@@ -1592,7 +1680,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Nastro Azzurro (33 cl)",
@@ -1609,7 +1698,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Pinot Chardonnay alla spina (mezzo litro)",
@@ -1626,7 +1716,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Pinot Chardonnay alla spina (calice)",
@@ -1643,7 +1734,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Prosecco Valdobbiadene DOC (flûte)",
@@ -1660,7 +1752,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Vino della casa bianco o rosso (mezzo litro)",
@@ -1677,7 +1770,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -1700,7 +1794,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Taranta",
@@ -1718,7 +1813,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Beggia",
@@ -1736,7 +1832,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Beggia 33 cl",
@@ -1754,7 +1851,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Tipa Laguna Beach 33 cl",
@@ -1771,7 +1869,8 @@
 					"Anidride solforosa o solfiti": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -1794,7 +1893,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Baia di Uluzzo Negroamaro - Bonsegna",
@@ -1812,7 +1912,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Tenuta Paraida Rosso - Marulli",
@@ -1830,7 +1931,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Negroamaro - Caiaffa - BIO",
@@ -1848,7 +1950,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Niuru Maru - L’Archetipo - BIO da agricoltura sinergica",
@@ -1866,7 +1969,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Mistico - L’Archetipo - BIO da agricoltura sinergica",
@@ -1884,7 +1988,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"Prezzo": "34"
+					"Prezzo": "34",
+					"attivo": true
 				},
 				{
 					"Nome": "Onice - Villa Amoris",
@@ -1902,7 +2007,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -1925,7 +2031,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Anima Rosa - Vigne Monache",
@@ -1943,7 +2050,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Acheta - Caiaffa - BIO",
@@ -1961,7 +2069,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Troia Rosato - Caiaffa BIO",
@@ -1979,7 +2088,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Pungirosa - Rivera",
@@ -1997,7 +2107,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Massaro Rosa - L'Astore Masseria Bio",
@@ -2015,7 +2126,8 @@
 					"Anidride solforosa o solfiti": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Susumà – Le Vigne di Sammarco",
@@ -2033,7 +2145,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -2056,7 +2169,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "L’Astore - L’Astore Masseria BIO",
@@ -2074,7 +2188,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Danze della Contessa - Bonsegna",
@@ -2092,7 +2207,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Greco - L’Archetipo - BIO da agricoltura sinergica",
@@ -2110,7 +2226,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Verdeca Sette Lune - L’Archetipo - BIO da agricoltura sinergica",
@@ -2128,7 +2245,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Carabus - Caiaffa",
@@ -2146,7 +2264,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Fiano - Caiaffa BIO",
@@ -2164,7 +2283,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Anima Bianca - Vigne Monache",
@@ -2182,7 +2302,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Tinente - Marulli",
@@ -2200,7 +2321,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -2223,7 +2345,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Myria - Caiaffa - Spumante Brut BIO",
@@ -2241,7 +2364,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Rosè - Caiaffa - Spumante Brut BIO",
@@ -2259,7 +2383,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Marasco - L’Archetipo - Brut Nature - BIO da agric. sinergica",
@@ -2277,7 +2402,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Susumante - L’Archetipo - Rosè Brut BIO da agricoltura sinergica",
@@ -2295,7 +2421,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Sior Carlo - V8+ - Brut Millesimato",
@@ -2313,7 +2440,8 @@
 					"Anidride solforosa o solfiti": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Santus Brut ",
@@ -2331,7 +2459,8 @@
 					"Anidride solforosa o solfiti": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Pierre Gobillard - Brut Autehenttique",
@@ -2349,7 +2478,8 @@
 					"Anidride solforosa o solfiti": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		},
@@ -2372,7 +2502,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Amari Artigianali Locali",
@@ -2390,7 +2521,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Liquori",
@@ -2408,7 +2540,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Cuor di Moscato",
@@ -2426,7 +2559,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Cuor di Barrique",
@@ -2443,7 +2577,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				},
 				{
 					"Nome": "Cuor di Chardonnay",
@@ -2461,7 +2596,8 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"attivo": true
 				}
 			]
 		}
