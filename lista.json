@@ -758,7 +758,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -776,7 +776,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -813,7 +813,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -831,7 +831,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -849,7 +849,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -887,7 +887,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -906,7 +906,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -925,7 +925,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -982,7 +982,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -1001,7 +1001,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -1038,7 +1038,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -1057,7 +1057,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -1076,7 +1076,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -1095,7 +1095,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
@@ -1162,7 +1162,7 @@
 					"Prezzo": "7,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
-					"Crostacei": false,
+					"Crostacei": true,
 					"Frutta a guscio": false,
 					"Glutine": true,
 					"Latte e derivati": true,
@@ -1171,7 +1171,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				},
