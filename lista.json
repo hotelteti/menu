@@ -1576,7 +1576,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Birra alla spina Krombacher (piccola, 2 dl)",
+					"Nome": "Birra alla spina Krombacher (Piccola)",
 					"Prezzo": "2,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1591,10 +1591,11 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "20 cl"
 				},
 				{
-					"Nome": "Birra alla spina Krombacher (media, 4 dl)",
+					"Nome": "Birra alla spina Krombacher (Media)",
 					"Prezzo": "4",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1609,10 +1610,11 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "40 cl"
 				},
 				{
-					"Nome": "Heineken (33 cl)",
+					"Nome": "Heineken",
 					"Prezzo": "2,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1627,10 +1629,11 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "33 cl"
 				},
 				{
-					"Nome": "Heineken (66 cl)",
+					"Nome": "Heineken",
 					"Prezzo": "4",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1645,10 +1648,11 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "66 cl"
 				},
 				{
-					"Nome": "Tennent’s (33 cl)",
+					"Nome": "Tennent’s",
 					"Prezzo": "3,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1663,10 +1667,11 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "33 cl"
 				},
 				{
-					"Nome": "Beck’s (33 cl)",
+					"Nome": "Beck’s",
 					"Prezzo": "2,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1681,10 +1686,11 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "33 cl"
 				},
 				{
-					"Nome": "Nastro Azzurro (33 cl)",
+					"Nome": "Nastro Azzurro",
 					"Prezzo": "2,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1699,10 +1705,11 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "33 cl"
 				},
 				{
-					"Nome": "Pinot Chardonnay alla spina (mezzo litro)",
+					"Nome": "Pinot Chardonnay alla spina",
 					"Prezzo": "4,5",
 					"Anidride solforosa o solfiti": true,
 					"Arachidi": false,
@@ -1717,10 +1724,11 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "mezzo litro"
 				},
 				{
-					"Nome": "Pinot Chardonnay alla spina (calice)",
+					"Nome": "Pinot Chardonnay alla spina",
 					"Prezzo": "2,5",
 					"Anidride solforosa o solfiti": true,
 					"Arachidi": false,
@@ -1735,10 +1743,11 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "calice"
 				},
 				{
-					"Nome": "Prosecco Valdobbiadene DOC (flûte)",
+					"Nome": "Prosecco Valdobbiadene DOC",
 					"Prezzo": "3",
 					"Anidride solforosa o solfiti": true,
 					"Arachidi": false,
@@ -1753,10 +1762,11 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "flûte"
 				},
 				{
-					"Nome": "Vino della casa bianco o rosso (mezzo litro)",
+					"Nome": "Vino della casa bianco o rosso",
 					"Prezzo": "3,5",
 					"Anidride solforosa o solfiti": true,
 					"Arachidi": false,
@@ -1771,7 +1781,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "mezzo litro"
 				}
 			]
 		},
@@ -1780,7 +1791,7 @@
 			"Piatto": [
 				{
 					"Nome": "Pizzica",
-					"Descrizione": "CL. 75",
+					"Descrizione": "75 cl",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1799,7 +1810,7 @@
 				},
 				{
 					"Nome": "Taranta",
-					"Descrizione": "CL. 75",
+					"Descrizione": "75 cl",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1817,8 +1828,8 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Beggia",
-					"Descrizione": "CL. 75",
+					"Nome": "Beggia (Grande)",
+					"Descrizione": "75 cl",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1836,8 +1847,8 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Beggia 33 cl",
-					"Descrizione": "cl 33",
+					"Nome": "Beggia (Piccola)",
+					"Descrizione": "33 cl",
 					"Prezzo": "6",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1855,7 +1866,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Tipa Laguna Beach 33 cl",
+					"Nome": "Tipa Laguna Beach",
 					"Prezzo": "6",
 					"Glutine": false,
 					"Latte e derivati": false,
@@ -1870,7 +1881,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "33 cl"
 				}
 			]
 		},
@@ -2193,7 +2205,7 @@
 				},
 				{
 					"Nome": "Danze della Contessa - Bonsegna",
-					"Descrizione": "Nardò Bianco DOC - 100% Chardonnay - 13 %vol.",
+					"Descrizione": "Nardò Bianco DOC - 100% Chardonnay - 13 % vol.",
 					"Prezzo": "13",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -2231,7 +2243,7 @@
 				},
 				{
 					"Nome": "Verdeca Sette Lune - L’Archetipo - BIO da agricoltura sinergica",
-					"Descrizione": "Salento IGT - 100% Verdeca - 11,5  % vol. - TRIPLE \"A\"",
+					"Descrizione": "Salento IGT - 100% Verdeca - 11,5 % vol. - TRIPLE \"A\"",
 					"Prezzo": "34",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
