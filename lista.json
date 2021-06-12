@@ -1326,7 +1326,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				}
@@ -1630,7 +1630,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Heineken (66 dl)",
+					"Nome": "Heineken (66 cl)",
 					"Prezzo": "4",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
