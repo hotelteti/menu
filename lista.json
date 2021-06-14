@@ -1442,6 +1442,24 @@
 					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
+				},
+				{
+					"attivo": true,
+					"Nome": "Crema catalana",
+					"Prezzo": "4,5",
+					"Glutine": true,
+					"Latte e derivati": true,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
 				}
 			]
 		},
@@ -2496,7 +2514,7 @@
 			]
 		},
 		{
-			"Titolo": "Amari",
+			"Titolo": "Amari e Distillati",
 			"Piatto": [
 				{
 					"Nome": "Amari",
@@ -2610,6 +2628,80 @@
 					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
+				},
+				{
+					"attivo": true,
+					"Nome": "Silver Silentium AcquaVitae ",
+					"Descrizione": "Acquavite, dalle vinacce selezionate di Teroldego, invecchiata in barrique per almeno 5 anni",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
+				{
+					"attivo": true,
+					"Nome": "Maison Gautier Cognac VSOP",
+					"Prezzo": "7.5",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
+				{
+					"attivo": true,
+					"Nome": "J. Bally",
+					"Prezzo": "4.5",
+					"Descrizione": "Rhum Ambrato",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
+				{
+					"attivo": true,
+					"Nome": "Bacardi",
+					"Prezzo": "4",
+					"Descrizione": "Rhum Bianco",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
 				}
 			]
 		}
