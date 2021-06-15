@@ -34,7 +34,7 @@
 }
 
 body {
-	background: var(--back) !important;
+	background: var(--back);
 	color: var(--text);
 	font: 16px/1.8em Optima, Corbel, sans-serif;
 }
@@ -311,4 +311,37 @@ body:not(.show-allergens) .allergeni {
 
 .show-allergens .toggle-allergens:after {
 	content: 'sì';
+}
+
+@media print {
+	* {
+		background: none !important;
+		box-shadow: none !important;
+		position: static !important;
+		color: black !important;
+	}
+	body {
+		font-size: 14px;
+	}
+	nav,
+	.dish-image,
+	.ball:before,
+	.nav {
+		display: none !important;
+	}
+	main {
+		display: block;
+	}
+	.ball,
+	.pill-text {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.section,
+	.dish {
+		margin-bottom: 0;
+	}
+	h1 {
+		page-break-before: always;
+	}
 }
