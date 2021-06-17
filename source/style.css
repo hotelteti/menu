@@ -30,7 +30,6 @@
 
 .container {
 	margin: auto;
-	max-width: 768px;
 }
 
 body {
@@ -56,7 +55,7 @@ nav .container {
 nav img {
 	height: 50px;
 	width: auto;
-	margin-left: 0.5em;
+	margin-left: 0.4em;
 }
 
 nav .nav {
@@ -109,9 +108,15 @@ nav a {
 	display: block;
 	width: var(--size);
 	height: var(--size);
-	border-radius: 50%;
+	border-radius: 100%;
 	background-color: var(--highlight, #f0eadc);
 	flex-shrink: 0;
+}
+h1.ball:before {
+	width: calc(var(--size)/2);
+	border-radius: 0;
+	border-top-right-radius: 100% 50%;
+	border-bottom-right-radius: 100% 50%;
 }
 .pill-text {
 	margin: 0 0.3em;
@@ -129,21 +134,19 @@ nav a {
 h1 {
 	font-size: var(--large-text);
 	line-height: 1.5em;
-	background: var(--back);
 	font-weight: normal;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	position: sticky;
 	z-index: 50;
-	top: 59px;
-
 	text-align: center;
-	padding-left: 10px;
+}
+.sticky {
+	position: sticky;
+	top: 59px;
 }
 
 h1.ball::before {
 	--size: 1em;
-	margin-left: -0.8em;
 }
 
 .ball:nth-of-type(1),
@@ -239,6 +242,13 @@ h2 {
 	margin: 20px 0 60px;
 }
 
+.center {
+	margin: auto;
+	max-width: 768px;
+}
+.bg {
+	background: var(--back);
+}
 .dish {
 	background: var(--base);
 	box-shadow: 0 2px 19px rgba(119, 87, 0, 0.1);

@@ -2,7 +2,7 @@ textarea::-webkit-input-placeholder {
 	color: inherit;
 }
 
-h1 {
+.sticky {
 	position: static;
 }
 
@@ -50,4 +50,10 @@ h1 {
 
 .tags:focus-within::before {
 	display: block;
+}
+
+img.mv-empty {
+	width: 4em;
+	height: 4em;
+	float: right;
 }
