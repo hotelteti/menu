@@ -1,5 +1,5 @@
 doctype html
-html(data-theme='white' lang='it')
+html(data-theme='white' lang='it' class='loading')
   head
     meta(charset='UTF-8')
     meta(name='viewport' content='width=device-width, initial-scale=1.0')
@@ -11,29 +11,29 @@ html(data-theme='white' lang='it')
     link(rel='stylesheet' href='modifica.css')
   main(mv-app='lista' mv-storage='https://github.com/hotelteti/menu' mv-mode='edit')
     .content.container
-      .section.ball-container(property='Sezione' mv-multiple)
-        .bg.sticky
-          h1.ball.center
-            .pill-text(property='Titolo')
-        .center
-          div(property='Piatto' mv-multiple)
-            .dish-image
-              img(property='Foto')
-            .dish
+      details.section.ball-container.center(property='Sezione' mv-multiple open)
+        summary.bg.sticky
+          h1.ball
+            span.pill-text(property='Titolo')
+        div(property='Piatto' mv-multiple)
+          .dish-image
+            img(property='Foto')
+          .dish
 
-              label
-                input(type="checkbox" property='attivo' id='attivo-[$index]' checked)
-                = ' Attivo'
-              h2(property='Nome')
-              div
-                strong(property='Prezzo')
-                p.descrizione(property='Descrizione' aria-label="Descrizione o lista ingredienti")
-                each list, tag in tags
-                  .tags(tabindex=0 aria-label=tag)
-                    each opzione in list
-                      input(type="checkbox" property=opzione id=opzione + '-[$index][idify(Nome)]' hidden)
-                      label(for=opzione+ '-[$index][idify(Nome)]')
-                        = opzione
+            label
+              input(type="checkbox" property='attivo' id='attivo-[$index]' checked)
+              = ' Attivo'
+            h2(property='Nome')
+            div
+              strong(property='Prezzo')
+              p.descrizione(property='Descrizione' aria-label="Descrizione o lista ingredienti")
+              each list, tag in tags
+                .tags(tabindex=0 aria-label=tag)
+                  each opzione in list
+                    input(type="checkbox" property=opzione id=opzione + '-[$index][idify(Nome)]' hidden)
+                    label(for=opzione+ '-[$index][idify(Nome)]')
+                      = opzione
       footer.center
         p(property='Informazioni')
 
+  script(src='modifica.js')
