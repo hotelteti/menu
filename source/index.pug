@@ -26,6 +26,8 @@ main(hidden)
           h1.ball.center
             .pill-text= section.Titolo
         .details-content.center
+          if section.intro
+            .dish !{ lineBreakToBr(section.intro) }
           each piatto in section.Piatto || section.Bevanda
             if piatto.attivo
               if piatto.Foto
