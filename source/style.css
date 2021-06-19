@@ -63,10 +63,10 @@ nav .nav {
 	margin-left: auto;
 }
 
-nav a {
+.menu a,
+nav .nav {
 	font: inherit;
 	text-decoration: none;
-	display: inline-block;
 	padding: 10px 1em;
 	color: var(--text);
 	background: var(--base);
