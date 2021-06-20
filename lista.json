@@ -1290,8 +1290,7 @@
 					"Bio": false,
 					"attivo": true
 				}
-			],
-			"intro": "Orari pizzeria:\nAsporto dalle 19:00\nAl tavolo dalle 19:30"
+			]
 		},
 		{
 			"Titolo": "Pizze per bambini",
@@ -2527,7 +2526,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Susumante - L’Archetipo - Rosè Brut BIO da agricoltura sinergica",
