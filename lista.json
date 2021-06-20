@@ -1389,7 +1389,7 @@
 					"Vegano": true,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true,
+					"attivo": false,
 					"Descrizione": "Salsa di fichi freschi su panbiscotto, crema di riso al limone e fichi caramellati\n(Senza Lattosio, senza Glutine)"
 				},
 				{
