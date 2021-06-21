@@ -255,7 +255,7 @@
 			"Titolo": "Secondi",
 			"Piatto": [
 				{
-					"Nome": "Tagliata di tonno rosso scottato, in crosta di semi di papavero e chia adagiata su letto di rucola e germogli di ravanello",
+					"Nome": "Tagliata di tonno rosso scottato, in crosta di semi di papavero e sesamo adagiata su letto di rucola e germogli di ravanello",
 					"Prezzo": "14",
 					"Descrizione": "Piatto del giorno",
 					"Glutine": false,
@@ -271,7 +271,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Baccalà in oliocottura con salsa di aglio nero di Voghiera accompagnato da crema di zucchine, crema di carote al curry e polvere di finocchietto selvatico",
