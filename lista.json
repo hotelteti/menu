@@ -156,7 +156,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": true,
-					"attivo": true
+					"attivo": true,
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@281f2043de18de08c619b9e001585bd6a7836e43/images/8579C1A0-25CA-46C9-A942-D77CD038CCB5_1_201_a.jpeg"
 				},
 				{
 					"Nome": "Riso “Karbor” mantecato con misto mare, crema di prezzemolo e gamberi viola di Gallipoli scottati.",
