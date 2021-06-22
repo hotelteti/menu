@@ -274,7 +274,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@c1aebb68b6472b25f136f44c85a9b658dcb33523/images/E6A72EA2-5FF6-413D-BDC7-EFFAD30AA0BA.jpeg"
 				},
 				{
 					"Nome": "Baccalà in oliocottura con salsa di aglio nero di Voghiera accompagnato da crema di zucchine, crema di carote al curry e polvere di finocchietto selvatico",
@@ -383,7 +384,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@d8a5af70e003429809584f7b880868da85e8a1fb/images/66D3886D-77EF-4CAC-BA73-3EBBE83C04AA.jpeg"
 				},
 				{
 					"Nome": "Il pescato del giorno varia, di conseguenza la sua preparazione che può essere al sale, alla griglia, o al forno. Il prezzo si intende al lordo del peso",
