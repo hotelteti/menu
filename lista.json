@@ -293,7 +293,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@54ebcc7b55145d240187c53a0626789bc08e5d82/images/A3757457-6CE8-441D-B714-2C630FCC13E2_1_201_a.jpeg"
 				},
 				{
 					"Nome": "Gamberoni Viola¹ di Gallipoli a scelta tra crudi, al sale o alla griglia",
