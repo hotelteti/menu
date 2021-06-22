@@ -1349,7 +1349,8 @@
 					"Bio": false,
 					"attivo": true
 				}
-			]
+			],
+			"intro": "Orari pizzeria:\nAsporto dalle  19:00\nAl tavolo dalle 19:30"
 		},
 		{
 			"Titolo": "Dessert",
