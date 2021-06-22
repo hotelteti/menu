@@ -174,7 +174,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@3f3e83929b7e5576250256af205c320d49cf38f4/images/23019497-B358-4240-A4A0-28C85F2FEE69_1_201_a.jpeg"
 				},
 				{
 					"Nome": "Linguine ai frutti di mare con cozze, vongole, gamberetti¹, scampo¹ e pomodorini",
