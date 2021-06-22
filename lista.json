@@ -1983,6 +1983,25 @@
 					"attivo": true
 				},
 				{
+					"attivo": true,
+					"Nome": "Taranta 33",
+					"Prezzo": "6",
+					"Descrizione": "Ambrata",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
+				{
 					"Nome": "Beggia (Piccola)",
 					"Descrizione": "33 cl",
 					"Prezzo": "6",
@@ -1999,7 +2018,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Tipa Laguna Beach",
