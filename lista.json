@@ -620,7 +620,7 @@
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
-					"Vegetariano": true,
+					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
 				}
