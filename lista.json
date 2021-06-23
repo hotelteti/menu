@@ -95,7 +95,8 @@
 					"Vegano": false,
 					"Vegetariano": true,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@1e9faa1b64a3e2610985a677c79dc0078dde0272/images/12923C58-8079-4801-B9CB-8849A200978B_1_201_a.jpeg"
 				},
 				{
 					"Nome": "Arcobaleno di rape rosse e carote con riso nero aromatico “Gioiello”, pecorino semi-stagionato, medaglione di verdure con mais croccante, crema di piselli¹ ed emulsione alla menta con olio evo e aceto di mele",
@@ -115,6 +116,26 @@
 					"Vegetariano": true,
 					"Bio": false,
 					"attivo": true
+				},
+				{
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@35ed738666dc1a94d4038b1ca7f1369d229ae039/images/12DBDED4-FFCB-432C-B6A8-E1CF24558354_1_201_a.jpeg",
+					"attivo": false,
+					"Nome": "Crudità dello ionio",
+					"Prezzo": "22",
+					"Descrizione": "Scampo,Gambero violo, tartare e carpaccio di pesce,( sarago, spigola o orata), seppia, carpaccio di tomo rosso, cozze e vongole",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
 				}
 			]
 		},
