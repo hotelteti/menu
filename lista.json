@@ -72,7 +72,7 @@
 					"Molluschi": false,
 					"Pesce": false,
 					"Sedano": true,
-					"Uova e derivati": false,
+					"Uova e derivati": true,
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
