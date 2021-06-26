@@ -133,7 +133,7 @@ h1.ball:before {
 
 h1 {
 	font-size: var(--large-text);
-	line-height: 1.5em;
+	line-height: 1.8em;
 	font-weight: normal;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
