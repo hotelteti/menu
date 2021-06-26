@@ -1947,7 +1947,7 @@
 			"Titolo": "Birre artigianali italiane",
 			"Piatto": [
 				{
-					"Nome": "Pizzica",
+					"Nome": "Pizzica ( Chiara )",
 					"Descrizione": "75 cl",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
@@ -1966,7 +1966,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Taranta",
+					"Nome": "Taranta ( Ambrata )",
 					"Descrizione": "75 cl",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
@@ -1985,7 +1985,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Beggia (Grande)",
+					"Nome": "Beggia Ambrata",
 					"Descrizione": "75 cl",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
@@ -2005,9 +2005,9 @@
 				},
 				{
 					"attivo": true,
-					"Nome": "Taranta 33",
+					"Nome": "Taranta ( Ambrata )",
 					"Prezzo": "6",
-					"Descrizione": "Ambrata",
+					"Descrizione": "33 cl",
 					"Glutine": false,
 					"Latte e derivati": false,
 					"Crostacei": false,
@@ -2204,9 +2204,28 @@
 			"Titolo": "I vini rosati",
 			"Piatto": [
 				{
+					"attivo": true,
+					"Nome": " Calice (Tenuta Paraida Rosato)",
+					"Prezzo": "5",
+					"Descrizione": "Copertino DOC - 100% Negroamaro - 13 % vol.",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
+				{
 					"Nome": "Tenuta Paraida Rosato - Marulli",
 					"Descrizione": "Copertino DOC - 100% Negroamaro - 13 % vol.",
-					"Prezzo": "19",
+					"Prezzo": "21",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -2342,9 +2361,28 @@
 			"Titolo": "I vini bianchi",
 			"Piatto": [
 				{
+					"attivo": true,
+					"Nome": "Calice Krita",
+					"Prezzo": "5",
+					"Descrizione": "Salento IGP - 100% Malvasia Bianca - 12,5 % vol.",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": true
+				},
+				{
 					"Nome": "Krita - L’Astore Masseria - BIO",
 					"Descrizione": "Salento IGP - 100% Malvasia Bianca - 12,5 % vol.",
-					"Prezzo": "19",
+					"Prezzo": "22",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -2357,7 +2395,7 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false,
+					"Bio": true,
 					"attivo": true
 				},
 				{
@@ -2376,7 +2414,7 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false,
+					"Bio": true,
 					"attivo": true
 				},
 				{
@@ -2414,7 +2452,7 @@
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false,
+					"Bio": true,
 					"attivo": true
 				},
 				{
