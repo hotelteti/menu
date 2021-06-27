@@ -1,5 +1,5 @@
 doctype html
-html(data-theme='white' lang='it')
+html(data-theme='white' lang='it' class='loading')
   head
     meta(charset='UTF-8')
     meta(name='viewport' content='width=device-width, initial-scale=1.0')
@@ -11,9 +11,10 @@ html(data-theme='white' lang='it')
     link(rel='stylesheet' href='modifica.css')
   main(mv-app='lista' mv-storage='https://github.com/hotelteti/menu' mv-mode='edit')
     .content.container
-      .section.ball-container.center(property='Sezione' mv-multiple open)
-        h1.ball.bg.sticky
-          span.pill-text(property='Titolo')
+      details.section.ball-container.center(property='Sezione' mv-multiple open)
+        summary.bg.sticky
+          h1.ball
+            span.pill-text(property='Titolo')
         p(property='intro' aria-label="Informazioni sezione")
         div(property='Piatto' mv-multiple)
           .dish-image
@@ -35,3 +36,5 @@ html(data-theme='white' lang='it')
                       = opzione
       footer.center
         p(property='Informazioni')
+
+  script(src='modifica.js')
