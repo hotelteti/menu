@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"scripts": {
-		"build": "parcel build 'source/**/*.html' 'source/**/*.pug' --no-cache",
+		"build": "parcel build 'source/**/*.html' 'source/**/*.pug' 'source/favicon.ico' --no-cache",
 		"start": "parcel serve 'source/**/*.html' 'source/**/*.pug' --no-cache",
 		"mavo": "browser-sync start --server --files '*'"
 	},
