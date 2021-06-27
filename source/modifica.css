@@ -58,27 +58,8 @@ img.mv-empty {
 	height: 4em;
 	float: right;
 }
-details.section {
-	margin: 10px;
-}
-details.section summary {
-  list-style: none;
-	cursor: pointer;
-	outline: none;
-}
-details.section:not([open]) {
-	margin-bottom: 1em;
-}
-details.section summary::-webkit-details-marker {
-  display: none;
-}
-.loading .section summary + * {
-	position: absolute;
-	pointer-events: none;
-	opacity: 0;
-}
-
-details.section {
+.section {
+	padding-bottom: 1px; /* Margin uncollapse */
 	background: var(--base);
 	box-shadow: 0 2px 19px rgba(119, 87, 0, 0.1);
 	margin: 2em 0;
