@@ -62,7 +62,7 @@
 				},
 				{
 					"Nome": "Insalata di mare con gamberi¹, seppia², calamaro², polpo², julienne di verdure, ciuffo di cipolla Tropea in agrodolce con un graffio di maionese di sedano e rapa rossa",
-					"Prezzo": "15",
+					"Prezzo": "16",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": true,
@@ -81,7 +81,7 @@
 				},
 				{
 					"Nome": "Fantasia vegetale con involtino di melanzane caciocavallo pinoli e pane aromatizzato, cipolla ubriaca al forno, caponata, tortino di patate e zucchine con crema di grana, rollè di peperoni",
-					"Prezzo": "14",
+					"Prezzo": "15",
 					"Anidride solforosa o solfiti": true,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -101,7 +101,7 @@
 				{
 					"Nome": "Arcobaleno di rape rosse e carote con riso nero aromatico “Gioiello”, pecorino semi-stagionato, medaglione di verdure con mais croccante, crema di piselli¹ ed emulsione alla menta con olio evo e aceto di mele",
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@b4eff628b076c73f254c44e8709efbc215c8801f/source/images/image_1595579089.jpeg",
-					"Prezzo": "14",
+					"Prezzo": "15",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
