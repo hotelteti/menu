@@ -1383,7 +1383,7 @@
 			"Titolo": "Dessert",
 			"Piatto": [
 				{
-					"attivo": true,
+					"attivo": false,
 					"Nome": "Mouse di cioccolato con crumble alle mandorle e fave di cacao BIO",
 					"Glutine": true,
 					"Latte e derivati": false,
@@ -1566,7 +1566,7 @@
 				},
 				{
 					"attivo": true,
-					"Nome": "Melone",
+					"Nome": "Melone o Anguria",
 					"Prezzo": "3",
 					"Glutine": false,
 					"Latte e derivati": false,
