@@ -2204,7 +2204,7 @@
 			"Titolo": "I vini rosati",
 			"Piatto": [
 				{
-					"attivo": true,
+					"attivo": false,
 					"Nome": " Calice (Tenuta Paraida Rosato)",
 					"Prezzo": "5",
 					"Descrizione": "Copertino DOC - 100% Negroamaro - 13 % vol.",
@@ -2239,7 +2239,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Anima Rosa - Vigne Monache",
