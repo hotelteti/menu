@@ -1108,7 +1108,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "La Ficata (Se disponibile)",
+					"Nome": "La Ficata",
 					"Descrizione": "Pomodoro, mozzarella, prosciutto crudo di Parma, fichi¹",
 					"Prezzo": "8",
 					"Anidride solforosa o solfiti": false,
@@ -1333,7 +1333,7 @@
 					"Vegano": false,
 					"Vegetariano": true,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				}
 			],
 			"intro": "Orari pizzeria:\nAsporto dalle  19:00\nAl tavolo dalle 19:30"
