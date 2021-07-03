@@ -579,7 +579,7 @@
 					"attivo": true
 				},
 				{
-					"attivo": true,
+					"attivo": false,
 					"Nome": "Insalata di germogli misti e insalata verde",
 					"Prezzo": "6",
 					"Glutine": false,
