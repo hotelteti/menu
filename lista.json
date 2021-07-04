@@ -1421,9 +1421,9 @@
 				},
 				{
 					"attivo": true,
-					"Nome": "Dolce del giorno ",
-					"Prezzo": "5",
-					"Descrizione": "Tiramisù",
+					"Nome": "Tiramisù Teti",
+					"Prezzo": "6",
+					"Descrizione": "Torta margherita con crema alle mandorle, mandorle a scaglie, tostate e caffè Leccese",
 					"Glutine": true,
 					"Latte e derivati": true,
 					"Crostacei": false,
