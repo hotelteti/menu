@@ -2,6 +2,8 @@ import animate from 'animate-prop';
 
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
+
+document.addEventListener('click', zoomOnClick);
 document.addEventListener('click', event => {
 	const link = event.target.closest('a');
 	if (!link) {
@@ -23,7 +25,12 @@ function easeOutQuint(x) {
 	return 1 - Math.pow(1 - x, 5);
 	}
 
-function zoomOnClick({currentTarget: button}) {
+function zoomOnClick(event) {
+	const button = event.target.closest('.dish-image');
+	if (!button) {
+		return;
+	}
+
 	button.disabled = true;
 	const image = button.firstChild;
 	try {
@@ -53,12 +60,12 @@ function zoomOnClick({currentTarget: button}) {
 	}
 }
 
-$$('.dish-image').forEach(button => {
-	button.addEventListener('click', zoomOnClick);
-});
+document.addEventListener('click', () => {
+	const allergenToggle = event.target.closest('.toggle-allergens');
+	if (!allergenToggle) {
+		return;
+	}
 
-const allergenToggle = $('.toggle-allergens');
-allergenToggle.addEventListener('click', () => {
 	localStorage.showAllergens = Number(
 		document.body.classList.toggle('show-allergens')
 	);
