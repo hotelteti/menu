@@ -118,11 +118,11 @@
 					"attivo": true
 				},
 				{
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@b4eff628b076c73f254c44e8709efbc215c8801f/images/12DBDED4-FFCB-432C-B6A8-E1CF24558354_1_201_a.jpeg",
-					"attivo": false,
+					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@11dbe54bda5f01e11ff338a6b142ce6c09c2e3e5/images/5F66C15E-D3E3-4C10-85BF-0C4D2C8D430B_1_201_a.jpeg",
+					"attivo": true,
 					"Nome": "Crudità dello ionio",
-					"Prezzo": "22",
-					"Descrizione": "Scampo,Gambero violo, tartare e carpaccio di pesce,( sarago, spigola o orata), seppia, carpaccio di tomo rosso, cozze e vongole",
+					"Prezzo": "25",
+					"Descrizione": "Scampo,tris di gamberi, tartare di tonno rosso con cipolla di tropea e olive nere, carpaccio di spigola, seppia alla mela verde, salsa di barbabietola rossa, zenzeri in agrodolce, capsule di olio evo",
 					"Glutine": false,
 					"Latte e derivati": false,
 					"Crostacei": true,
@@ -1382,6 +1382,25 @@
 		{
 			"Titolo": "Dessert",
 			"Piatto": [
+				{
+					"attivo": true,
+					"Nome": "Due Creme",
+					"Prezzo": "6",
+					"Descrizione": "Coulis di fragole, fragole, crema pasticciera, crema filadelfia e pan di Spagna con bagna al cointreau ",
+					"Glutine": true,
+					"Latte e derivati": true,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": true,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
 				{
 					"attivo": false,
 					"Nome": "Mouse di cioccolato con crumble alle mandorle e fave di cacao BIO",
