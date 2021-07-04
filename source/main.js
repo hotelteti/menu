@@ -2,16 +2,21 @@ import animate from 'animate-prop';
 
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
-window.addEventListener('popstate', event => {
-	const showMenu = location.hash === '#menu';
+document.addEventListener('click', event => {
+	const link = event.target.closest('a');
+	if (!link) {
+		return;
+	}
+	const showMenu = link.hash === "#menu";
 	$('.nav').hidden = !showMenu;
 	$('main').hidden = showMenu;
 
 	if (showMenu) {
 		window.scrollTo(0, 0);
 	} else {
-		$(location.hash).scrollIntoView();
+		$(link.hash).scrollIntoView();
 	}
+	event.preventDefault();
 });
 
 function easeOutQuint(x) {
