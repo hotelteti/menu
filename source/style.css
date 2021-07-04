@@ -5,6 +5,7 @@
 	--base: #fff;
 	--text: #004c6c;
 	--large-text: 28px;
+	--radius: 6px;
 }
 @media (prefers-color-scheme: dark) {
 	:root:not([data-theme='white']) {
@@ -254,6 +255,12 @@ h2 {
 	box-shadow: 0 2px 19px rgba(119, 87, 0, 0.1);
 	padding: 10px;
 	margin-bottom: 1.5em;
+	border-bottom-left-radius: var(--radius);
+	border-bottom-right-radius: var(--radius);
+}
+:not(button) + .dish {
+	border-top-left-radius: var(--radius);
+	border-top-right-radius: var(--radius);
 }
 
 .dish strong {
@@ -266,6 +273,8 @@ h2 {
 
 .dish-image {
 	display: block;
+	border-top-left-radius: var(--radius);
+	border-top-right-radius: var(--radius);
 }
 .dish-image img {
 	width: 100%;
