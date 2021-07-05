@@ -1679,6 +1679,25 @@
 					"attivo": true
 				},
 				{
+					"attivo": true,
+					"Nome": "Succo di mela rossa o mela gialla",
+					"Prezzo": "3,5",
+					"Descrizione": "Succo 100% di mela BIO , senza conservanti e senza  coloranti",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": true,
+					"Vegetariano": false,
+					"Bio": true
+				},
+				{
 					"Nome": "Coca Cola alla spina (piccola)",
 					"Prezzo": "2",
 					"Anidride solforosa o solfiti": false,
