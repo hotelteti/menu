@@ -314,7 +314,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true,
+					"attivo": false,
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/A3757457-6CE8-441D-B714-2C630FCC13E2_1_201_a.jpeg"
 				},
 				{
