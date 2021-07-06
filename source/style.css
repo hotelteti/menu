@@ -38,6 +38,10 @@ body {
 	color: var(--text);
 	font: 16px/1.8em Optima, Corbel, sans-serif;
 }
+main {
+	padding-left: 5px;
+	padding-right: 5px;
+}
 nav {
 	margin: 20px auto;
 }
@@ -59,9 +63,16 @@ nav img {
 	margin-left: 0.4em;
 }
 
-nav .nav {
+main:not([hidden]) nav .nav {
 	display: flex;
 	margin-left: auto;
+	animation: zoom 0.2s;
+}
+
+@keyframes zoom {
+	from {
+		transform: scale(0.5)
+	}
 }
 
 .menu a,
@@ -72,7 +83,6 @@ nav .nav {
 	color: var(--text);
 	background: var(--base);
 	border-radius: 5em;
-	border: solid 1px transparent;
 }
 
 .menu {
@@ -248,13 +258,13 @@ h2 {
 	background: var(--base);
 	box-shadow: 0 2px 19px rgba(119, 87, 0, 0.1);
 	padding: 10px;
-	margin-bottom: 1.5em;
-	border-bottom-left-radius: var(--radius);
-	border-bottom-right-radius: var(--radius);
+	margin-bottom: 0.8em;
+	border-radius: var(--radius);
 }
-:not(button) + .dish {
-	border-top-left-radius: var(--radius);
-	border-top-right-radius: var(--radius);
+
+button + .dish {
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
 }
 
 .dish strong {
@@ -269,6 +279,7 @@ h2 {
 	display: block;
 	border-top-left-radius: var(--radius);
 	border-top-right-radius: var(--radius);
+	margin-top: 1.5em;
 }
 .dish-image img {
 	width: 100%;
@@ -326,6 +337,45 @@ body:not(.show-allergens) .allergeni {
 	content: 'sì';
 }
 
+
+.stagger-container:not([hidden]) .staggered-anim {
+	animation: slide-in 0.4s 0.45s both;
+}
+
+.staggered-anim:nth-of-type(1) {
+	animation-delay: 0s !important;
+}
+.staggered-anim:nth-of-type(2) {
+	animation-delay: 0.09s !important;
+}
+.staggered-anim:nth-of-type(3) {
+	animation-delay: 0.17s !important;
+}
+.staggered-anim:nth-of-type(4) {
+	animation-delay: 0.24s !important;
+}
+.staggered-anim:nth-of-type(5) {
+	animation-delay: 0.30s !important;
+}
+.staggered-anim:nth-of-type(6) {
+	animation-delay: 0.35s !important;
+}
+.staggered-anim:nth-of-type(7) {
+	animation-delay: 0.39s !important;
+}
+.staggered-anim:nth-of-type(8) {
+	animation-delay: 0.42s !important;
+}
+.staggered-anim:nth-of-type(9) {
+	animation-delay: 0.44s !important;
+}
+@keyframes slide-in {
+	from {
+		transform: translateY(10px);
+		opacity: 0;
+	}
+}
+
 @media print {
 	* {
 		background: none !important;
@@ -358,3 +408,4 @@ body:not(.show-allergens) .allergeni {
 		page-break-before: always;
 	}
 }
+

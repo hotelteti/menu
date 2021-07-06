@@ -6,16 +6,16 @@ html(lang="it")
     title Menu Ristorante Teti
     link(rel='stylesheet' href='style.css')
     script(src='main.js' async)
-  .nav
+  .nav.stagger-container
     nav
       .container.center
         img(src='logo.png' alt='Ristorante Teti' height='104' width='130')
     .menu.container.center
       each section in lista.Sezione
-        a.ball(href='#' + slugify(section.Titolo))
+        a.ball.staggered-anim(href='#' + slugify(section.Titolo))
           .pill-text= section.Titolo
       button.toggle-allergens Mostra allergeni:
-  main(hidden)
+  main.stagger-container(hidden)
     nav
       .container.center
         a(href='#menu')
@@ -32,19 +32,20 @@ html(lang="it")
               .dish !{ lineBreakToBr(section.intro) }
             each piatto in section.Piatto || section.Bevanda
               if piatto.attivo
-                if piatto.Foto
-                  button.dish-image(type='button')
-                    img(loading='lazy' src=relativizeCDNURL(piatto.Foto))
-                .dish
-                  h2= piatto.Nome
-                  p
-                    strong= '€ ' + (piatto.Prezzo || '').replace('€', '')
-                    if piatto.Descrizione
-                      span.descrizione= ' • ' + piatto.Descrizione
-                  if piatto.allergeni.length > 0
-                    p.allergeni= 'Allergeni: ' + piatto.allergeni.join(', ')
-                  if piatto.etichette.length > 0
-                    p.Tipo= piatto.etichette.join(', ')
+                .dish-wrapper.staggered-anim
+                  if piatto.Foto
+                    button.dish-image(type='button')
+                      img(loading='lazy' src=relativizeCDNURL(piatto.Foto))
+                  .dish
+                    h2= piatto.Nome
+                    p
+                      strong= '€ ' + (piatto.Prezzo || '').replace('€', '')
+                      if piatto.Descrizione
+                        span.descrizione= ' • ' + piatto.Descrizione
+                    if piatto.allergeni.length > 0
+                      p.allergeni= 'Allergeni: ' + piatto.allergeni.join(', ')
+                    if piatto.etichette.length > 0
+                      p.Tipo= piatto.etichette.join(', ')
 
       footer.center
         p !{ lineBreakToBr(lista.Informazioni) }
