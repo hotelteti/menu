@@ -314,7 +314,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false,
+					"attivo": true,
 					"Foto": "../images/A3757457-6CE8-441D-B714-2C630FCC13E2_1_201_a.jpeg"
 				},
 				{
