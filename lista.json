@@ -491,14 +491,15 @@
 					"Frutta a guscio": false,
 					"Glutine": false,
 					"Latte e derivati": false,
-					"Molluschi": false,
+					"Molluschi": true,
 					"Pesce": false,
 					"Sedano": false,
 					"Uova e derivati": false,
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Prezzo": "17"
 				}
 			]
 		},
