@@ -4,7 +4,7 @@
 			"Titolo": "I nostri antipasti",
 			"Piatto": [
 				{
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/EBD403C3-D845-476F-AD65-6CB6B576667A.jpeg",
+					"Foto": "../images/EBD403C3-D845-476F-AD65-6CB6B576667A.jpeg",
 					"Nome": "Tonno Rosso cotto a bassa temperatura al profumo di arancio, con tentacoli di polpo grigliato, accompagnato da mousse di cicerchia Ugentina e salse di sedano, mango e lamponi",
 					"Prezzo": "16",
 					"Glutine": true,
@@ -23,8 +23,8 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Capocollo di Martina Franca con burrata salentina, crumble di frise integrali condite con pomodoro, olio evo e basilico",
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/image_1591889424.jpeg",
+					"Nome": "Capocollo di Martina Franca con burrata Salentina, crumble di frise integrali condite con pomodoro, olio evo e basilico",
+					"Foto": "../images/image_1591889424.jpeg",
 					"Prezzo": "15",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -43,7 +43,7 @@
 				},
 				{
 					"Nome": "Gelè, gamberi viola di Gallipoli custoditi in gelée al limone, con cubi di melone, adagiati su misticanza condita con vinaigrette, crema di avocado e corallo vegetale",
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/image_1595536232.jpeg",
+					"Foto": "../images/image_1595536232.jpeg",
 					"Prezzo": "18",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -76,7 +76,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/C3B64765-9DE9-4CE1-B0C6-0E26524BCAA6.jpeg",
+					"Foto": "../images/C3B64765-9DE9-4CE1-B0C6-0E26524BCAA6.jpeg",
 					"attivo": true
 				},
 				{
@@ -96,11 +96,11 @@
 					"Vegetariano": true,
 					"Bio": false,
 					"attivo": true,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/12923C58-8079-4801-B9CB-8849A200978B_1_201_a.jpeg"
+					"Foto": "../images/12923C58-8079-4801-B9CB-8849A200978B_1_201_a.jpeg"
 				},
 				{
 					"Nome": "Arcobaleno di rape rosse e carote con riso nero aromatico “Gioiello”, pecorino semi-stagionato, medaglione di verdure con mais croccante, crema di piselli¹ ed emulsione alla menta con olio evo e aceto di mele",
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/image_1595579089.jpeg",
+					"Foto": "../images/image_1595579089.jpeg",
 					"Prezzo": "15",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -118,11 +118,11 @@
 					"attivo": true
 				},
 				{
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/5F66C15E-D3E3-4C10-85BF-0C4D2C8D430B_1_201_a.jpeg",
+					"Foto": "../images/5F66C15E-D3E3-4C10-85BF-0C4D2C8D430B_1_201_a.jpeg",
 					"attivo": true,
 					"Nome": "Crudità dello ionio",
 					"Prezzo": "25",
-					"Descrizione": "Scampo,tris di gamberi, tartare di tonno rosso con cipolla di tropea e olive nere, carpaccio di spigola, seppia alla mela verde, salsa di barbabietola rossa, zenzero in agrodolce e capsule di olio evo",
+					"Descrizione": "Scampo, tris di gamberi, tartare di tonno rosso con cipolla di Tropea e olive nere, carpaccio di spigola, seppia alla mela verde, salsa di barbabietola rossa, zenzero in agrodolce e capsule di olio evo",
 					"Glutine": false,
 					"Latte e derivati": false,
 					"Crostacei": true,
@@ -144,7 +144,7 @@
 			"Piatto": [
 				{
 					"Nome": "Tagliolini Teti con vongole e brunoise di zucchine con pioggia di menta fresca e scorza di limone",
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/image_1595580379.jpeg",
+					"Foto": "../images/image_1595580379.jpeg",
 					"Prezzo": "15",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -162,7 +162,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Il Pacchero, con farina integrale BIO, Senatore Cappelli, salsa peperone rosso, pomodoro, su mouse di pecorino Pugliese, stagionato in grotta, pomodori confì e croccante di pancetta affumicata.",
+					"Nome": "Il Pacchero, con farina integrale BIO, Senatore Cappelli, salsa peperone rosso, pomodoro, su mouse di pecorino Pugliese, stagionato in grotta, pomodori confì e croccante di pancetta affumicata",
 					"Prezzo": "15",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -178,10 +178,10 @@
 					"Vegetariano": false,
 					"Bio": true,
 					"attivo": true,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/1B06C651-CAA4-418D-8F2F-FF889EBA7E7E_1_201_a.jpeg"
+					"Foto": "../images/1B06C651-CAA4-418D-8F2F-FF889EBA7E7E_1_201_a.jpeg"
 				},
 				{
-					"Nome": "Riso “Karbor” mantecato con misto mare, crema di prezzemolo e gamberi viola di Gallipoli scottati.",
+					"Nome": "Riso “Karbor” mantecato con misto mare, crema di prezzemolo e gamberi viola di Gallipoli scottati",
 					"Prezzo": "15",
 					"Glutine": false,
 					"Latte e derivati": false,
@@ -197,7 +197,7 @@
 					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/23019497-B358-4240-A4A0-28C85F2FEE69_1_201_a.jpeg"
+					"Foto": "../images/23019497-B358-4240-A4A0-28C85F2FEE69_1_201_a.jpeg"
 				},
 				{
 					"Nome": "Linguine ai frutti di mare con cozze, vongole, gamberetti¹, scampo¹ e pomodorini",
@@ -234,11 +234,11 @@
 					"Vegetariano": true,
 					"Bio": false,
 					"attivo": true,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/AE314DC9-8F96-4048-9C92-AEB5B25A2F35.jpeg"
+					"Foto": "../images/AE314DC9-8F96-4048-9C92-AEB5B25A2F35.jpeg"
 				},
 				{
 					"Nome": "Crema di Ceci Neri di Zollino con cipolle rosse di Tropea, puntarelle in agrodolce e crostino di pane",
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/image_1595582997.jpeg",
+					"Foto": "../images/image_1595582997.jpeg",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -296,7 +296,7 @@
 					"Vegetariano": false,
 					"Bio": false,
 					"attivo": false,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/E6A72EA2-5FF6-413D-BDC7-EFFAD30AA0BA.jpeg"
+					"Foto": "../images/E6A72EA2-5FF6-413D-BDC7-EFFAD30AA0BA.jpeg"
 				},
 				{
 					"Nome": "Baccalà in oliocottura con salsa di aglio nero di Voghiera accompagnato da crema di zucchine, crema di carote al curry e polvere di finocchietto selvatico",
@@ -315,7 +315,7 @@
 					"Vegetariano": false,
 					"Bio": false,
 					"attivo": false,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/A3757457-6CE8-441D-B714-2C630FCC13E2_1_201_a.jpeg"
+					"Foto": "../images/A3757457-6CE8-441D-B714-2C630FCC13E2_1_201_a.jpeg"
 				},
 				{
 					"Nome": "Gamberoni Viola¹ di Gallipoli a scelta tra crudi, al sale o alla griglia",
@@ -333,7 +333,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": true,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/2A5BDA84-2A2C-48CC-89AF-B82BB75463C4_1_201_a.jpeg",
+					"Foto": "../images/2A5BDA84-2A2C-48CC-89AF-B82BB75463C4_1_201_a.jpeg",
 					"attivo": true
 				},
 				{
@@ -407,7 +407,7 @@
 					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@ced0c5d6f121681146498b9ed7792ff253384142/images/206B052A-40A1-4CB7-B3A3-F8D12369AA55_1_201_a.jpeg"
+					"Foto": "../images/206B052A-40A1-4CB7-B3A3-F8D12369AA55_1_201_a.jpeg"
 				},
 				{
 					"Nome": "Il pescato del giorno varia, di conseguenza la sua preparazione che può essere al sale, alla griglia, o al forno. Il prezzo si intende al lordo del peso",
@@ -846,7 +846,7 @@
 				},
 				{
 					"Nome": "Milano",
-					"Descrizione": "Pomodoro, mozzarella, salame di milano e gorgonzola.",
+					"Descrizione": "Pomodoro, mozzarella, salame di Milano e gorgonzola",
 					"Prezzo": "6,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1438,7 +1438,7 @@
 					"Bio": false
 				},
 				{
-					"Nome": "Dolce del Giorno",
+					"Nome": "Dolce del giorno",
 					"Prezzo": "5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1475,7 +1475,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Tartufo Artigianale al cioccolato fondente",
+					"Nome": "Tartufo artigianale al cioccolato fondente",
 					"Prezzo": "5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1493,7 +1493,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Tartufo Artigianale al pistacchio di Bronte",
+					"Nome": "Tartufo artigianale al pistacchio di Bronte",
 					"Prezzo": "5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1512,7 +1512,7 @@
 				},
 				{
 					"attivo": true,
-					"Nome": "Spumone Artigianale alla Cupeta Salentina",
+					"Nome": "Spumone artigianale alla Cupeta Salentina",
 					"Prezzo": "5",
 					"Glutine": true,
 					"Latte e derivati": true,
@@ -1683,7 +1683,7 @@
 					"attivo": true,
 					"Nome": "Succo di mela rossa o mela gialla",
 					"Prezzo": "3,5",
-					"Descrizione": "Succo 100% di mela BIO , senza conservanti e senza  coloranti",
+					"Descrizione": "Succo 100% di mela BIO, senza conservanti e senza  coloranti",
 					"Glutine": false,
 					"Latte e derivati": false,
 					"Crostacei": false,
@@ -2004,8 +2004,8 @@
 			"Titolo": "Birre artigianali italiane",
 			"Piatto": [
 				{
-					"Nome": "Pizzica ( Chiara )",
-					"Descrizione": "75 cl",
+					"Nome": "Pizzica",
+					"Descrizione": "75 cl, chiara",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -2023,8 +2023,8 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Taranta ( Ambrata )",
-					"Descrizione": "75 cl",
+					"Nome": "Beggia",
+					"Descrizione": "75 cl, Ambrata",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -2042,8 +2042,27 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Beggia Ambrata",
-					"Descrizione": "75 cl",
+					"Nome": "Beggia (piccola)",
+					"Descrizione": "33 cl, Ambrata",
+					"Prezzo": "6",
+					"Anidride solforosa o solfiti": false,
+					"Arachidi": false,
+					"Crostacei": false,
+					"Frutta a guscio": false,
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Molluschi": false,
+					"Pesce": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false,
+					"attivo": false
+				},
+				{
+					"Nome": "Taranta",
+					"Descrizione": "75 cl, Ambrata",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -2062,9 +2081,9 @@
 				},
 				{
 					"attivo": true,
-					"Nome": "Taranta ( Ambrata )",
+					"Nome": "Taranta (piccola)",
 					"Prezzo": "6",
-					"Descrizione": "33 cl",
+					"Descrizione": "33 cl, Ambrata",
 					"Glutine": false,
 					"Latte e derivati": false,
 					"Crostacei": false,
@@ -2078,25 +2097,6 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false
-				},
-				{
-					"Nome": "Beggia (Piccola)",
-					"Descrizione": "33 cl",
-					"Prezzo": "6",
-					"Anidride solforosa o solfiti": false,
-					"Arachidi": false,
-					"Crostacei": false,
-					"Frutta a guscio": false,
-					"Glutine": false,
-					"Latte e derivati": false,
-					"Molluschi": false,
-					"Pesce": false,
-					"Sedano": false,
-					"Uova e derivati": false,
-					"Vegano": false,
-					"Vegetariano": false,
-					"Bio": false,
-					"attivo": false
 				},
 				{
 					"Nome": "Tipa Laguna Beach",
@@ -2120,7 +2120,7 @@
 			]
 		},
 		{
-			"Titolo": "I vini rossi",
+			"Titolo": "Vini rossi",
 			"Piatto": [
 				{
 					"Nome": "Baia di Uluzzo Primitivo - Bonsegna",
@@ -2258,7 +2258,7 @@
 			]
 		},
 		{
-			"Titolo": "I vini rosati",
+			"Titolo": "Vini rosati",
 			"Piatto": [
 				{
 					"attivo": true,
@@ -2415,7 +2415,7 @@
 			]
 		},
 		{
-			"Titolo": "I vini bianchi",
+			"Titolo": "Vini bianchi",
 			"Piatto": [
 				{
 					"attivo": true,
@@ -2610,7 +2610,7 @@
 			]
 		},
 		{
-			"Titolo": "Le bollicine",
+			"Titolo": "Bollicine",
 			"Piatto": [
 				{
 					"Nome": "EXprimo - Vigne Monache",
@@ -2746,7 +2746,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Pierre Gobillard - Brut Autehenttique",
+					"Nome": "Pierre Gobillard - Brut Authentique",
 					"Prezzo": "65",
 					"Descrizione": "Champagne - 30% pinot Nero, 30% Chardonnay, 40% Meunier - 12,5 % vol.",
 					"Glutine": false,
