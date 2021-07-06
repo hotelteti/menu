@@ -146,6 +146,7 @@ h1 {
 }
 .sticky {
 	position: sticky;
+	z-index: 50;
 	top: 59px;
 }
 
