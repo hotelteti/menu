@@ -26,7 +26,7 @@ function easeOutQuint(x) {
 	}
 
 function zoomOnClick(event) {
-	const button = event.target.closest('.dish-image');
+	const button = event.target.closest('.dish-image:not([disabled])');
 	if (!button) {
 		return;
 	}
