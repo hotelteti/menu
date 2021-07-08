@@ -2297,8 +2297,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@f4256edbcc22b0bca8c568b785ee5fdb3e80a69e/images/D9BCE234-8405-4306-AF0C-4F3F5EBAC706_1_201_a.jpeg"
+					"attivo": true
 				},
 				{
 					"Nome": "Anima Rosa - Vigne Monache",
@@ -2317,8 +2316,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@c820ef0062ed6de5c1b918a613d350f6e1391ad0/images/D36D7CD5-143D-4514-B9A5-633B58544BB2_1_201_a.jpeg"
+					"attivo": true
 				},
 				{
 					"Nome": "Acheta - Caiaffa - BIO",
@@ -2337,8 +2335,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true,
-					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@11aade7dfe23896b8647b004798d16ff17f4dffb/images/5AB01C13-2A03-4B89-B7C7-9743B2542F3E_1_201_a.jpeg"
+					"attivo": true
 				},
 				{
 					"Nome": "Troia Rosato - Caiaffa BIO",
