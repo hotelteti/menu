@@ -58,7 +58,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Insalata di mare con gamberi¹, seppia², calamaro², polpo², julienne di verdure, ciuffo di cipolla Tropea in agrodolce con un graffio di maionese di sedano e rapa rossa",
@@ -1792,7 +1792,7 @@
 				},
 				{
 					"Nome": "Birra alla spina Krombacher (Piccola)",
-					"Prezzo": "2,5",
+					"Prezzo": "3",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1811,7 +1811,7 @@
 				},
 				{
 					"Nome": "Birra alla spina Krombacher (Media)",
-					"Prezzo": "4",
+					"Prezzo": "5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
