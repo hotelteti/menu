@@ -87,6 +87,18 @@ details.section {
 	border: solid 2px silver;
 	margin: 2em;
 }
+[property="Nome"] {
+	overflow: hidden;
+}
 .dish {
 	margin-bottom: 0;
 }
+.dish-image {
+	margin-top: 0;
+}
+[placeholder="(Prezzo)"]:placeholder-shown {
+	border: 5px solid red !important;
+	font-size: 2em !important;
+	width: 4em !important
+}
+
