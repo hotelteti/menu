@@ -39,7 +39,7 @@ html(lang="it")
                   .dish
                     h2= piatto.Nome
                     p
-                      strong= '€ ' + (piatto.Prezzo || '').replace('€', '')
+                      strong= '€ ' + (piatto.Prezzo || '').replace('€', '').replace('.', ',')
                       if piatto.Descrizione
                         span.descrizione= ' • ' + piatto.Descrizione
                     if piatto.allergeni.length > 0
