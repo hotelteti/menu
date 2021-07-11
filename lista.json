@@ -2937,7 +2937,8 @@
 					"Anidride solforosa o solfiti": false,
 					"Vegano": false,
 					"Vegetariano": false,
-					"Bio": false
+					"Bio": false,
+					"Prezzo": "7"
 				},
 				{
 					"attivo": true,
