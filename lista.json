@@ -388,7 +388,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Filetti di pesce del giorno dorato al forno, con pomodori secchi e pistacchio, scarabocchi di maionese di rucola, accompagnata da verdure allo zenzero",
@@ -406,7 +406,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false,
+					"attivo": true,
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@main/images/206B052A-40A1-4CB7-B3A3-F8D12369AA55_1_201_a.jpeg"
 				},
 				{
