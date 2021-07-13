@@ -253,7 +253,7 @@
 					"Vegano": true,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Cicorie estive con purea di Fave, olio evo a crudo e crostini di pane",
