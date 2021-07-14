@@ -9,7 +9,7 @@ html(lang="it")
   .nav.stagger-container
     nav
       .container.center
-        img(src='logo.png' alt='Ristorante Teti' height='104' width='130')
+        img(src='logo.svg' alt='Ristorante Teti' height='104' width='130')
     .menu.container.center
       each section in lista.Sezione
         a.ball.staggered-anim(href='#' + slugify(section.Titolo))
@@ -19,7 +19,7 @@ html(lang="it")
     nav
       .container.center
         a(href='#menu')
-          img(src='logo.png' alt='Ristorante Teti' height='104' width='130')
+          img(src='logo.svg' alt='Ristorante Teti' height='104' width='130')
         a.nav(href='#menu') Menu
     .content.container
       each section in lista.Sezione
