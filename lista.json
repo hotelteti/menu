@@ -2736,7 +2736,7 @@
 			"Titolo": "Dessert",
 			"Piatto": [
 				{
-					"attivo": true,
+					"attivo": false,
 					"Nome": "Due Creme",
 					"Prezzo": "6",
 					"Descrizione": "Coulis di fragole, fragole, crema pasticciera, crema filadelfia e pan di Spagna con bagna al cointreau ",
@@ -2773,7 +2773,7 @@
 					"Prezzo": "6"
 				},
 				{
-					"attivo": false,
+					"attivo": true,
 					"Nome": "Tiramisù",
 					"Prezzo": "6",
 					"Glutine": true,
