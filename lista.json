@@ -58,7 +58,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Insalata di mare con gamberi¹, seppia², calamaro², polpo², julienne di verdure, ciuffo di cipolla Tropea in agrodolce con un graffio di maionese di sedano e rapa rossa",
@@ -388,7 +388,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Filetti di pesce del giorno dorato al forno, con pomodori secchi e pistacchio, scarabocchi di maionese di rucola, accompagnata da verdure allo zenzero",
@@ -464,7 +464,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Zuppa di Pesce della Chef",
+					"Nome": "Zuppa di Pesce della Chef (Solo su ordinazione)",
 					"Prezzo": "25",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -479,8 +479,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false,
-					"Descrizione": "Piatto del giorno"
+					"attivo": true
 				},
 				{
 					"Nome": "Taieddhra (Solo su ordinazione)",
