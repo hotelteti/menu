@@ -36,8 +36,8 @@ html(lang="it")
                   if piatto.Foto
                     button.dish-image(type='button')
                       picture
-                        source(type="image/webp" srcset='url:'+relativizeCDNURL(piatto.Foto)+'?as=webp')
-                        img(loading='lazy' src=relativizeCDNURL(piatto.Foto))
+                        source(type="image/webp" srcset='url:'+relativizeCDNURL(piatto.Foto)+'?as=webp&width=1000')
+                        img(loading='lazy' src=relativizeCDNURL(piatto.Foto)+'?width=1000')
                   .dish
                     h2= piatto.Nome
                     p
