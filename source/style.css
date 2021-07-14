@@ -38,7 +38,7 @@ body {
 	color: var(--text);
 	font: 16px/1.8em Optima, Corbel, sans-serif;
 }
-main {
+.content {
 	padding-left: 5px;
 	padding-right: 5px;
 }
