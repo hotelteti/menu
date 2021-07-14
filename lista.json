@@ -1739,7 +1739,7 @@
 			"Titolo": "Birre artigianali italiane",
 			"Piatto": [
 				{
-					"Nome": "Pizzica",
+					"Nome": "Pizzica  - Birra Salento",
 					"Descrizione": "75 cl, chiara",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
@@ -1758,7 +1758,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Beggia",
+					"Nome": "Beggia  - Birra Salento",
 					"Descrizione": "75 cl, Ambrata",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
@@ -1796,7 +1796,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Taranta",
+					"Nome": "Taranta  - Birra Salento",
 					"Descrizione": "75 cl, Ambrata",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
@@ -1816,7 +1816,7 @@
 				},
 				{
 					"attivo": true,
-					"Nome": "Taranta (piccola)",
+					"Nome": "Taranta  - Birra Salento",
 					"Prezzo": "6",
 					"Descrizione": "33 cl, Ambrata",
 					"Glutine": false,
@@ -1834,7 +1834,7 @@
 					"Bio": false
 				},
 				{
-					"Nome": "Tipa Laguna Beach",
+					"Nome": "Tipa Laguna Beach  - Birra Salento",
 					"Prezzo": "6",
 					"Glutine": false,
 					"Latte e derivati": false,
