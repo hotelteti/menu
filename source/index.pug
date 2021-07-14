@@ -5,7 +5,7 @@ html(lang="it")
     meta(name='viewport' content='width=device-width, initial-scale=1.0')
     title Menu Ristorante Teti
     link(rel='stylesheet' href='style.css')
-    script(src='main.js' async)
+    script(src='main.js' type='module' async)
   .nav.stagger-container
     nav
       .container.center
@@ -35,7 +35,9 @@ html(lang="it")
                 .dish-wrapper.staggered-anim
                   if piatto.Foto
                     button.dish-image(type='button')
-                      img(loading='lazy' src=relativizeCDNURL(piatto.Foto))
+                      picture
+                        source(type="image/webp" srcset='url:'+relativizeCDNURL(piatto.Foto)+'?as=webp')
+                        img(loading='lazy' src=relativizeCDNURL(piatto.Foto))
                   .dish
                     h2= piatto.Nome
                     p

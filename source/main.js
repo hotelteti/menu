@@ -32,7 +32,7 @@ function zoomOnClick(event) {
 	}
 
 	button.disabled = true;
-	const image = button.firstChild;
+	const image = button.querySelector('img');
 	try {
 		const initialHeight = getComputedStyle(image).height;
 		image.style.height = 'auto';

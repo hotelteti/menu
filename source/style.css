@@ -1,4 +1,4 @@
-@import 'modern-normalize';
+@import '~/node_modules/modern-normalize';
 
 :root {
 	--back: #f6f3ea;
