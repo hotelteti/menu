@@ -186,47 +186,47 @@ h1.ball::before {
 
 .ball:nth-of-type(7),
 .ball-container:nth-of-type(7) h1 {
-	--highlight: #ffd9b4;
+	--highlight: #fff8f7;
 }
 
 .ball:nth-of-type(8),
 .ball-container:nth-of-type(8) h1 {
-	--highlight: #f9a58c;
+	--highlight: #fef0ef;
 }
 
 .ball:nth-of-type(9),
 .ball-container:nth-of-type(9) h1 {
-	--highlight: #fff8f7;
+	--highlight: #fee1dd;
 }
 
 .ball:nth-of-type(10),
 .ball-container:nth-of-type(10) h1 {
-	--highlight: #fef0ef;
+	--highlight: #fdd1cd;
 }
 
 .ball:nth-of-type(11),
 .ball-container:nth-of-type(11) h1 {
-	--highlight: #fee1dd;
+	--highlight: #dc7472;
 }
 
 .ball:nth-of-type(12),
 .ball-container:nth-of-type(12) h1 {
-	--highlight: #fdd1cd;
+	--highlight: #f6978b;
 }
 
 .ball:nth-of-type(13),
 .ball-container:nth-of-type(13) h1 {
-	--highlight: #dc7472;
+	--highlight: #fcc4a9;
 }
 
 .ball:nth-of-type(14),
 .ball-container:nth-of-type(14) h1 {
-	--highlight: #f6978b;
+	--highlight: #ffd9b4;
 }
 
 .ball:nth-of-type(15),
 .ball-container:nth-of-type(15) h1 {
-	--highlight: #fcc4a9;
+	--highlight: #f9a58c;
 }
 
 .ball:nth-of-type(16),
@@ -305,7 +305,8 @@ footer {
 	white-space: pre-line;
 }
 
-[href='#bevande'] {
+[href='#bevande'],
+[href='#amariedistillati'] {
 	margin-top: 1em;
 }
 
