@@ -1,5 +1,6 @@
 *
 !lista.json
 !.gitignore
+!package.json
 !images
 !images/*
