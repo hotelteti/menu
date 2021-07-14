@@ -1371,7 +1371,8 @@
 					"Vegetariano": false,
 					"Bio": false,
 					"attivo": true
-				}],
+				}
+			],
 			"intro": "Orari pizzeria:\nAsporto dalle  19:00\nAl tavolo dalle 19:30"
 		},
 		{
@@ -1777,9 +1778,9 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Beggia (piccola)",
+					"Nome": "Agricola - Birra Salento",
 					"Descrizione": "33 cl, Ambrata",
-					"Prezzo": "6",
+					"Prezzo": "3,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1793,7 +1794,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Taranta",
