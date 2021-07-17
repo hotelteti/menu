@@ -271,7 +271,7 @@
 					"Vegano": true,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				}
 			]
 		},
