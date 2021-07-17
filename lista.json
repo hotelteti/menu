@@ -2283,7 +2283,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": true,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Verdeca Sette Lune - L’Archetipo - BIO da agricoltura sinergica",
