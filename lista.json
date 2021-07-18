@@ -1950,7 +1950,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Mistico - L’Archetipo - BIO da agricoltura sinergica",
@@ -1969,7 +1969,7 @@
 					"Vegetariano": false,
 					"Bio": false,
 					"Prezzo": "34",
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Onice - Villa Amoris",
