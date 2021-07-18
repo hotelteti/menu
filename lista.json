@@ -2755,8 +2755,8 @@
 					"Bio": false
 				},
 				{
-					"attivo": false,
-					"Nome": "Mouse di cioccolato con crumble alle mandorle e fave di cacao BIO",
+					"attivo": true,
+					"Nome": "Mouse di cioccolato con crumble alle mandorle, salsa di ciliegie e fave di cacao BIO",
 					"Glutine": true,
 					"Latte e derivati": false,
 					"Crostacei": false,
