@@ -58,7 +58,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Insalata di mare con gamberi¹, seppia², calamaro², polpo², julienne di verdure, ciuffo di cipolla Tropea in agrodolce con un graffio di maionese di sedano e rapa rossa",
@@ -2773,7 +2773,7 @@
 					"Prezzo": "6"
 				},
 				{
-					"attivo": true,
+					"attivo": false,
 					"Nome": "Tiramisù",
 					"Prezzo": "6",
 					"Glutine": true,
@@ -2918,7 +2918,7 @@
 					"attivo": true
 				},
 				{
-					"attivo": false,
+					"attivo": true,
 					"Nome": "Crema catalana",
 					"Prezzo": "4,5",
 					"Glutine": true,
