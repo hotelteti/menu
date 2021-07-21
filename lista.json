@@ -1996,7 +1996,7 @@
 			"Titolo": "Vini rosati",
 			"Piatto": [
 				{
-					"attivo": true,
+					"attivo": false,
 					"Nome": " Calice (Tenuta Paraida Rosato)",
 					"Prezzo": "5",
 					"Descrizione": "Copertino DOC - 100% Negroamaro - 13 % vol.",
