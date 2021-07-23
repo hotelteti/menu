@@ -2796,9 +2796,9 @@
 					"Prezzo": "6"
 				},
 				{
-					"attivo": false,
+					"attivo": true,
 					"Nome": "Tiramisù",
-					"Prezzo": "6",
+					"Prezzo": "5",
 					"Glutine": true,
 					"Latte e derivati": true,
 					"Crostacei": false,
@@ -2995,7 +2995,7 @@
 					"Bio": false
 				},
 				{
-					"attivo": false,
+					"attivo": true,
 					"Nome": "Tiramisù Teti",
 					"Prezzo": "6",
 					"Descrizione": "Torta margherita con crema di mandorle, caffè leccese e scaglie di mandorle tostate",
