@@ -2383,6 +2383,29 @@
 			]
 		},
 		{
+			"Piatto": [
+				{
+					"attivo": true,
+					"Nome": "Piccole bolle salentine - Duca Carlo Guarini.",
+					"Prezzo": "19",
+					"Descrizione": "Spumante bianco extra dry, 100% Negramaro - 11,5 % vol",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				}
+			]
+		},
+		{
 			"Titolo": "Bollicine",
 			"Piatto": [
 				{
