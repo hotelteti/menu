@@ -2383,6 +2383,7 @@
 			]
 		},
 		{
+			"Titolo": "Bollicine",
 			"Piatto": [
 				{
 					"attivo": true,
@@ -2402,12 +2403,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false
-				}
-			]
-		},
-		{
-			"Titolo": "Bollicine",
-			"Piatto": [
+				},
 				{
 					"Nome": "EXprimo - Vigne Monache",
 					"Descrizione": "Vino spumante rosè Brut - 100% Primitivo - 12 % vol.",
