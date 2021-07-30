@@ -2793,7 +2793,7 @@
 					"Bio": false
 				},
 				{
-					"attivo": true,
+					"attivo": false,
 					"Nome": "Mouse di cioccolato con crumble alle mandorle, salsa di ciliegie e fave di cacao BIO",
 					"Glutine": true,
 					"Latte e derivati": false,
@@ -2811,7 +2811,7 @@
 					"Prezzo": "6"
 				},
 				{
-					"attivo": true,
+					"attivo": false,
 					"Nome": "Tiramisù",
 					"Prezzo": "5",
 					"Glutine": true,
@@ -3010,7 +3010,7 @@
 					"Bio": false
 				},
 				{
-					"attivo": true,
+					"attivo": false,
 					"Nome": "Tiramisù Teti",
 					"Prezzo": "6",
 					"Descrizione": "Torta margherita con crema di mandorle, caffè leccese e scaglie di mandorle tostate",
