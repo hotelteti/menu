@@ -2811,7 +2811,7 @@
 					"Prezzo": "6"
 				},
 				{
-					"attivo": false,
+					"attivo": true,
 					"Nome": "Tiramisù",
 					"Prezzo": "5",
 					"Glutine": true,
@@ -2844,8 +2844,8 @@
 					"Vegano": true,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false,
-					"Descrizione": "Salsa di fichi freschi su panbiscotto, crema di riso al limone e fichi caramellati\n(Senza Lattosio, senza Glutine)"
+					"attivo": true,
+					"Descrizione": "Panna cotta con salsa di mango"
 				},
 				{
 					"Nome": "Sorbetto al Limone Analcolico",
@@ -2884,7 +2884,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Tartufo artigianale al pistacchio di Bronte",
+					"Nome": "Profitterol  con crema Chantilly e cioccolato",
 					"Prezzo": "5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -2899,7 +2899,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"attivo": true,
