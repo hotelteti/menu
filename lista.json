@@ -2844,7 +2844,7 @@
 					"Vegano": true,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true,
+					"attivo": false,
 					"Descrizione": "Panna cotta con salsa di mango"
 				},
 				{
