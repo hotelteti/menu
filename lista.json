@@ -2899,7 +2899,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"attivo": true,
