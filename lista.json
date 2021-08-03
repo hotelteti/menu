@@ -2956,7 +2956,7 @@
 					"attivo": true
 				},
 				{
-					"attivo": true,
+					"attivo": false,
 					"Nome": "Crema catalana",
 					"Prezzo": "4,5",
 					"Glutine": true,
