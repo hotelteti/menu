@@ -755,7 +755,7 @@
 				},
 				{
 					"Nome": "Margherita",
-					"Prezzo": "4,5",
+					"Prezzo": "5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -792,7 +792,7 @@
 				},
 				{
 					"Nome": "Tonno",
-					"Prezzo": "5,5",
+					"Prezzo": "6",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -810,7 +810,7 @@
 				},
 				{
 					"Nome": "Würstel",
-					"Prezzo": "5",
+					"Prezzo": "5,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -828,7 +828,7 @@
 				},
 				{
 					"Nome": "Napoli",
-					"Prezzo": "5,5",
+					"Prezzo": "6",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -865,7 +865,7 @@
 				},
 				{
 					"Nome": "Prosciutto Cotto",
-					"Prezzo": "5,5",
+					"Prezzo": "6",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -883,7 +883,7 @@
 				},
 				{
 					"Nome": "Prosciutto e Funghi",
-					"Prezzo": "6",
+					"Prezzo": "6,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1035,7 +1035,7 @@
 				{
 					"Nome": "Piemontese",
 					"Descrizione": "Pomodoro, mozzarella, scamorza affumicata, porcini²",
-					"Prezzo": "7,5",
+					"Prezzo": "8",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1053,7 +1053,7 @@
 				},
 				{
 					"Nome": "Prosciutto e Tonno",
-					"Prezzo": "6,5",
+					"Prezzo": "7",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1072,7 +1072,7 @@
 				{
 					"Nome": "Diavola",
 					"Descrizione": "Pomodoro, mozzarella, olive, ventricina (salame piccante)",
-					"Prezzo": "6,5",
+					"Prezzo": "7",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1129,7 +1129,7 @@
 				{
 					"Nome": "Boscaiola",
 					"Descrizione": "Pomodoro, mozzarella, salsiccia, porcini²",
-					"Prezzo": "7,5",
+					"Prezzo": "8",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1167,7 +1167,7 @@
 				{
 					"Nome": "Crudaiola",
 					"Descrizione": "Pomodoro, mozzarella, grana, rucola, pomodorini",
-					"Prezzo": "6,6",
+					"Prezzo": "6,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1186,7 +1186,7 @@
 				{
 					"Nome": "Sorrentina",
 					"Descrizione": "Pomodoro, mozzarella di bufala DOP, basilico",
-					"Prezzo": "7",
+					"Prezzo": "7.5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1243,7 +1243,7 @@
 				{
 					"Nome": "Fumé",
 					"Descrizione": "Pomodoro, mozzarella, scamorza affumicata, speck",
-					"Prezzo": "7",
+					"Prezzo": "8",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1319,7 +1319,7 @@
 				{
 					"Nome": "La Burrosa",
 					"Descrizione": "Pomodoro, fior di latte, burrata, bresaola, noci fuori forno",
-					"Prezzo": "10",
+					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -1337,7 +1337,7 @@
 				},
 				{
 					"Nome": "Margherita Piccola",
-					"Prezzo": "3,5",
+					"Prezzo": "4",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
