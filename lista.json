@@ -200,6 +200,25 @@
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@main/images/23019497-B358-4240-A4A0-28C85F2FEE69_1_201_a.jpeg"
 				},
 				{
+					"attivo": true,
+					"Nome": "Spaghetti al pesce dello ionio",
+					"Prezzo": "16",
+					"Descrizione": "Pesce misto cotto con pomodoro",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
+				},
+				{
 					"Nome": "Linguine ai frutti di mare con cozze, vongole, gamberetti¹, scampo¹ e pomodorini",
 					"Prezzo": "15",
 					"Anidride solforosa o solfiti": true,
@@ -215,7 +234,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Orecchiette Gourmet con pomodorini e formaggio vaccino, crema di cime di rapa con burrata Salentina",
