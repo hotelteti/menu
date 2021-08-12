@@ -1673,7 +1673,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true,
+					"attivo": false,
 					"Descrizione": "33 cl"
 				},
 				{
