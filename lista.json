@@ -200,7 +200,7 @@
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@main/images/23019497-B358-4240-A4A0-28C85F2FEE69_1_201_a.jpeg"
 				},
 				{
-					"attivo": true,
+					"attivo": false,
 					"Nome": "Spaghetti al pesce dello ionio",
 					"Prezzo": "18",
 					"Descrizione": "Pesce misto cotto con pomodoro",
