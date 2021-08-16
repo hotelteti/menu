@@ -516,7 +516,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true,
+					"attivo": false,
 					"Prezzo": "17"
 				}
 			]
