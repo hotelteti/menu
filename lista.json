@@ -2939,7 +2939,7 @@
 					"Bio": false
 				},
 				{
-					"Nome": "Spumone artigianale al mostacciolo Salentino",
+					"Nome": "Semifreddo mandorle e amaretto",
 					"Prezzo": "5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -2954,7 +2954,25 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
+				},
+				{
+					"attivo": true,
+					"Nome": "Spumone artigianale, fondente e nocciola",
+					"Prezzo": "5",
+					"Glutine": false,
+					"Latte e derivati": false,
+					"Crostacei": false,
+					"Pesce": false,
+					"Molluschi": false,
+					"Arachidi": false,
+					"Frutta a guscio": false,
+					"Sedano": false,
+					"Uova e derivati": false,
+					"Anidride solforosa o solfiti": false,
+					"Vegano": false,
+					"Vegetariano": false,
+					"Bio": false
 				},
 				{
 					"Nome": "Spumone artigianale mandorle e fichi",
