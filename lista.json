@@ -314,7 +314,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false,
+					"attivo": true,
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@main/images/E6A72EA2-5FF6-413D-BDC7-EFFAD30AA0BA.jpeg"
 				},
 				{
@@ -1352,7 +1352,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Margherita Piccola",
