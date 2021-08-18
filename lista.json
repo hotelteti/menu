@@ -20,7 +20,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Capocollo di Martina Franca con burrata Salentina, crumble di frise integrali condite con pomodoro, olio evo e basilico",
@@ -333,7 +333,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true,
+					"attivo": false,
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@main/images/A3757457-6CE8-441D-B714-2C630FCC13E2_1_201_a.jpeg"
 				},
 				{
@@ -425,7 +425,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true,
+					"attivo": false,
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@main/images/206B052A-40A1-4CB7-B3A3-F8D12369AA55_1_201_a.jpeg"
 				},
 				{
