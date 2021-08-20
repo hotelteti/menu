@@ -2283,7 +2283,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Greco - L’Archetipo - BIO da agricoltura sinergica",
@@ -2383,7 +2383,7 @@
 				{
 					"Nome": "Tinente - Marulli",
 					"Descrizione": "Salento IGT - 100% Malvasia Bianca - 12 % vol.",
-					"Prezzo": "16",
+					"Prezzo": "18",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
