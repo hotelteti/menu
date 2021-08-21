@@ -2172,10 +2172,10 @@
 			"Titolo": "Vini bianchi",
 			"Piatto": [
 				{
-					"attivo": false,
-					"Nome": "Calice Tinente - Marulli",
+					"attivo": true,
+					"Nome": "Anima Bianca - Vigne Monache",
 					"Prezzo": "5",
-					"Descrizione": "Salento IGT - 100% Malvasia Bianca - 12 % vol.",
+					"Descrizione": "Salento IGT - 100% Verdeca - 12 % vol.",
 					"Glutine": false,
 					"Latte e derivati": false,
 					"Crostacei": false,
