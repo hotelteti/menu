@@ -1774,7 +1774,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Beggia  - Birra Salento",
@@ -2172,7 +2172,7 @@
 			"Titolo": "Vini bianchi",
 			"Piatto": [
 				{
-					"attivo": false,
+					"attivo": true,
 					"Nome": "Calice Tinente - Marulli",
 					"Prezzo": "5",
 					"Descrizione": "Salento IGT - 100% Malvasia Bianca - 12 % vol.",
