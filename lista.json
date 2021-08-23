@@ -353,7 +353,7 @@
 					"Vegetariano": false,
 					"Bio": true,
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@main/images/2A5BDA84-2A2C-48CC-89AF-B82BB75463C4_1_201_a.jpeg",
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Polpo² alla Pignata con pomodorino ciliegino e crostini",
