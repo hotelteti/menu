@@ -119,7 +119,7 @@
 				},
 				{
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@main/images/5F66C15E-D3E3-4C10-85BF-0C4D2C8D430B_1_201_a.jpeg",
-					"attivo": true,
+					"attivo": false,
 					"Nome": "Crudità dello ionio",
 					"Prezzo": "25",
 					"Descrizione": "Scampo, tris di gamberi, tartare di tonno rosso con cipolla di Tropea e olive nere, carpaccio di spigola con mela verde, seppia e  pesca noce , salsa di barbabietola rossa, zenzero in agrodolce e capsule di olio evo",
