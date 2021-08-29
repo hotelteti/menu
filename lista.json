@@ -2830,7 +2830,7 @@
 					"Prezzo": "6"
 				},
 				{
-					"attivo": false,
+					"attivo": true,
 					"Nome": "Tiramisù",
 					"Prezzo": "5",
 					"Glutine": true,
@@ -2900,7 +2900,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Profiterole con crema chantilly e cioccolato",
