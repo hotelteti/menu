@@ -2882,7 +2882,7 @@
 					"Vegano": true,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Tartufo artigianale al cioccolato fondente",
