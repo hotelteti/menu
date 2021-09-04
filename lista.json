@@ -2860,11 +2860,11 @@
 					"Pesce": false,
 					"Sedano": false,
 					"Uova e derivati": false,
-					"Vegano": true,
-					"Vegetariano": false,
+					"Vegano": false,
+					"Vegetariano": true,
 					"Bio": false,
-					"attivo": false,
-					"Descrizione": "Panna cotta con salsa di mango"
+					"attivo": true,
+					"Descrizione": "cheesecake con mousse di formaggio e crema di lampone"
 				},
 				{
 					"Nome": "Sorbetto al Limone Analcolico",
@@ -2882,7 +2882,7 @@
 					"Vegano": true,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Tartufo artigianale al cioccolato fondente",
