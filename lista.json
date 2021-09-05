@@ -2885,7 +2885,7 @@
 					"attivo": true
 				},
 				{
-					"Nome": "Tartufo artigianale al cioccolato fondente",
+					"Nome": "Tartufo artigianale nocciola e cioccolato fondente ",
 					"Prezzo": "5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -2900,7 +2900,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Profiterole con crema chantilly e cioccolato",
