@@ -2857,7 +2857,7 @@
 					"Bio": false
 				},
 				{
-					"Nome": "Dolce del giorno",
+					"Nome": "Cheesecake ",
 					"Prezzo": "5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -2872,7 +2872,7 @@
 					"Vegano": false,
 					"Vegetariano": true,
 					"Bio": false,
-					"attivo": false,
+					"attivo": true,
 					"Descrizione": "cheesecake con mousse di formaggio e crema di lampone"
 				},
 				{
