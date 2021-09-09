@@ -788,7 +788,8 @@
 					"Vegano": false,
 					"Vegetariano": true,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "Pomodoro e mozzarella"
 				},
 				{
 					"Nome": "Quattro Formaggi",
@@ -825,7 +826,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "Pomodoro, mozzarella e tonno in olio d'oliva"
 				},
 				{
 					"Nome": "Würstel",
@@ -843,7 +845,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "Pomodoro, mozzarella würstel"
 				},
 				{
 					"Nome": "Napoli",
@@ -861,7 +864,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "Pomodoro, mozzarella, alici e origano"
 				},
 				{
 					"Nome": "Milano",
@@ -898,10 +902,11 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "Pomodoro, mozzarella e prosciutto cotto"
 				},
 				{
-					"Nome": "Prosciutto e Funghi",
+					"Nome": "Prosciutto cotto e Funghi",
 					"Prezzo": "6,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -916,7 +921,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "Pomodoro, mozzarella, cotto e funghi"
 				},
 				{
 					"Nome": "Frutti di Mare",
@@ -1086,7 +1092,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "Pomodoro, mozzarella, prosciutto cotto e tonno in olio d'oliva"
 				},
 				{
 					"Nome": "Diavola",
@@ -1337,7 +1344,7 @@
 				},
 				{
 					"Nome": "La Burrosa",
-					"Descrizione": "Pomodoro, fior di latte; Noci, burrata e bresaola fuori forno. ",
+					"Descrizione": "Pomodoro, mozzarella, Noci, burrata e bresaola fuori forno. ",
 					"Prezzo": "12",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1370,10 +1377,11 @@
 					"Vegano": false,
 					"Vegetariano": true,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "Pomodoro e mozzarella"
 				},
 				{
-					"Nome": "Prosciutto Piccola",
+					"Nome": "Prosciutto cotto, Piccola",
 					"Prezzo": "4,5",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -1388,7 +1396,8 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": true,
+					"Descrizione": "Pomodoro, mozzarella e prosciutto cotto"
 				}
 			],
 			"intro": "Orari pizzeria:\nAsporto dalle  19:00\nAl tavolo dalle 19:30"
