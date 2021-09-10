@@ -2414,7 +2414,7 @@
 			"Titolo": "Bollicine",
 			"Piatto": [
 				{
-					"attivo": true,
+					"attivo": false,
 					"Nome": "Piccole bolle salentine - Duca Carlo Guarini.",
 					"Prezzo": "20",
 					"Descrizione": "Spumante bianco extra dry, 100% Negramaro - 11,5 % vol",
@@ -2548,7 +2548,7 @@
 				},
 				{
 					"Nome": "Santus Brut ",
-					"Prezzo": "35",
+					"Prezzo": "30",
 					"Descrizione": "Franciacorta DOCG - 80% Chardonnay, 20% Pinot Nero - 12,5 % vol.",
 					"Glutine": false,
 					"Latte e derivati": false,
