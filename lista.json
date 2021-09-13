@@ -1925,7 +1925,7 @@
 				},
 				{
 					"Nome": "Tenuta Paraida Rosso - Marulli",
-					"Descrizione": "Copertino DOC - 80% Negroamaro - Malvasia nera di Lecce - Montepulciano - (da vigneti di oltre 40 anni) - 13,5 % vol.",
+					"Descrizione": "Copertino DOC - 80% Negroamaro - 15% Malvasia nera di Lecce - 5% Montepulciano - (da vigneti di oltre 40 anni) - 13,5 % vol.",
 					"Prezzo": "18",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
@@ -2016,7 +2016,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				}
 			]
 		},
