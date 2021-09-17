@@ -2930,7 +2930,7 @@
 					"attivo": false
 				},
 				{
-					"attivo": false,
+					"attivo": true,
 					"Nome": "Spumone artigianale alla Cupeta Salentina",
 					"Prezzo": "5",
 					"Glutine": true,
@@ -2981,7 +2981,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"attivo": false,
