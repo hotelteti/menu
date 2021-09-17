@@ -2891,7 +2891,7 @@
 					"Vegano": true,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true
+					"attivo": false
 				},
 				{
 					"Nome": "Tartufo artigianale nocciola e cioccolato fondente ",
