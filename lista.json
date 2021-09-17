@@ -1568,7 +1568,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true,
+					"attivo": false,
 					"Descrizione": "20 cl"
 				},
 				{
@@ -1587,7 +1587,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": true,
+					"attivo": false,
 					"Descrizione": "40 cl"
 				},
 				{
