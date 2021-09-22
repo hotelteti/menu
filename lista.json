@@ -58,7 +58,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Insalata di mare con gamberi¹, seppia², calamaro², polpo², julienne di verdure, ciuffo di cipolla Tropea in agrodolce con un graffio di maionese di sedano e rapa rossa",
@@ -115,11 +115,11 @@
 					"Vegano": false,
 					"Vegetariano": true,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@main/images/5F66C15E-D3E3-4C10-85BF-0C4D2C8D430B_1_201_a.jpeg",
-					"attivo": false,
+					"attivo": true,
 					"Nome": "Crudità dello ionio",
 					"Prezzo": "25",
 					"Descrizione": "Scampo, tris di gamberi, tartare di tonno rosso con cipolla di Tropea e olive nere, carpaccio di spigola con mela verde, seppia e  pesca noce , salsa di barbabietola rossa, zenzero in agrodolce e capsule di olio evo",
@@ -290,7 +290,7 @@
 					"Vegano": true,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				}
 			]
 		},
@@ -333,7 +333,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false,
+					"attivo": true,
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@main/images/A3757457-6CE8-441D-B714-2C630FCC13E2_1_201_a.jpeg"
 				},
 				{
@@ -353,7 +353,7 @@
 					"Vegetariano": false,
 					"Bio": true,
 					"Foto": "https://cdn.jsdelivr.net/gh/hotelteti/menu@main/images/2A5BDA84-2A2C-48CC-89AF-B82BB75463C4_1_201_a.jpeg",
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Polpo² alla Pignata con pomodorino ciliegino e crostini",
@@ -1568,7 +1568,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false,
+					"attivo": true,
 					"Descrizione": "20 cl"
 				},
 				{
@@ -1587,7 +1587,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false,
+					"attivo": true,
 					"Descrizione": "40 cl"
 				},
 				{
@@ -1644,7 +1644,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false,
+					"attivo": true,
 					"Descrizione": "33 cl"
 				},
 				{
@@ -1701,7 +1701,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false,
+					"attivo": true,
 					"Descrizione": "mezzo litro"
 				},
 				{
@@ -1720,7 +1720,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false,
+					"attivo": true,
 					"Descrizione": "calice"
 				},
 				{
@@ -1783,7 +1783,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Beggia  - Birra Salento",
@@ -2016,7 +2016,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				}
 			]
 		},
@@ -2059,7 +2059,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Anima Rosa - Vigne Monache",
@@ -2078,7 +2078,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Acheta - Caiaffa - BIO",
@@ -2278,7 +2278,7 @@
 				{
 					"Nome": "Danze della Contessa - Bonsegna",
 					"Descrizione": "Nardò Bianco DOC - 100% Chardonnay - 13 % vol.",
-					"Prezzo": "16",
+					"Prezzo": "19",
 					"Anidride solforosa o solfiti": false,
 					"Arachidi": false,
 					"Crostacei": false,
@@ -2292,7 +2292,7 @@
 					"Vegano": false,
 					"Vegetariano": false,
 					"Bio": false,
-					"attivo": false
+					"attivo": true
 				},
 				{
 					"Nome": "Greco - L’Archetipo - BIO da agricoltura sinergica",
@@ -2414,7 +2414,7 @@
 			"Titolo": "Bollicine",
 			"Piatto": [
 				{
-					"attivo": false,
+					"attivo": true,
 					"Nome": "Piccole bolle salentine - Duca Carlo Guarini.",
 					"Prezzo": "20",
 					"Descrizione": "Spumante bianco extra dry, 100% Negramaro - 11,5 % vol",
